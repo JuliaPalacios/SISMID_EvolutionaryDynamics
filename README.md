@@ -1,7 +1,7 @@
 # SISMID
 
 Instructor(s):
-Palacios, Julia, Muller, Nicola
+Palacios, Julia, Müller, Nicola
 
 Prerequisites: This module assumes knowledge of the material in Module 1: Probability and Statistical Inference, though not necessarily from taking that module.
 
@@ -20,27 +20,27 @@ Topics:
 
 5. Bayesian phylogenetics
 
-6. Advanced Bayesian Phylogenetics: Phyloalignment
+6. <del> Advanced Bayesian Phylogenetics: Phyloalignment </del>
 
-7. Advanced Bayesian Phylogenetics: Recombination
+7. Advanced Bayesian Phylogenetics: Recombination and Reassortment *Nicola*
 
-8. Estimating Evolutionary Rates and Divergence times
+8. Estimating Evolutionary Rates and Divergence times: Is there clock signal.
 
 9. Estimating rates and dates from time-stamped sequences: A hands-on practical
 
-10.Viral epidemiology and the Coalescent
+10. Viral epidemiology and the Coalescent
 
 11. Non-Parametric Bayesian Population Dynamics Inference *Julia
 
-12.Revealing the evolutionary dynamics of influenza
+12. Revealing the evolutionary dynamics of influenza
 
-13.Phylogeography
+13. Accounting for population structure
 
-14.Phylogeographic inference in discrete space: A hands-on practical
+14. Phylogeographic inference in discrete space: A hands-on practical
 
-15.Phylogeographic inference in continuous space: A hands-on practical
+15. Phylogeographic inference in continuous space: A hands-on practical
 
-16.Learning to Count:Tests for Evolutionary Innovation and Robust Sequence Distance
+16. Learning to Count:Tests for Evolutionary Innovation and Robust Sequence Distance
 Estimation  [Potential change: Julia to testing different tree distributions  https://juliapalacios.github.io/research/publications/2019.12.23.887125v1.full.pdf]
 
-17.Research Acknowledgments
+17. Research Acknowledgments
