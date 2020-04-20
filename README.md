@@ -30,7 +30,7 @@ Topics:
 
 10.Viral epidemiology and the Coalescent
 
-11. Non-Parametric Bayesian Population Dynamics Inference
+11. Non-Parametric Bayesian Population Dynamics Inference *Julia
 
 12.Revealing the evolutionary dynamics of influenza
 
