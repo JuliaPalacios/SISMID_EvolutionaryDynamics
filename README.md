@@ -41,6 +41,6 @@ Topics:
 15.Phylogeographic inference in continuous space: A hands-on practical
 
 16.Learning to Count:Tests for Evolutionary Innovation and Robust Sequence Distance
-Estimation
+Estimation  [Potential change: Julia to testing different tree distributions  https://juliapalacios.github.io/research/publications/2019.12.23.887125v1.full.pdf]
 
 17.Research Acknowledgments
