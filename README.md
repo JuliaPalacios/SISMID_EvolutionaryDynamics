@@ -11,20 +11,36 @@ In particular, the module will cover Bayesian Evolutionary Analysis by Sampling 
 
 Topics:
 1. Introduction to molecular epidemiology and infectious disease phylodynamics
+
 2. Phylogenetic Inference: Sequence Alignment
+
 3. Phylogenetic Inference: Building Trees
+
 4. Alignment and tree reconstruction using Seaview: A hands-on practical
+
 5. Bayesian phylogenetics
+
 6. Advanced Bayesian Phylogenetics: Phyloalignment
+
 7. Advanced Bayesian Phylogenetics: Recombination
+
 8. Estimating Evolutionary Rates and Divergence times
+
 9. Estimating rates and dates from time-stamped sequences: A hands-on practical
+
 10.Viral epidemiology and the Coalescent
+
 11. Non-Parametric Bayesian Population Dynamics Inference
+
 12.Revealing the evolutionary dynamics of influenza
+
 13.Phylogeography
+
 14.Phylogeographic inference in discrete space: A hands-on practical
+
 15.Phylogeographic inference in continuous space: A hands-on practical
+
 16.Learning to Count:Tests for Evolutionary Innovation and Robust Sequence Distance
 Estimation
+
 17.Research Acknowledgments
