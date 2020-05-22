@@ -49,7 +49,7 @@ Estimation  [Potential change: Julia to testing different tree distributions  ht
 The tutorials will all follow the same overall workflow, which will naturally lead to a lot of repetition. 
 
 1st Day: What are tree and how to get them, what is Bayesian Phylogenetics and how to run a Bayesian Phylogenetics analysis
-- Morning: Introduction to Phylogenetics, including how to get from viruses to sequences to trees 
+- Morning: Introduction to Phylogenetics, including how to get from viruses to sequences to trees
     * Running a basic BEAST analysis.
 
 - Afternoon 1: Tree Priors/Population models (Coalescent + birth death models), skyline dynamics *JULIA*:
@@ -68,8 +68,11 @@ The tutorials will all follow the same overall workflow, which will naturally le
 - Afternoon 2: How to visulize and interpret trees, including phylogenetic uncertainty. Dealing with outliers. Alternatively, how to get your data ready. From databases to sequences alignment
     * Plotting trees tutorial
     
-3rd Day: Fancy things
-- How to deal with recombination, Reassortment
+3rd Day: More complex topics
+- Selection, fitness, recombination, Reassortment. *Nicola*
    * Inferring Reassortment networks
+   
+
+
 
   
