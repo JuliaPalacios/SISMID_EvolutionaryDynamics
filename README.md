@@ -49,7 +49,7 @@ Estimation  [Potential change: Julia to testing different tree distributions  ht
 The tutorials will all follow the same overall workflow, which will naturally lead to a lot of repetition.  
 
 1st Day:
-- Morning: Introduction to Phylogenetics
+- Morning: Introduction to Phylogenetics, including how to get from viruses to sequences to trees 
     -> Introduction Beast: Getting beast run.
 
 - Afternoon 1: Tree Priors (Coalescent + birth death models):
@@ -65,11 +65,11 @@ The tutorials will all follow the same overall workflow, which will naturally le
 - Afternoon 1: Accounting for population structure: Neutral trait models (DTA) and structured population models (struct coal + multitype birth death)
     -> Tutorial on one of these models
 
-- Afternoon 2: How to visulize and interpret trees, including phylogenetic uncertainty
+- Afternoon 2: How to visulize and interpret trees, including phylogenetic uncertainty. Dealing with outliers
     -> Plotting trees tutorial
     
 3rd Day:
 - How to deal with recombination, Reassortment
   -> Inferring Reassortment networks
+
   
-- Afternoon 1 Off
