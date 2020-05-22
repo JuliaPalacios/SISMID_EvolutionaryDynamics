@@ -46,13 +46,13 @@ Estimation  [Potential change: Julia to testing different tree distributions  ht
 17. Research Acknowledgments
 
 ## Schedule
-The tutorials will all follow the same overall workflow, which will naturally lead to a lot of repetition.  
+The tutorials will all follow the same overall workflow, which will naturally lead to a lot of repetition. 
 
 1st Day: What are tree and how to get them, what is Bayesian Phylogenetics and how to run a Bayesian Phylogenetics analysis
 - Morning: Introduction to Phylogenetics, including how to get from viruses to sequences to trees 
     * Running a basic BEAST analysis.
 
-- Afternoon 1: Tree Priors (Coalescent + birth death models):
+- Afternoon 1: Tree Priors/Population models (Coalescent + birth death models), skyline dynamics *JULIA*:
     * Running a skyline analysis
 
 - Afternoon 2: Typical issues with beast runs and how to fix them + What are priors
@@ -62,10 +62,10 @@ The tutorials will all follow the same overall workflow, which will naturally le
 - Morning: Evolutionary Models (clock and site models), 
     * Running different clock models, estimate 
 
-- Afternoon 1: Accounting for population structure: Neutral trait models (DTA) and structured population models (struct coal + multitype birth death)
+- Afternoon 1: Accounting for population structure: Neutral trait models (DTA) and structured population models (struct coal + multitype birth death) *NICOLA*
     * Tutorial on one of these models
 
-- Afternoon 2: How to visulize and interpret trees, including phylogenetic uncertainty. Dealing with outliers
+- Afternoon 2: How to visulize and interpret trees, including phylogenetic uncertainty. Dealing with outliers. Alternatively, how to get your data ready. From databases to sequences alignment
     * Plotting trees tutorial
     
 3rd Day: Fancy things
