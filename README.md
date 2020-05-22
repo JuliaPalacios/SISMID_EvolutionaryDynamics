@@ -46,6 +46,30 @@ Estimation  [Potential change: Julia to testing different tree distributions  ht
 17. Research Acknowledgments
 
 ## Schedule
-1st Day:
-* Introduction to Phylogenetics
+The tutorials will all follow the same overall workflow, which will naturally lead to a lot of repetition.  
 
+1st Day:
+- Morning: Introduction to Phylogenetics
+    -> Introduction Beast: Getting beast run.
+
+- Afternoon 1: Tree Priors (Coalescent + birth death models):
+    -> Running a skyline analysis
+
+- Afternoon 2: Typical issues with beast runs and how to fix them + What are priors
+    -> A few shorter tutorials on convergence etc.
+
+2nd Day:
+- Morning: Evolutionary Models (clock and site models), 
+    -> Running different clock models, estimate 
+
+- Afternoon 1: Accounting for population structure: Neutral trait models (DTA) and structured population models (struct coal + multitype birth death)
+    -> Tutorial on one of these models
+
+- Afternoon 2: How to visulize and interpret trees, including phylogenetic uncertainty
+    -> Plotting trees tutorial
+    
+3rd Day:
+- How to deal with recombination, Reassortment
+  -> Inferring Reassortment networks
+  
+- Afternoon 1 Off
