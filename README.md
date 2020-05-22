@@ -44,3 +44,8 @@ Topics:
 Estimation  [Potential change: Julia to testing different tree distributions  https://juliapalacios.github.io/research/publications/2019.12.23.887125v1.full.pdf]
 
 17. Research Acknowledgments
+
+## Schedule
+1st Day:
+* Introduction to Phylogenetics
+
