@@ -49,7 +49,8 @@ Estimation  [Potential change: Julia to testing different tree distributions  ht
 The tutorials will all follow the same overall workflow, which will naturally lead to a lot of repetition. 
 
 1st Day: What are tree and how to get them, what is Bayesian Phylogenetics and how to run a Bayesian Phylogenetics analysis
-- Morning: Introduction to Phylogenetics, including how to get from viruses to sequences to trees *Nidia*
+- Morning Lecture 1: Introduction to Phylogenetics,including how to get from viruses to sequences to trees *Julia*
+  Morning Lecture 2: Intro to Beast *Nidia*
     * Running a basic BEAST analysis. Suggested tutorial: [https://taming-the-beast.org/tutorials/Introduction-to-BEAST2/](https://taming-the-beast.org/tutorials/Introduction-to-BEAST2/)
 
 - Afternoon 1: Evolutionary Models (clock and site models), 
