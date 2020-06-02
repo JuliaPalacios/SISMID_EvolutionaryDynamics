@@ -52,18 +52,20 @@ The tutorials will all follow the same overall workflow, which will naturally le
 - Morning: Introduction to Phylogenetics, including how to get from viruses to sequences to trees
     * Running a basic BEAST analysis. Suggested tutorial: [https://taming-the-beast.org/tutorials/Introduction-to-BEAST2/](https://taming-the-beast.org/tutorials/Introduction-to-BEAST2/)
 
-- Afternoon 1: Tree Priors/Population models (Coalescent + birth death models), skyline dynamics *JULIA*:
-    * Running a skyline analysis. Suggested tutorial: [https://taming-the-beast.org/tutorials/Skyline-plots/](https://taming-the-beast.org/tutorials/Skyline-plots/)
-
-- Afternoon 2: Typical issues with beast runs and how to fix them + What are priors
-    * A few shorter tutorials on convergence etc. Suggested Tutorials: [https://taming-the-beast.org/tutorials/Troubleshooting/](https://taming-the-beast.org/tutorials/Troubleshooting/), [https://taming-the-beast.org/tutorials/Prior-selection/](https://taming-the-beast.org/tutorials/Prior-selection/)
-
-2nd Day: How to deal with different evolutionary and population processes and maybe how to present your analyses
-- Morning: Evolutionary Models (clock and site models), 
+- Afternoon 1: Evolutionary Models (clock and site models), 
     * Running different clock models, estimate. Suggested tutorials: [https://taming-the-beast.org/tutorials/Molecular-Dating-Tutorial/](https://taming-the-beast.org/tutorials/Molecular-Dating-Tutorial/), [https://taming-the-beast.org/tutorials/Substitution-model-averaging/](https://taming-the-beast.org/tutorials/Substitution-model-averaging/)
 
-- Afternoon 1: Accounting for population structure: Neutral trait models (DTA) and structured population models (struct coal + multitype birth death) *NICOLA*
+- Afternoon 2: Tree Priors/Population models (Coalescent + birth death models), skyline dynamics *JULIA*:
+    * Running a skyline analysis. Suggested tutorial: [https://taming-the-beast.org/tutorials/Skyline-plots/](https://taming-the-beast.org/tutorials/Skyline-plots/)
+
+2nd Day: How to deal with different evolutionary and population processes and maybe how to present your analyses
+
+- Morning: Accounting for population structure: Neutral trait models (DTA) and structured population models (struct coal + multitype birth death) *NICOLA*
     * Tutorial on one of these models. Suggested Tutorials: [https://taming-the-beast.org/tutorials/Mascot-Tutorial/](https://taming-the-beast.org/tutorials/Mascot-Tutorial/), [https://taming-the-beast.org/tutorials/Structured-birth-death-model/](https://taming-the-beast.org/tutorials/Structured-birth-death-model/).
+    
+- Afternoon 1: Typical issues with beast runs and how to fix them + What are priors
+    * A few shorter tutorials on convergence etc. Suggested Tutorials: [https://taming-the-beast.org/tutorials/Troubleshooting/](https://taming-the-beast.org/tutorials/Troubleshooting/), [https://taming-the-beast.org/tutorials/Prior-selection/](https://taming-the-beast.org/tutorials/Prior-selection/)
+
 
 - Afternoon 2: How to visulize and interpret trees, including phylogenetic uncertainty. Dealing with outliers. Alternatively, how to get your data ready. From databases to sequences alignment
     * Plotting trees tutorial
