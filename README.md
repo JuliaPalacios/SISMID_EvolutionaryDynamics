@@ -49,29 +49,41 @@ Estimation  [Potential change: Julia to testing different tree distributions  ht
 The tutorials will all follow the same overall workflow, which will naturally lead to a lot of repetition. 
 
 1st Day: What are tree and how to get them, what is Bayesian Phylogenetics and how to run a Bayesian Phylogenetics analysis
-- Morning Lecture 1: Introduction to Phylogenetics,including how to get from viruses to sequences to trees *Julia*
-  Morning Lecture 2: Intro to Beast *Nidia*
+9:00: Introduction to Phylogenetics,including how to get from viruses to sequences to trees *Julia*
+
+10:00: Break
+
+10:15: Intro to Beast *Nidia*
     * Running a basic BEAST analysis. Suggested tutorial: [https://taming-the-beast.org/tutorials/Introduction-to-BEAST2/](https://taming-the-beast.org/tutorials/Introduction-to-BEAST2/)
 
-- Afternoon 1: Evolutionary Models (clock and site models), 
+12:00: Lunch
+
+13:00: Evolutionary Models (clock and site models), 
     * Running different clock models, estimate. Suggested tutorials: [https://taming-the-beast.org/tutorials/Molecular-Dating-Tutorial/](https://taming-the-beast.org/tutorials/Molecular-Dating-Tutorial/), [https://taming-the-beast.org/tutorials/Substitution-model-averaging/](https://taming-the-beast.org/tutorials/Substitution-model-averaging/)
 
-- Afternoon 2: Tree Priors/Population models (Coalescent + birth death models), skyline dynamics *JULIA*:
-    * Running a skyline analysis. Suggested tutorial: [https://taming-the-beast.org/tutorials/Skyline-plots/](https://taming-the-beast.org/tutorials/Skyline-plots/)
-
-2nd Day: How to deal with different evolutionary and population processes and maybe how to present your analyses
-
-- Morning: Accounting for population structure: Neutral trait models (DTA) and structured population models (struct coal + multitype birth death) *NICOLA*
-    * Tutorial on one of these models. Suggested Tutorials: [https://taming-the-beast.org/tutorials/Mascot-Tutorial/](https://taming-the-beast.org/tutorials/Mascot-Tutorial/), [https://taming-the-beast.org/tutorials/Structured-birth-death-model/](https://taming-the-beast.org/tutorials/Structured-birth-death-model/).
+14:00: Break
     
-- Afternoon 1: Convergence, other MCMC related stuff, typical issues with beast runs and how to fix them + What are priors
+14:15: Convergence, other MCMC related stuff, typical issues with beast runs and how to fix them + What are priors
     * A few shorter tutorials on convergence etc. Suggested Tutorials: [https://taming-the-beast.org/tutorials/Troubleshooting/](https://taming-the-beast.org/tutorials/Troubleshooting/), [https://taming-the-beast.org/tutorials/Prior-selection/](https://taming-the-beast.org/tutorials/Prior-selection/)
 
-- Afternoon 2: How to visulize and interpret trees, including phylogenetic uncertainty. Dealing with outliers. Alternatively, how to get your data ready. From databases to sequences alignment *Nidia*
+2nd Day: How to deal with different evolutionary and population processes and maybe how to present your analyses
+9:00: Tree Priors/Population models (Coalescent + birth death models), skyline dynamics *JULIA*:
+    * Running a skyline analysis. Suggested tutorial: [https://taming-the-beast.org/tutorials/Skyline-plots/](https://taming-the-beast.org/tutorials/Skyline-plots/)
+
+10:00 Break
+
+10:15: Accounting for population structure: Neutral trait models (DTA) and structured population models (struct coal + multitype birth death) *NICOLA*
+    * Tutorial on one of these models. Suggested Tutorials: [https://taming-the-beast.org/tutorials/Mascot-Tutorial/](https://taming-the-beast.org/tutorials/Mascot-Tutorial/), [https://taming-the-beast.org/tutorials/Structured-birth-death-model/](https://taming-the-beast.org/tutorials/Structured-birth-death-model/).
+
+12:00: Lunch   
+
+14:00: Break
+
+14:15: How to visulize and interpret trees, including phylogenetic uncertainty. Dealing with outliers. Alternatively, how to get your data ready. From databases to sequences alignment *Nidia*
     * Plotting trees tutorial
     
 3rd Day: More complex topics
-- Selection, fitness, recombination, Reassortment. *Nicola*
+9:00: Selection, fitness, recombination, Reassortment. *Nicola*
    * Inferring Reassortment networks. Suggested Tutorial: [https://taming-the-beast.org/tutorials/Reassortment-Tutorial/](https://taming-the-beast.org/tutorials/Reassortment-Tutorial/)
    
 
