@@ -49,6 +49,7 @@ Estimation  [Potential change: Julia to testing different tree distributions  ht
 The tutorials will all follow the same overall workflow, which will naturally lead to a lot of repetition. 
 
 1st Day: What are tree and how to get them, what is Bayesian Phylogenetics and how to run a Bayesian Phylogenetics analysis
+
 9:00: Introduction to Phylogenetics,including how to get from viruses to sequences to trees *Julia*
 
 10:00: Break
@@ -67,6 +68,7 @@ The tutorials will all follow the same overall workflow, which will naturally le
     * A few shorter tutorials on convergence etc. Suggested Tutorials: [https://taming-the-beast.org/tutorials/Troubleshooting/](https://taming-the-beast.org/tutorials/Troubleshooting/), [https://taming-the-beast.org/tutorials/Prior-selection/](https://taming-the-beast.org/tutorials/Prior-selection/)
 
 2nd Day: How to deal with different evolutionary and population processes and maybe how to present your analyses
+
 9:00: Tree Priors/Population models (Coalescent + birth death models), skyline dynamics *JULIA*:
     * Running a skyline analysis. Suggested tutorial: [https://taming-the-beast.org/tutorials/Skyline-plots/](https://taming-the-beast.org/tutorials/Skyline-plots/)
 
@@ -83,6 +85,7 @@ The tutorials will all follow the same overall workflow, which will naturally le
     * Plotting trees tutorial
     
 3rd Day: More complex topics
+
 9:00: Selection, fitness, recombination, Reassortment. *Nicola*
    * Inferring Reassortment networks. Suggested Tutorial: [https://taming-the-beast.org/tutorials/Reassortment-Tutorial/](https://taming-the-beast.org/tutorials/Reassortment-Tutorial/)
    
