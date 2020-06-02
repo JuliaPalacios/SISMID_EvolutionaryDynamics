@@ -52,20 +52,22 @@ The tutorials will all follow the same overall workflow, which will naturally le
 
 9:00: Introduction to Phylogenetics,including how to get from viruses to sequences to trees *Julia*
 
-10:00: Break
+10:30: Break
 
-10:15: Intro to Beast *Nidia*
+10:45: Intro to Beast *Nidia*
     * Running a basic BEAST analysis. Suggested tutorial: [https://taming-the-beast.org/tutorials/Introduction-to-BEAST2/](https://taming-the-beast.org/tutorials/Introduction-to-BEAST2/)
 
-12:00: Lunch
+12:30: Lunch
 
-13:00: Evolutionary Models (clock and site models), 
+13:30: Evolutionary Models (clock and site models), 
     * Running different clock models, estimate. Suggested tutorials: [https://taming-the-beast.org/tutorials/Molecular-Dating-Tutorial/](https://taming-the-beast.org/tutorials/Molecular-Dating-Tutorial/), [https://taming-the-beast.org/tutorials/Substitution-model-averaging/](https://taming-the-beast.org/tutorials/Substitution-model-averaging/)
 
-15:00: Break
+15:30: Break
     
-15:15: Convergence, other MCMC related stuff, typical issues with beast runs and how to fix them + What are priors
+15:45: Convergence, other MCMC related stuff, typical issues with beast runs and how to fix them + What are priors
     * A few shorter tutorials on convergence etc. Suggested Tutorials: [https://taming-the-beast.org/tutorials/Troubleshooting/](https://taming-the-beast.org/tutorials/Troubleshooting/), [https://taming-the-beast.org/tutorials/Prior-selection/](https://taming-the-beast.org/tutorials/Prior-selection/)
+
+17:30 End official programm -> Q&A
 
 2nd Day: How to deal with different evolutionary and population processes and maybe how to present your analyses
 
@@ -77,13 +79,15 @@ The tutorials will all follow the same overall workflow, which will naturally le
 11:00: Accounting for population structure: Neutral trait models (DTA) and structured population models (struct coal + multitype birth death) *NICOLA*
     * Tutorial on one of these models. Suggested Tutorials: [https://taming-the-beast.org/tutorials/Mascot-Tutorial/](https://taming-the-beast.org/tutorials/Mascot-Tutorial/), [https://taming-the-beast.org/tutorials/Structured-birth-death-model/](https://taming-the-beast.org/tutorials/Structured-birth-death-model/).
 
-12:00: Lunch   
+12:30: Lunch   
 
 15:00: Break
 
 15:15: How to visulize and interpret trees, including phylogenetic uncertainty. Dealing with outliers. Alternatively, how to get your data ready. From databases to sequences alignment *Nidia*
     * Plotting trees tutorial
     
+17:30 End official programm -> Q&A
+
 3rd Day: More complex topics
 
 9:00: Selection, fitness, recombination, Reassortment. *Nicola*
