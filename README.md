@@ -1,7 +1,7 @@
 # SISMID
 
 Instructor(s):
-Palacios, Julia, Müller, Nicola
+Palacios, Julia; Müller, Nicola; Trovao, Nidia
 
 Prerequisites: This module assumes knowledge of the material in Module 1: Probability and Statistical Inference, though not necessarily from taking that module.
 
@@ -49,7 +49,7 @@ Estimation  [Potential change: Julia to testing different tree distributions  ht
 The tutorials will all follow the same overall workflow, which will naturally lead to a lot of repetition. 
 
 1st Day: What are tree and how to get them, what is Bayesian Phylogenetics and how to run a Bayesian Phylogenetics analysis
-- Morning: Introduction to Phylogenetics, including how to get from viruses to sequences to trees
+- Morning: Introduction to Phylogenetics, including how to get from viruses to sequences to trees *Nidia*
     * Running a basic BEAST analysis. Suggested tutorial: [https://taming-the-beast.org/tutorials/Introduction-to-BEAST2/](https://taming-the-beast.org/tutorials/Introduction-to-BEAST2/)
 
 - Afternoon 1: Evolutionary Models (clock and site models), 
@@ -66,7 +66,7 @@ The tutorials will all follow the same overall workflow, which will naturally le
 - Afternoon 1: Convergence, other MCMC related stuff, typical issues with beast runs and how to fix them + What are priors
     * A few shorter tutorials on convergence etc. Suggested Tutorials: [https://taming-the-beast.org/tutorials/Troubleshooting/](https://taming-the-beast.org/tutorials/Troubleshooting/), [https://taming-the-beast.org/tutorials/Prior-selection/](https://taming-the-beast.org/tutorials/Prior-selection/)
 
-- Afternoon 2: How to visulize and interpret trees, including phylogenetic uncertainty. Dealing with outliers. Alternatively, how to get your data ready. From databases to sequences alignment
+- Afternoon 2: How to visulize and interpret trees, including phylogenetic uncertainty. Dealing with outliers. Alternatively, how to get your data ready. From databases to sequences alignment *Nidia*
     * Plotting trees tutorial
     
 3rd Day: More complex topics
