@@ -63,9 +63,8 @@ The tutorials will all follow the same overall workflow, which will naturally le
 - Morning: Accounting for population structure: Neutral trait models (DTA) and structured population models (struct coal + multitype birth death) *NICOLA*
     * Tutorial on one of these models. Suggested Tutorials: [https://taming-the-beast.org/tutorials/Mascot-Tutorial/](https://taming-the-beast.org/tutorials/Mascot-Tutorial/), [https://taming-the-beast.org/tutorials/Structured-birth-death-model/](https://taming-the-beast.org/tutorials/Structured-birth-death-model/).
     
-- Afternoon 1: Typical issues with beast runs and how to fix them + What are priors
+- Afternoon 1: Convergence, other MCMC related stuff, typical issues with beast runs and how to fix them + What are priors
     * A few shorter tutorials on convergence etc. Suggested Tutorials: [https://taming-the-beast.org/tutorials/Troubleshooting/](https://taming-the-beast.org/tutorials/Troubleshooting/), [https://taming-the-beast.org/tutorials/Prior-selection/](https://taming-the-beast.org/tutorials/Prior-selection/)
-
 
 - Afternoon 2: How to visulize and interpret trees, including phylogenetic uncertainty. Dealing with outliers. Alternatively, how to get your data ready. From databases to sequences alignment
     * Plotting trees tutorial
