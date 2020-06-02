@@ -54,13 +54,15 @@ The tutorials will all follow the same overall workflow, which will naturally le
 
 10:30: Break
 
-10:45: Intro to Beast *Nidia*
+10:45: From databases to sequences alignment *Nidia*
+11:45: Intro to Beast *Nidia*
     * Running a basic BEAST analysis. Suggested tutorial: [https://taming-the-beast.org/tutorials/Introduction-to-BEAST2/](https://taming-the-beast.org/tutorials/Introduction-to-BEAST2/)
 
 12:30: Lunch
 
 13:30: Evolutionary Models (clock and site models), 
     * Running different clock models, estimate. Suggested tutorials: [https://taming-the-beast.org/tutorials/Molecular-Dating-Tutorial/](https://taming-the-beast.org/tutorials/Molecular-Dating-Tutorial/), [https://taming-the-beast.org/tutorials/Substitution-model-averaging/](https://taming-the-beast.org/tutorials/Substitution-model-averaging/)
+    * TempEst tutoral *Nidia*
 
 15:30: Break
     
@@ -71,7 +73,7 @@ The tutorials will all follow the same overall workflow, which will naturally le
 
 2nd Day: How to deal with different evolutionary and population processes and maybe how to present your analyses
 
-9:00: Tree Priors/Population models (Coalescent + birth death models), skyline dynamics *JULIA*:
+9:00: Tree Priors/Population models (Coalescent + birth death models), skyline dynamics *Julia*
     * Running a skyline analysis. Suggested tutorial: [https://taming-the-beast.org/tutorials/Skyline-plots/](https://taming-the-beast.org/tutorials/Skyline-plots/)
 
 10:45 Break
@@ -83,7 +85,7 @@ The tutorials will all follow the same overall workflow, which will naturally le
 
 15:00: Break
 
-15:15: How to visulize and interpret trees, including phylogenetic uncertainty. Dealing with outliers. Alternatively, how to get your data ready. From databases to sequences alignment *Nidia*
+15:15: How to visulize and interpret trees, including phylogenetic uncertainty. *Nidia*
     * Plotting trees tutorial
     
 17:30 End official programm -> Q&A
