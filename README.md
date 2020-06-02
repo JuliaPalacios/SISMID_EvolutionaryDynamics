@@ -87,6 +87,7 @@ The tutorials will all follow the same overall workflow, which will naturally le
 
 15:15: How to visulize and interpret trees, including phylogenetic uncertainty. *Nidia*
     * Plotting trees tutorial
+    * Distances on trees, comparison of tree distributions and convergence of tree distribution *Julia*
     
 17:30 End official programm -> Q&A
 
