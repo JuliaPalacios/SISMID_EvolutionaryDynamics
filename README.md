@@ -58,7 +58,7 @@ The tutorials will all follow the same overall workflow, which will naturally le
 
 11:45: Intro to Beast *Nidia*
 
-- Running a basic BEAST analysis. Suggested SARS-CoV-2 tutorial: [https://taming-the-beast.org/tutorials/Introduction-to-BEAST2/](https://taming-the-beast.org/tutorials/Introduction-to-BEAST2/)
+- Running a basic BEAST analysis. Suggested SARS-CoV-2 tutorial: [https://taming-the-beast.org/tutorials/Introduction-to-BEAST2/](https://taming-the-beast.org/tutorials/Introduction-to-BEAST2/) *Nidia*
 
 12:30: Lunch
 
@@ -82,7 +82,7 @@ The tutorials will all follow the same overall workflow, which will naturally le
 
 10:45 Break
 
-11:00: Running a skyline analysis. Suggested SARS-CoV-2 tutorial: [https://taming-the-beast.org/tutorials/Skyline-plots/](https://taming-the-beast.org/tutorials/Skyline-plots/)
+11:00: Running a skyline analysis. Suggested SARS-CoV-2 tutorial: [https://taming-the-beast.org/tutorials/Skyline-plots/](https://taming-the-beast.org/tutorials/Skyline-plots/) *Julia*
 
 12:30: Lunch   
 
