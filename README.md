@@ -58,21 +58,21 @@ The tutorials will all follow the same overall workflow, which will naturally le
 
 11:45: Intro to Beast *Nidia*
 
--Running a basic BEAST analysis. Suggested tutorial: [https://taming-the-beast.org/tutorials/Introduction-to-BEAST2/](https://taming-the-beast.org/tutorials/Introduction-to-BEAST2/)
+- Running a basic BEAST analysis. Suggested tutorial: [https://taming-the-beast.org/tutorials/Introduction-to-BEAST2/](https://taming-the-beast.org/tutorials/Introduction-to-BEAST2/)
 
 12:30: Lunch
 
 13:30: Evolutionary Models (clock and site models) *Nicola*
 
--Running different clock models, estimate. Suggested tutorials: [https://taming-the-beast.org/tutorials/Molecular-Dating-Tutorial/](https://taming-the-beast.org/tutorials/Molecular-Dating-Tutorial/), [https://taming-the-beast.org/tutorials/Substitution-model-averaging/](https://taming-the-beast.org/tutorials/Substitution-model-averaging/)
+- Running different clock models, estimate. Suggested tutorials: [https://taming-the-beast.org/tutorials/Molecular-Dating-Tutorial/](https://taming-the-beast.org/tutorials/Molecular-Dating-Tutorial/), [https://taming-the-beast.org/tutorials/Substitution-model-averaging/](https://taming-the-beast.org/tutorials/Substitution-model-averaging/)
 
--TempEst tutoral *Nidia*
+- TempEst tutoral *Nidia*
 
 15:30: Break
     
 15:45: Convergence, other MCMC related stuff, typical issues with beast runs and how to fix them + What are priors *Nicola*
 
--A few shorter tutorials on convergence etc. Suggested Tutorials: [https://taming-the-beast.org/tutorials/Troubleshooting/](https://taming-the-beast.org/tutorials/Troubleshooting/), [https://taming-the-beast.org/tutorials/Prior-selection/](https://taming-the-beast.org/tutorials/Prior-selection/)
+- A few shorter tutorials on convergence etc. Suggested Tutorials: [https://taming-the-beast.org/tutorials/Troubleshooting/](https://taming-the-beast.org/tutorials/Troubleshooting/), [https://taming-the-beast.org/tutorials/Prior-selection/](https://taming-the-beast.org/tutorials/Prior-selection/)
 
 17:30 End official programm -> Q&A
 
@@ -80,7 +80,7 @@ The tutorials will all follow the same overall workflow, which will naturally le
 
 9:00: Tree Priors/Population models (Coalescent + birth death models), skyline dynamics *Julia*
 
--Running a skyline analysis. Suggested tutorial: [https://taming-the-beast.org/tutorials/Skyline-plots/](https://taming-the-beast.org/tutorials/Skyline-plots/)
+- Running a skyline analysis. Suggested tutorial: [https://taming-the-beast.org/tutorials/Skyline-plots/](https://taming-the-beast.org/tutorials/Skyline-plots/)
 
 10:45 Break
 
@@ -90,15 +90,15 @@ The tutorials will all follow the same overall workflow, which will naturally le
 
 13:00: Accounting for population structure: Neutral trait models (DTA) and structured population models (struct coal + multitype birth death) *Nicola*
 
--Tutorial on one of these models. Suggested Tutorials: [https://taming-the-beast.org/tutorials/Mascot-Tutorial/](https://taming-the-beast.org/tutorials/Mascot-Tutorial/), [https://taming-the-beast.org/tutorials/Structured-birth-death-model/](https://taming-the-beast.org/tutorials/Structured-birth-death-model/).
+- Tutorial on one of these models. Suggested Tutorials: [https://taming-the-beast.org/tutorials/Mascot-Tutorial/](https://taming-the-beast.org/tutorials/Mascot-Tutorial/), [https://taming-the-beast.org/tutorials/Structured-birth-death-model/](https://taming-the-beast.org/tutorials/Structured-birth-death-model/).
 
 15:00: Break
 
 15:15: How to visulize and interpret trees, including phylogenetic uncertainty. *Nidia*
 
--Plotting trees tutorial
+- Plotting trees tutorial
 
--Distances on trees, comparison of tree distributions and convergence of tree distribution *Julia*
+- Distances on trees, comparison of tree distributions and convergence of tree distribution *Julia*
     
 17:30 End official programm -> Q&A
 
