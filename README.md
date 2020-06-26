@@ -52,15 +52,8 @@ Monday 27th: My tree is not a tree, help!
 9:05 - 10:30: *Tutorial Nicola:* Bacter and CoalRe
                 Tutorials: [https://taming-the-beast.org/tutorials/Bacter-Tutorial/](https://taming-the-beast.org/tutorials/Bacter-Tutorial/), [https://taming-the-beast.org/tutorials/Reassortment-Tutorial/](https://taming-the-beast.org/tutorials/Reassortment-Tutorial/)
 
-10:30 - 11:00 *Closing Remarks and Q&A Everyone
+10:30 - 11:00 *Closing Remarks and Q&A Everyone*
 
-3rd Day: More complex topics
-
-9:00: Selection, fitness, recombination, Reassortment. *Nicola*
-
-- Inferring Reassortment networks. Suggested Influenza Tutorial: [https://taming-the-beast.org/tutorials/Reassortment-Tutorial/](https://taming-the-beast.org/tutorials/Reassortment-Tutorial/)
-   
-12:30 End official program -> Q&A
 
 
 Prerequisites: This module assumes knowledge of the material in Module 1: Probability and Statistical Inference, though not necessarily from taking that module.
