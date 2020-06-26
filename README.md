@@ -42,6 +42,8 @@ Monday 26th: Estimating population level trends using phylogenetic trees
 13:00 - 14:20 *Lecture + Tutorials: Julia & Nidia* Tree distances, tree convergence, how to visualize and interpret trees  Julia & Nidia
                 Slides: link here
                 Tutorials: link here
+                
+15:00 - 16:00: Phylo chat office hours
 
 
 Monday 27th: My tree is not a tree, help!
