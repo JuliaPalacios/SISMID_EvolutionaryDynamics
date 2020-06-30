@@ -20,7 +20,7 @@ Monday 27th: Getting started with BEAST
 12:35 - 13:15 *Tutorial Nicola:* clock and site models
                 Tutorials: [https://taming-the-beast.org/tutorials/Molecular-Dating-Tutorial/](https://taming-the-beast.org/tutorials/Molecular-Dating-Tutorial/), [https://taming-the-beast.org/tutorials/Substitution-model-averaging/](https://taming-the-beast.org/tutorials/Substitution-model-averaging/)
                 
-13:30 - 14:20: *Lecture + Tutorial Joelle + Nicola:* Priors and convergence issues and how to solve them
+13:30 - 14:20: *Lecture + Tutorial Everyone:* Priors and convergence issues and how to solve them
                 Tutorials: [https://taming-the-beast.org/tutorials/Troubleshooting/](https://taming-the-beast.org/tutorials/Troubleshooting/), [https://taming-the-beast.org/tutorials/Prior-selection/](https://taming-the-beast.org/tutorials/Prior-selection/)
                 
 15:00 - 16:00: Phylo chat office hours
