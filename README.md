@@ -10,7 +10,7 @@ Monday 27th: Getting started with BEAST
 8:00 - 8:50: *Lecture Julia:* Intro Bayesian Phylogenetics 
                 Slides: TBA
 
-9:05 - 11:00  *Lecture + Tutorial Nidia:*  Getting BEAST2 to run
+9:05 - 11:00  *Lecture Nidia + Tutorial Joelle:*  Getting BEAST2 to run
                 Slides: TBA
                 Tutorial: https://taming-the-beast.org/tutorials/Introduction-to-BEAST2/](https://taming-the-beast.org/tutorials/Introduction-to-BEAST2/)
 
