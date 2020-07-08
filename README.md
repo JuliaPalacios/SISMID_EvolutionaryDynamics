@@ -66,3 +66,15 @@ Prerequisites: This module assumes knowledge of the material in Module 1: Probab
 This module covers the use of phylogenetic and bioinformatic tools to analyze pathogen genetic variation and to gain insight into the processes that shape their diversity. The module focuses on phylogenies and how these relate to population genetic processes in infectious diseases.
 
 In particular, the module will cover Bayesian Evolutionary Analysis by Sampling Trees 2 (BEAST2). This software will be used in class exercises that are mainly focused on estimating epidemic time scales, reconstruction changes in viral population sizes through time and inference of spatial diffusion of viruses. Evolutionary processes including recombination and selection will also be considered.
+
+# Some Reading Material
+
+- Provides and overview of packages in BEAST2 with explanaitons on the different models: [https://doi.org/10.1371/journal.pcbi.1006650](https://doi.org/10.1371/journal.pcbi.1006650)
+
+- Paper showing site model over-fitting is ok: [https://www.nature.com/articles/s41467-019-08822-w](https://www.nature.com/articles/s41467-019-08822-w)
+
+- Paper showing how to see if there is temporal signal in data using tip-randomizations: [https://academic.oup.com/mbe/article/32/7/1895/1016979](https://academic.oup.com/mbe/article/32/7/1895/1016979)
+
+- Paper introducing the coalescent with reassortment: [https://doi.org/10.1073/pnas.1918304117](https://doi.org/10.1073/pnas.1918304117)
+
+
