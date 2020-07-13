@@ -1,7 +1,7 @@
 # SISMID
 
 Instructor(s):
-Palacios, Julia; Müller, Nicola; Trovao, Nidia; Barido-Sottani, Joelle
+Palacios, Julia; Müller, Nicola; Trovão, Nídia; Barido-Sottani, Joelle
 
 ## Schedule
 
@@ -10,7 +10,7 @@ Monday 27th: Getting started with BEAST
 8:00 - 8:50: *Lecture Julia, M: Nicola:* Intro Bayesian Phylogenetics 
                 Slides: TBA
 
-9:05 - 11:00  *Lecture Nidia + Tutorial Joelle, M: Joelle:*  Getting BEAST2 to run with SARS2
+9:05 - 11:00  *Lecture Nídia + Tutorial Joelle, M: Joelle:*  Getting BEAST2 to run with SARS2
                 Slides: TBA
                 Tutorial: https://taming-the-beast.org/tutorials/Introduction-to-BEAST2/](https://taming-the-beast.org/tutorials/Introduction-to-BEAST2/)
 
@@ -40,7 +40,7 @@ Tuesday 28th: Estimating population level trends using phylogenetic trees
 11:30 - 13:00 *Tutorial Nicola + Joelle:* Structured Coalescent, Multi Type Birth Death
                 Tutorials: [https://taming-the-beast.org/tutorials/Mascot-Tutorial/](https://taming-the-beast.org/tutorials/Mascot-Tutorial/), [https://taming-the-beast.org/tutorials/Structured-birth-death-model/](https://taming-the-beast.org/tutorials/Structured-birth-death-model/).
                 
-13:00 - 14:20 *Lecture + Tutorials: Julia & Nidia, M: Joelle* Tree distances, tree convergence, how to visualize and interpret trees  Julia & Nidia
+13:00 - 14:20 *Lecture + Tutorials: Julia & Nídia, M: Joelle* Tree distances, tree convergence, how to visualize and interpret trees  Julia & Nídia
                 Slides: TBA
                 Tutorials: TBA
                 
@@ -48,7 +48,7 @@ Tuesday 28th: Estimating population level trends using phylogenetic trees
 
 Wednesday 29th: My tree is not a tree, help!
 
-8:00 - 8:50: *Lecture Nicola, M: Nidia:* Recombination and Reassortment
+8:00 - 8:50: *Lecture Nicola, M: Nídia:* Recombination and Reassortment
                 Slides: link here
 
 9:05 - 10:30: *Tutorial Nicola:* Bacter and CoalRe
