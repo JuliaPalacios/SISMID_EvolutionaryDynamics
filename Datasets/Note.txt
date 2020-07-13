@@ -1,3 +1,4 @@
 Please find 2 datasets in this folder:
 1) Influenza A H3
 2) SARS-CoV-2
+--> Both datasets get to ESS~200 in 15m
