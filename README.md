@@ -17,7 +17,7 @@ Monday 27th: Getting started with BEAST
 
 9:05 - 11:00  *Lecture Nídia + Tutorial Joelle, M: Joelle:*  Getting BEAST2 to run with SARS2
                 Slides: TBA
-                Tutorial: https://taming-the-beast.org/tutorials/Introduction-to-BEAST2/](https://taming-the-beast.org/tutorials/Introduction-to-BEAST2/)
+                Tutorial: [https://taming-the-beast.org/tutorials/Introduction-to-BEAST2/](https://taming-the-beast.org/tutorials/Introduction-to-BEAST2/)
 
 11:30 - 12:20 *Lecture Nicola, M: Julia:* clock and site models
                 Slides: TBA
@@ -25,7 +25,7 @@ Monday 27th: Getting started with BEAST
 12:35 - 13:15 *Tutorial Nicola:* clock and site models with Influenza
                 Tutorials: [https://taming-the-beast.org/tutorials/Molecular-Dating-Tutorial/](https://taming-the-beast.org/tutorials/Molecular-Dating-Tutorial/), [https://taming-the-beast.org/tutorials/Substitution-model-averaging/](https://taming-the-beast.org/tutorials/Substitution-model-averaging/)
                 
-13:30 - 14:20: *NFM Small Lecture Prior + Tutorial Joelle + Small Lecture Joelle on Convergence, M: Nicola:* Priors and convergence issues and how to solve them with SARS2
+13:30 - 14:20: *Short Lecture Prior (Nicola) + Tutorial Joelle + Small Lecture Joelle on Convergence, M: Nicola:* Priors and convergence issues and how to solve them with SARS2
                 Tutorials: [https://taming-the-beast.org/tutorials/Troubleshooting/](https://taming-the-beast.org/tutorials/Troubleshooting/), [https://taming-the-beast.org/tutorials/Prior-selection/](https://taming-the-beast.org/tutorials/Prior-selection/)
                 
 15:00 - 16:00: Phylo chat office hours
@@ -56,7 +56,7 @@ Wednesday 29th: My tree is not a tree, help!
 8:00 - 8:50: *Lecture Nicola, M: Nídia:* Recombination and Reassortment
                 Slides: link here
 
-9:05 - 10:30: *Tutorial Nicola:* Bacter and CoalRe
+9:05 - 10:30: *Tutorial Nicola:* The coalescent with reassortment
                 Tutorials: [https://taming-the-beast.org/tutorials/Reassortment-Tutorial/](https://taming-the-beast.org/tutorials/Reassortment-Tutorial/)
 
 10:30 - 11:00 *Closing Remarks and Q&A Everyone*
