@@ -37,7 +37,7 @@ Tuesday 28th: Estimating population level trends using phylogenetic trees
                 Slides: TBA
                 
 9:05 - 10:30: *Tutorial Julia:* skyline tutorials
-                Tutorial: https://taming-the-beast.org/tutorials/Skyline-plots/](https://taming-the-beast.org/tutorials/Skyline-plots/)
+                Tutorial: [https://taming-the-beast.org/tutorials/Skyline-plots/](https://taming-the-beast.org/tutorials/Skyline-plots/)
 
 10:30 - 11:00 *Lecture Nicola + Joelle:* Structured populations
                 Slides: TBA
