@@ -6,7 +6,7 @@
 <p>  </p>
 
 Instructor(s):
-Palacios, Julia; Müller, Nicola; Trovão, Nídia; Barido-Sottani, Joelle
+Palacios, Julia; Müller, Nicola; Trovão, Nídia; Barido-Sottani, Joëlle
 
 ## Schedule
 
@@ -73,7 +73,7 @@ In particular, the module will cover Bayesian Evolutionary Analysis by Sampling 
 
 # Some Reading Material
 
-- Provides and overview of packages in BEAST2 with explanaitons on the different models: [https://doi.org/10.1371/journal.pcbi.1006650](https://doi.org/10.1371/journal.pcbi.1006650)
+- Provides an overview of packages in BEAST2 with explanations on the different models: [https://doi.org/10.1371/journal.pcbi.1006650](https://doi.org/10.1371/journal.pcbi.1006650)
 
 - Paper showing site model over-fitting is ok: [https://www.nature.com/articles/s41467-019-08822-w](https://www.nature.com/articles/s41467-019-08822-w)
 
