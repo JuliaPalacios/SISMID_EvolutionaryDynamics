@@ -17,7 +17,7 @@ Monday 27th: Getting started with BEAST
 
 9:05 - 11:00  *Lecture Nídia + Tutorial Joelle, M: Joelle:*  Getting BEAST2 to run with SARS2 \
                 Slides: TBA \
-                Tutorial: [https://taming-the-beast.org/tutorials/Introduction-to-BEAST2/](https://taming-the-beast.org/tutorials/Introduction-to-BEAST2/)
+                Tutorial: [Introduction-to-BEAST2](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Introduction-to-BEAST2.pdf?raw=true)
 
 11:30 - 12:20 *Lecture Nicola, M: Julia:* clock and site models \
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2020-07-27_evol_nfm.pptx?raw=true)
