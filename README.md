@@ -42,6 +42,9 @@ Monday 27th: Getting started with BEAST
 
 15:00 - 16:00: Phylo chat office hours
 
+Day 1 additional tutorial suggestions: [molecular dating](https://taming-the-beast.org/tutorials/Molecular-Dating-Tutorial/), [clock and substitution model adequacy](https://taming-the-beast.org/tutorials/adequacy_tutorial/)
+
+
 
 Tuesday 28th: Estimating population level trends using phylogenetic trees
 
@@ -60,6 +63,9 @@ Tuesday 28th: Estimating population level trends using phylogenetic trees
 13:00 - 14:20 *Lecture + Tutorials: Julia & Nídia, M: Joelle* Tree distances, tree convergence, how to visualize and interpret trees  Julia & Nídia
                 Slides: TBA
                 Tutorials: TBA
+                
+Day 2 additional tutorial suggestions: [MultiType tree](https://taming-the-beast.org/tutorials/Structured-coalescent/), [adaptive MC^3](https://taming-the-beast.org/tutorials/CoupledMCMC-Tutorial/)
+
 
 15:00 - 16:00: Phylo chat office hours
 
@@ -75,6 +81,7 @@ Wednesday 29th: My tree is not a tree, help!
 
 13:00 - 14:00: Phylo chat office hours
 
+Day 3 additional tutorial suggestions: [Bacter](https://taming-the-beast.org/tutorials/Bacter-Tutorial/)
 
 
 Prerequisites: This module assumes knowledge of the material in Module 1: Probability and Statistical Inference, though not necessarily from taking that module.
