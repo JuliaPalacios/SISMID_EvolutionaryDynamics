@@ -48,10 +48,10 @@ Day 1 additional tutorial suggestions: [molecular dating](https://taming-the-bea
 
 Tuesday 28th: Estimating population level trends using phylogenetic trees
 
-8:00 - 8:50: *Lecture Julia, M: Joelle:* Lecture tree priors (coalescent+birth death) <br />
+8:00 - 8:50: *Lecture Julia, M: Joelle:* Lecture: tree priors (coalescent+birth death) <br />
                 Slides: TBA
 
-9:05 - 10:30: *Tutorial Julia:* skyline tutorials <br />
+9:05 - 10:30: *Tutorial Julia:* Estimation of effective population size trajectories <br />
                 Tutorial: [https://taming-the-beast.org/tutorials/Skyline-plots/](https://taming-the-beast.org/tutorials/Skyline-plots/)
 
 10:30 - 11:00 *Lecture Nicola + Joelle:* Structured populations <br />
