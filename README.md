@@ -23,7 +23,7 @@ If there are any issue with the installation that occur, please post the error i
 
 Monday 27th: Getting started with BEAST
 
-8:00 - 8:50: *Lecture Julia, M: Nicola:* Intro Bayesian Phylogenetics <br />
+8:00 - 8:50: *Lecture Julia, M: Nicola:* Introduction <br />
                 Slides: TBA
 
 9:05 - 11:00  *Lecture Nídia + Tutorial Joelle, M: Joelle:*  Getting BEAST2 to run with SARS2 <br />
