@@ -64,7 +64,7 @@ Tuesday 28th: Estimating population level trends using phylogenetic trees
                 Slides: TBA
                 Tutorials: TBA
                 
-Day 2 additional tutorial suggestions: [MultiType tree](https://taming-the-beast.org/tutorials/Structured-coalescent/), [adaptive MC^3](https://taming-the-beast.org/tutorials/CoupledMCMC-Tutorial/)
+Day 2 additional tutorial suggestions: [Descrete trait analysis](http://beast.community/workshop_discrete_diffusion), [MultiType tree](https://taming-the-beast.org/tutorials/Structured-coalescent/), [adaptive MC^3](https://taming-the-beast.org/tutorials/CoupledMCMC-Tutorial/)
 
 
 15:00 - 16:00: Phylo chat office hours
