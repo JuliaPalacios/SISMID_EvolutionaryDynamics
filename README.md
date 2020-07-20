@@ -34,7 +34,7 @@ Monday 27th: Getting started with BEAST
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2020-07-27_evol_nfm.pptx?raw=true)
 
 12:35 - 13:15 *Tutorial Nicola:* clock and site models with Influenza <br />
-                Tutorials: [https://taming-the-beast.org/tutorials/Substitution-model-averaging/](https://taming-the-beast.org/tutorials/Substitution-model-averaging/)
+                Tutorials: [https://github.com/nicfel/Substitution-model-averaging/](https://github.com/nicfel/Substitution-model-averaging)
 
 13:30 - 14:20: *Short Lecture Prior (Nicola) + Tutorial Joelle + Small Lecture Joelle on Convergence, M: Nicola:* Priors and convergence issues and how to solve them with SARS2 <br />
                 Slides: [Convergence and troubleshooting](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2020-07-27_troubleshooting.pptx?raw=true) <br />
