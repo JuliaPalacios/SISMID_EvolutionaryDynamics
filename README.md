@@ -16,7 +16,8 @@ In particular, the module will cover Bayesian Evolutionary Analysis by Sampling 
 
 ## Before the course
 
-Please install [BEAST2](https://www.beast2.org/) on the computer that you will be using before the workshop starts. 
+Please install [BEAST2](https://www.beast2.org/) on the computer that you will be using before the workshop starts.
+The tutorials covered here work with the newest version of BEAST2 (which is developped largely independent from BEAST1).
 If there are any issue with the installation that occur, please post the error in the SISMID slack channel mod14evoldynamics.
 
 ## Schedule
