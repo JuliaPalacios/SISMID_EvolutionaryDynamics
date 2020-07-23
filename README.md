@@ -35,7 +35,7 @@ Monday 27th: Getting started with BEAST
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2020-07-27_evol_nfm.pptx?raw=true)
 
 12:35 - 13:15 *Tutorial Nicola:* clock and site models with Influenza <br />
-                Tutorials: [https://github.com/nicfel/Substitution-model-averaging/](https://github.com/nicfel/Substitution-model-averaging)
+                Tutorials: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/tree/master/Tutorials/2020-07-27_BModelTest)
 
 13:30 - 14:20: *Short Lecture Prior (Nicola) + Tutorial Joelle + Small Lecture Joelle on Convergence, M: Nicola:* Priors and convergence issues and how to solve them with SARS2 <br />
                 Slides: [Convergence and troubleshooting](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2020-07-27_troubleshooting.pptx?raw=true) <br />
@@ -76,7 +76,7 @@ Wednesday 29th: My tree is not a tree, help!
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2020-07-29_network_nfm.pptx?raw=true)
 
 9:05 - 10:30: *Tutorial Nicola:* The coalescent with reassortment <br />
-                Tutorials: [https://taming-the-beast.org/tutorials/Reassortment-Tutorial/](https://taming-the-beast.org/tutorials/Reassortment-Tutorial/)
+                Tutorials: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/tree/master/Tutorials/2020-07-29_Reassortment)
 
 10:30 - 11:00 *Closing Remarks and Q&A Everyone*
 
