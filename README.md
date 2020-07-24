@@ -28,7 +28,7 @@ If there are any issue with the installation that occur, please post the error i
 8:00 - 8:50: *Lecture Julia, M: Nicola:* Introduction <br />
                 Slides: TBA
 
-9:05 - 11:00  *Lecture Nídia + Tutorial Joelle, M: Joelle:*  Getting BEAST2 to run with SARS2 <br />
+9:05 - 11:00  *Lecture Nídia + Tutorial Joëlle, M: Joëlle:*  Getting BEAST2 to run with SARS2 <br />
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/raw/master/Lectures/2020-07-27_IntroductionToBEAST2_NT.pdf) <br />
                 Tutorial: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Introduction-to-BEAST2.zip?raw=true)
 
@@ -38,7 +38,7 @@ If there are any issue with the installation that occur, please post the error i
 12:35 - 13:15 *Tutorial Nicola:* BModelTest Tutorial with Influenza <br />
                 Tutorials: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/2020-07-27_BModelTest.zip?raw=true)
 
-13:30 - 14:20: *Short Lecture Prior (Nicola) + Tutorial Joelle + Small Lecture Joelle on Convergence, M: Nicola:* Priors and convergence issues and how to solve them with SARS2 <br />
+13:30 - 14:20: *Short Lecture Prior (Nicola) + Tutorial Joëlle + Small Lecture Joëlle on Convergence, M: Nicola:* Priors and convergence issues and how to solve them with SARS2 <br />
                 Slides: [Selecting priors](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2020-07-27_priors_nfm.pptx?raw=true) <br />
                 Slides: [Convergence and troubleshooting](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2020-07-27_troubleshooting.pptx?raw=true) <br />
                 Tutorials: [Prior-selection](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Prior-selection.zip?raw=true)
@@ -51,19 +51,19 @@ Day 1 additional tutorial suggestions: [molecular dating](https://taming-the-bea
 
 **Tuesday 28th: Estimating population level trends using phylogenetic trees**
 
-8:00 - 8:50: *Lecture Julia, M: Joelle:* Lecture: tree priors (coalescent+birth death) <br />
+8:00 - 8:50: *Lecture Julia, M: Joëlle:* Lecture: tree priors (coalescent+birth death) <br />
                 Slides: TBA
 
 9:05 - 10:30: *Tutorial Julia:* Estimation of effective population size trajectories <br />
                 Tutorial: [https://taming-the-beast.org/tutorials/Skyline-plots/](https://taming-the-beast.org/tutorials/Skyline-plots/)
 
-10:30 - 11:00 *Lecture Nicola + Joelle:* Structured populations <br />
+10:30 - 11:00 *Lecture Nicola + Joëlle:* Structured populations <br />
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2020-07-28_structured_nfm.pptx?raw=true)
 
-11:30 - 13:00 *Tutorial Nicola + Joelle:* Structured Coalescent, Multi-Type Birth Death <br />
+11:30 - 13:00 *Tutorial Nicola + Joëlle:* Structured Coalescent, Multi-Type Birth Death <br />
                 Tutorials: [Mascot](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/2020-07-28_Mascot.zip?raw=true), [BDMM](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Structured-birth-death-model.zip?raw=true).
 
-13:00 - 14:20 *Lecture + Tutorials: Julia & Nídia, M: Joelle* Tree distances, tree convergence, how to visualize and interpret trees  Julia & Nídia
+13:00 - 14:20 *Lecture + Tutorials: Julia & Nídia, M: Joëlle* Tree distances, tree convergence, how to visualize and interpret trees  Julia & Nídia
                 Slides: TBA
                 Data: TBA
                 Tutorials: TBA
