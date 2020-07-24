@@ -34,8 +34,8 @@ Monday 27th: Getting started with BEAST
 11:30 - 12:20 *Lecture Nicola, M: Julia:* clock and site models <br />
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2020-07-27_evol_nfm.pptx?raw=true)
 
-12:35 - 13:15 *Tutorial Nicola:* clock and site models with Influenza <br />
-                Tutorials: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/tree/master/Tutorials/2020-07-27_BModelTest)
+12:35 - 13:15 *Tutorial Nicola:* BModelTest Tutorial with Influenza <br />
+                Tutorials: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/2020-07-27_BModelTest.zip?raw=true)
 
 13:30 - 14:20: *Short Lecture Prior (Nicola) + Tutorial Joelle + Small Lecture Joelle on Convergence, M: Nicola:* Priors and convergence issues and how to solve them with SARS2 <br />
                 Slides: [Convergence and troubleshooting](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2020-07-27_troubleshooting.pptx?raw=true) <br />
@@ -59,13 +59,13 @@ Tuesday 28th: Estimating population level trends using phylogenetic trees
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2020-07-28_structured_nfm.pptx?raw=true)
 
 11:30 - 13:00 *Tutorial Nicola + Joelle:* Structured Coalescent, Multi-Type Birth Death <br />
-                Tutorials: [https://taming-the-beast.org/tutorials/Mascot-Tutorial/](https://taming-the-beast.org/tutorials/Mascot-Tutorial/), [Structured-birth-death-model](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Structured-birth-death-model.zip?raw=true).
+                Tutorials: [Mascot](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/2020-07-28_Mascot.zip?raw=true), [BDMM](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Structured-birth-death-model.zip?raw=true).
 
 13:00 - 14:20 *Lecture + Tutorials: Julia & Nídia, M: Joelle* Tree distances, tree convergence, how to visualize and interpret trees  Julia & Nídia
                 Slides: TBA
                 Tutorials: TBA
                 
-Day 2 additional tutorial suggestions: [Descrete trait analysis (using BEAST1)](http://beast.community/workshop_discrete_diffusion), [MultiType tree](https://taming-the-beast.org/tutorials/Structured-coalescent/), [adaptive MC^3](https://taming-the-beast.org/tutorials/CoupledMCMC-Tutorial/)
+Day 2 additional tutorial suggestions: [Descrete trait analysis (using BEAST1)](http://beast.community/workshop_discrete_diffusion), [MultiType tree](https://taming-the-beast.org/tutorials/Structured-coalescent/)
 
 
 15:00 - 16:00: Phylo chat office hours
@@ -76,7 +76,7 @@ Wednesday 29th: My tree is not a tree, help!
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2020-07-29_network_nfm.pptx?raw=true)
 
 9:05 - 10:30: *Tutorial Nicola:* The coalescent with reassortment <br />
-                Tutorials: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/tree/master/Tutorials/2020-07-29_Reassortment)
+                Tutorials: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/2020-07-29_Reassortment.zip?raw=true)
 
 10:30 - 11:00 *Closing Remarks and Q&A Everyone*
 
