@@ -1,0 +1,27 @@
+<itsabeastystatewerein version='2.0' sample='2000000'>
+<statenode id='Tree.t:H3N2'>(((((0:0.057640755549804856,3:0.027586755549741104)38:0.09612714043521997,(1:0.14827712300810458,(21:0.07175538586225261,22:0.00891338586220658)28:0.060128737145972)36:0.013687772976802126)26:0.8685984501663964,((((5:0.9659322875626297,11:0.8426452875627386)29:0.11536047981182018,13:0.01665476737461824)34:0.07364496382893448,6:0.043851731203497835)32:0.1736628028174647,(12:0.1147326691985715,14:1.5245246691984964)33:0.13010386482230385)27:0.6190598121304665)37:0.19447556255710596,(17:0.3643486333281348,18:0.35886863332810065)24:2.1120342753802914)30:1.2252849423003034,((2:0.506836940621653,23:0.2602609406216484)25:2.643420166167784,((((((4:0.8368668661192404,10:0.29041886611918555)35:0.12033293647193455,15:0.28233680259121563)43:0.018224823535946566,20:0.28416862612705485)31:0.05391419336244452,9:0.33808281948949936)41:0.07232942533894082,8:0.40767924482840545)42:0.23608288458059823,(7:0.5175477767209142,(16:0.19274871366752455,19:0.21187471366743926)39:0.31387006305335685)44:0.11528535268828399)45:0.920117977380349)40:0.17332874421934363)46:0.0</statenode>
+<statenode id='clockRate.c:H3N2'>clockRate.c:H3N2[1 1] (0.0,Infinity): 0.0030474202357794215 </statenode>
+<statenode id='kappa.s:H3N2'>kappa.s:H3N2[1 1] (0.0,Infinity): 5.433402460922618 </statenode>
+<statenode id='gammaShape.s:H3N2'>gammaShape.s:H3N2[1 1] (0.001,1000.0): 0.75885479651104 </statenode>
+<statenode id='NeConstant.t:H3N2'>NeConstant.t:H3N2[3 1] (0.0,Infinity): 0.9648193390550908 0.8495346141506321 0.7973957538519367 </statenode>
+<statenode id='migrationConstant.t:H3N2'>migrationConstant.t:H3N2[6 1] (0.0,Infinity): 0.21403942733094436 0.04869791697703892 0.212714869039063 0.20189832416634898 0.31684630845379835 0.37333352257957997 </statenode>
+<statenode id='freqParameter.s:H3N2'>freqParameter.s:H3N2[4 1] (0.0,1.0): 0.35420899888174706 0.2144447037127156 0.22162005815069852 0.20972623925483797 </statenode>
+</itsabeastystatewerein>
+<!--
+{"operators":[
+{"id":"StrictClockRateScaler.c:H3N2","p":0.5195343610248857,"accept":18088,"reject":53216,"acceptFC":17609,"rejectFC":52783,"rejectIv":0,"rejectOp":0},
+{"id":"strictClockUpDownOperator.c:H3N2","p":0.6622326085810255,"accept":2355,"reject":68557,"acceptFC":2322,"rejectFC":67639,"rejectIv":41100,"rejectOp":41100},
+{"id":"KappaScaler.s:H3N2","p":0.30777420017092805,"accept":622,"reject":1708,"acceptFC":606,"rejectFC":1696,"rejectIv":0,"rejectOp":0},
+{"id":"gammaShapeScaler.s:H3N2","p":0.2125673213231024,"accept":841,"reject":1461,"acceptFC":823,"rejectFC":1451,"rejectIv":0,"rejectOp":0},
+{"id":"MascotTreeScaler.t:H3N2","p":0.5648069792699185,"accept":1424,"reject":69298,"acceptFC":1413,"rejectFC":68387,"rejectIv":24158,"rejectOp":24158},
+{"id":"MascotTreeRootScaler.t:H3N2","p":0.4123465503430872,"accept":7771,"reject":63381,"acceptFC":7648,"rejectFC":62636,"rejectIv":15813,"rejectOp":15813},
+{"id":"MascotUniformOperator.t:H3N2","p":"NaN","accept":439439,"reject":273488,"acceptFC":433938,"rejectFC":269996,"rejectIv":0,"rejectOp":0},
+{"id":"MascotSubtreeSlide.t:H3N2","p":1.909757191763428,"accept":28880,"reject":327077,"acceptFC":28279,"rejectFC":323185,"rejectIv":152030,"rejectOp":152030},
+{"id":"MascotNarrow.t:H3N2","p":"NaN","accept":163350,"reject":192726,"acceptFC":161336,"rejectFC":190310,"rejectIv":18200,"rejectOp":18200},
+{"id":"MascotWide.t:H3N2","p":"NaN","accept":1839,"reject":68885,"acceptFC":1812,"rejectFC":68005,"rejectIv":51723,"rejectOp":51723},
+{"id":"MascotWilsonBalding.t:H3N2","p":"NaN","accept":3074,"reject":68178,"acceptFC":3028,"rejectFC":67323,"rejectIv":11836,"rejectOp":11836},
+{"id":"NeConstantScaler.t:H3N2","p":0.21273902468749534,"accept":21861,"reject":49183,"acceptFC":21142,"rejectFC":49032,"rejectIv":0,"rejectOp":0},
+{"id":"migrationConstantScaler.t:H3N2","p":0.16310502839640223,"accept":21108,"reject":49747,"acceptFC":20360,"rejectFC":49607,"rejectIv":0,"rejectOp":0},
+{"id":"FrequenciesExchanger.s:H3N2","p":0.06093406172798733,"accept":768,"reject":1676,"acceptFC":736,"rejectFC":1667,"rejectIv":0,"rejectOp":0}
+]}
+-->
