@@ -28,7 +28,7 @@ If there are any issue with the installation that occur, please post the error i
 8:00 - 8:50: *Lecture Julia, M: Nicola:* Introduction <br />
                 Slides: TBA
 
-9:05 - 11:00  *Lecture Nídia + Tutorial Joelle, M: Joelle:*  Getting BEAST2 to run with SARS2 <br />
+9:05 - 11:00  *[Lecture Nídia](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/raw/master/Lectures/2020-07-27_IntroductionToBEAST2_NT.pdf) + Tutorial Joelle, M: Joelle:*  Getting BEAST2 to run with SARS2 <br />
                 Slides: TBA <br />
                 Tutorial: [Introduction-to-BEAST2](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Introduction-to-BEAST2.zip?raw=true)
 
