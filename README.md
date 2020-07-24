@@ -44,6 +44,7 @@ If there are any issue with the installation that occur, please post the error i
                 Tutorials: [Prior-selection](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Prior-selection.zip?raw=true)
 
 15:00 - 15:30: Happy half-hour!
+
 15:00 - 16:00: Phylo chat office hours
 
 Day 1 additional tutorial suggestions: [molecular dating](https://taming-the-beast.org/tutorials/Molecular-Dating-Tutorial/), [clock and substitution model adequacy](https://taming-the-beast.org/tutorials/adequacy_tutorial/)
