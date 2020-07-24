@@ -29,8 +29,8 @@ If there are any issue with the installation that occur, please post the error i
                 Slides: TBA
 
 9:05 - 11:00  *Lecture Nídia + Tutorial Joelle, M: Joelle:*  Getting BEAST2 to run with SARS2 <br />
-                Slides: [Introduction-to-BEAST2](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/raw/master/Lectures/2020-07-27_IntroductionToBEAST2_NT.pdf) <br />
-                Tutorial: [Introduction-to-BEAST2](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Introduction-to-BEAST2.zip?raw=true)
+                Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/raw/master/Lectures/2020-07-27_IntroductionToBEAST2_NT.pdf) <br />
+                Tutorial: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Introduction-to-BEAST2.zip?raw=true)
 
 11:30 - 12:20 *Lecture Nicola, M: Julia:* clock and site models <br />
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2020-07-27_evol_nfm.pptx?raw=true)
