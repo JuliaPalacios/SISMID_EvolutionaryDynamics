@@ -22,7 +22,7 @@ If there are any issue with the installation that occur, please post the error i
 
 ## Schedule
 
-Monday 27th: Getting started with BEAST
+**Monday 27th: Getting started with BEAST**
 
 8:00 - 8:50: *Lecture Julia, M: Nicola:* Introduction <br />
                 Slides: TBA
@@ -48,7 +48,7 @@ Day 1 additional tutorial suggestions: [molecular dating](https://taming-the-bea
 
 
 
-Tuesday 28th: Estimating population level trends using phylogenetic trees
+**Tuesday 28th: Estimating population level trends using phylogenetic trees**
 
 8:00 - 8:50: *Lecture Julia, M: Joelle:* Lecture: tree priors (coalescent+birth death) <br />
                 Slides: TBA
@@ -71,7 +71,7 @@ Day 2 additional tutorial suggestions: [Descrete trait analysis (using BEAST1)](
 
 15:00 - 16:00: Phylo chat office hours
 
-Wednesday 29th: My tree is not a tree, help!
+**Wednesday 29th: My tree is not a tree, help!**
 
 8:00 - 8:50: *Lecture Nicola, M: Nídia:* Recombination and Reassortment <br />
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2020-07-29_network_nfm.pptx?raw=true)
