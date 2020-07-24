@@ -21,7 +21,7 @@ BEAST2 is coded in java and does require java to be installed to work.
 The tutorials covered here work with the newest version of BEAST2 (which is developped largely independent from BEAST1).
 If there are any issue with the installation that occur, please post the error in the SISMID slack channel mod14evoldynamics.
 
-## Schedule
+## Schedule (Times in Pacific Time)
 
 **Monday 27th: Getting started with BEAST**
 
@@ -43,6 +43,7 @@ If there are any issue with the installation that occur, please post the error i
                 Slides: [Convergence and troubleshooting](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2020-07-27_troubleshooting.pptx?raw=true) <br />
                 Tutorials: [Prior-selection](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Prior-selection.zip?raw=true)
 
+15:00 - 15:30: Happy half-hour!
 15:00 - 16:00: Phylo chat office hours
 
 Day 1 additional tutorial suggestions: [molecular dating](https://taming-the-beast.org/tutorials/Molecular-Dating-Tutorial/), [clock and substitution model adequacy](https://taming-the-beast.org/tutorials/adequacy_tutorial/)
