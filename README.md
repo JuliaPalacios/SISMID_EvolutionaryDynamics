@@ -65,6 +65,7 @@ Day 1 additional tutorial suggestions: [molecular dating](https://taming-the-bea
 
 13:00 - 14:20 *Lecture + Tutorials: Julia & Nídia, M: Joelle* Tree distances, tree convergence, how to visualize and interpret trees  Julia & Nídia
                 Slides: TBA
+                Data: TBA
                 Tutorials: TBA
                 
 Day 2 additional tutorial suggestions: [Descrete trait analysis (using BEAST1)](http://beast.community/workshop_discrete_diffusion), [MultiType tree](https://taming-the-beast.org/tutorials/Structured-coalescent/)
