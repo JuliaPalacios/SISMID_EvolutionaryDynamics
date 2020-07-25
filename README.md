@@ -113,6 +113,8 @@ Other than us, these tutorials and the lectures used here are partly based on wo
 
 - David Rasmussen
 
+- Carsten Magnus
+
 - Sebastian Duchene
 
 - Timothy G. Vaughan
