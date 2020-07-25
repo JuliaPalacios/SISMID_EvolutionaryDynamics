@@ -101,3 +101,22 @@ Prerequisites: This module assumes knowledge of the material in Module 1: Probab
 - Paper showing how to see if there is temporal signal in data using tip-randomizations: [https://academic.oup.com/mbe/article/32/7/1895/1016979](https://academic.oup.com/mbe/article/32/7/1895/1016979)
 
 - Paper introducing the coalescent with reassortment: [https://doi.org/10.1073/pnas.1918304117](https://doi.org/10.1073/pnas.1918304117)
+
+# Acknowledgements
+
+All the tutorials we covered in this module were adapated tutorials from [https://taming-the-beast.org/](https://taming-the-beast.org/) (publication [here](https://academic.oup.com/sysbio/article/67/1/170/3897660)). 
+Other than us, these tutorials and the lectures used here are partly based on work by:
+
+- Louis du Plessis 
+
+- Veronika Boskova
+
+- David Rasmussen
+
+- Sebastian Duchene
+
+- Timothy G. Vaughan
+
+- Denise Kühnert
+
+- Julia Pecerska
