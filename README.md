@@ -104,7 +104,7 @@ Prerequisites: This module assumes knowledge of the material in Module 1: Probab
 
 # Acknowledgements
 
-All the tutorials we covered in this module were adapated tutorials from [https://taming-the-beast.org/](https://taming-the-beast.org/) (publication [here](https://academic.oup.com/sysbio/article/67/1/170/3897660)). 
+The tutorials we covered in this module were adapated tutorials from [https://taming-the-beast.org/](https://taming-the-beast.org/) (publication [here](https://academic.oup.com/sysbio/article/67/1/170/3897660)) and from past SISMID tutorials. 
 Other than us, these tutorials and the lectures used here are partly based on work by:
 
 - Louis du Plessis 
@@ -122,3 +122,7 @@ Other than us, these tutorials and the lectures used here are partly based on wo
 - Denise Kühnert
 
 - Julia Pecerska
+
+- Marc Suchard
+
+- Philippe Lemey
