@@ -49,7 +49,7 @@ If there are any issues with the installation, please post the error in the SISM
 
 Day 1 additional tutorial suggestions: [molecular dating](https://taming-the-beast.org/tutorials/Molecular-Dating-Tutorial/), [clock and substitution model adequacy](https://taming-the-beast.org/tutorials/adequacy_tutorial/).
 
-In preparation for Tuesday, please install [R](\href{https://www.r-project.org) 
+In preparation for Tuesday, please install [R](https://www.r-project.org) 
 
 
 
