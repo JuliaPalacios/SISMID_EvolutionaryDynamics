@@ -19,7 +19,7 @@ In particular, the module will cover Bayesian Evolutionary Analysis by Sampling 
 Please install [BEAST2](https://www.beast2.org/) on the computer that you will be using before the workshop starts.
 BEAST2 is coded in java and does require java to be installed to work.
 The tutorials covered here work with the newest version of BEAST2 (which is developped largely independent from BEAST1).
-If there are any issue with the installation that occur, please post the error in the SISMID slack channel mod14evoldynamics.
+If there are any issues with the installation, please post the error in the SISMID slack channel mod14evoldynamics.
 
 ## Schedule (Times in Pacific Time)
 
