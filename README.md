@@ -23,8 +23,9 @@ If there are any issues with the installation, please post the error in the SISM
 
 ## Schedule (Times in Pacific Time)
 
-**Monday 27th: Getting started with BEAST**
-[Zoom link here](https://us02web.zoom.us/j/86947202957?pwd=QUtxSFRPTWx0QXVlYUx6d0VxaEJmZz09)
+**Monday 27th: Getting started with BEAST** <br />
+[Zoom link morning](https://us02web.zoom.us/j/86947202957?pwd=QUtxSFRPTWx0QXVlYUx6d0VxaEJmZz09) <br />
+[Zoom link afternoon](https://us02web.zoom.us/j/8680049603?pwd=a2t2bk5hZk96LzRKNG9OUUtwcktkUT09) <br />
 
 8:00 - 8:50: *Lecture Julia, M: Nicola:* Introduction <br />
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/raw/master/Lectures/2020-07-27_Introduction.pdf)
