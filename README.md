@@ -28,11 +28,12 @@ If there are any issues with the installation, please post the error in the SISM
 [Zoom link afternoon](https://us02web.zoom.us/j/8680049603?pwd=a2t2bk5hZk96LzRKNG9OUUtwcktkUT09) <br />
 
 8:00 - 8:50: *Lecture Julia, M: Nicola:* Introduction <br />
-                Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/raw/master/Lectures/2020-07-27_Introduction.pdf)
-                [Video](https://drive.google.com/drive/folders/1sPierJjRgTxGnXS0axvtn3jgcnPYTegm?usp=sharing)
+                Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/raw/master/Lectures/2020-07-27_Introduction.pdf)<br />
+                Video: [here](https://drive.google.com/drive/folders/1sPierJjRgTxGnXS0axvtn3jgcnPYTegm?usp=sharing)
 
 9:05 - 11:00  *Lecture Nídia + Tutorial Joëlle, M: Joëlle:*  Getting BEAST2 to run with SARS2 <br />
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/raw/master/Lectures/2020-07-27_IntroductionToBEAST2_NT.pdf) <br />
+                Video: [here](https://us02web.zoom.us/rec/share/3MhOLarP2k1LAc_3zkbxfKQGHYTPeaa813BI_KAKy0-iPcnZxF1SydpoeA5qVf5W?startTime=1595867126000)<br />
                 Tutorial: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Introduction-to-BEAST2.zip?raw=true)
 
 11:30 - 12:20 *Lecture Nicola, M: Julia:* clock and site models <br />
