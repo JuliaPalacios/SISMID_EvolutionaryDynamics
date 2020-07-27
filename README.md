@@ -28,6 +28,7 @@ If there are any issues with the installation, please post the error in the SISM
 
 8:00 - 8:50: *Lecture Julia, M: Nicola:* Introduction <br />
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/raw/master/Lectures/2020-07-27_Introduction.pdf)
+                [Video](https://drive.google.com/drive/folders/1sPierJjRgTxGnXS0axvtn3jgcnPYTegm?usp=sharing)
 
 9:05 - 11:00  *Lecture Nídia + Tutorial Joëlle, M: Joëlle:*  Getting BEAST2 to run with SARS2 <br />
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/raw/master/Lectures/2020-07-27_IntroductionToBEAST2_NT.pdf) <br />
