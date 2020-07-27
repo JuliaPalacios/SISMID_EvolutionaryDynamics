@@ -47,7 +47,7 @@ If there are any issues with the installation, please post the error in the SISM
 
 13:30 - 14:20: *Short Lecture Prior (Nicola) + Tutorial Joëlle + Small Lecture Joëlle on Convergence, M: Nicola:* Priors and convergence issues and how to solve them with SARS2 <br />
                 Slides: [Selecting priors](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2020-07-27_priors_nfm.pptx?raw=true) <br />
-                Videos:[here](https://us02web.zoom.us/rec/share/6fNOE7TK_HpJZbfI2kfUXKEKT7Sieaa80SAervcMnxkLEindKtrlBhxuMSH-aMM7?startTime=1595881927000)
+                Videos:[prior](https://us02web.zoom.us/rec/share/6fNOE7TK_HpJZbfI2kfUXKEKT7Sieaa80SAervcMnxkLEindKtrlBhxuMSH-aMM7?startTime=1595881927000), [convergence](https://us02web.zoom.us/rec/share/6fNOE7TK_HpJZbfI2kfUXKEKT7Sieaa80SAervcMnxkLEindKtrlBhxuMSH-aMM7?startTime=1595884007000)
                 Slides: [Convergence and troubleshooting](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2020-07-27_troubleshooting.pptx?raw=true) <br />
                 Tutorials: [Prior-selection](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Prior-selection.zip?raw=true)
 
