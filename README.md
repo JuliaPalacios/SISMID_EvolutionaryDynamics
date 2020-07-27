@@ -23,14 +23,19 @@ If there are any issues with the installation, please post the error in the SISM
 
 ## Schedule (Times in Pacific Time)
 
-**Monday 27th: Getting started with BEAST**
+**Monday 27th: Getting started with BEAST** <br />
+[Zoom link morning](https://us02web.zoom.us/j/86947202957?pwd=QUtxSFRPTWx0QXVlYUx6d0VxaEJmZz09) <br />
+[Zoom link afternoon](https://us02web.zoom.us/j/8680049603?pwd=a2t2bk5hZk96LzRKNG9OUUtwcktkUT09) <br />
 
 8:00 - 8:50: *Lecture Julia, M: Nicola:* Introduction <br />
-                Slides: TBA
+                Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/raw/master/Lectures/2020-07-27_Introduction.pdf)<br />
+                Video: [here](https://drive.google.com/drive/folders/1sPierJjRgTxGnXS0axvtn3jgcnPYTegm?usp=sharing)
 
 9:05 - 11:00  *Lecture Nídia + Tutorial Joëlle, M: Joëlle:*  Getting BEAST2 to run with SARS2 <br />
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/raw/master/Lectures/2020-07-27_IntroductionToBEAST2_NT.pdf) <br />
-                Tutorial: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Introduction-to-BEAST2.zip?raw=true)
+                Video: [here](https://us02web.zoom.us/rec/share/3MhOLarP2k1LAc_3zkbxfKQGHYTPeaa813BI_KAKy0-iPcnZxF1SydpoeA5qVf5W?startTime=1595867126000)<br />
+                Tutorial: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Introduction-to-BEAST2.zip?raw=true)<br />
+                Video: [here](https://us02web.zoom.us/rec/share/3MhOLarP2k1LAc_3zkbxfKQGHYTPeaa813BI_KAKy0-iPcnZxF1SydpoeA5qVf5W?startTime=1595869526000)
 
 11:30 - 12:20 *Lecture Nicola, M: Julia:* clock and site models <br />
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2020-07-27_evol_nfm.pptx?raw=true)
@@ -49,17 +54,17 @@ If there are any issues with the installation, please post the error in the SISM
 
 Day 1 additional tutorial suggestions: [molecular dating](https://taming-the-beast.org/tutorials/Molecular-Dating-Tutorial/), [clock and substitution model adequacy](https://taming-the-beast.org/tutorials/adequacy_tutorial/).
 
-In preparation for Tuesday, please install [R](https://www.r-project.org) 
+In preparation for Tuesday, please install [R](https://www.r-project.org). We will use the follwing packages: ape (R cran), [phylodyn](https://github.com/mdkarcher/phylodyn), and [bdskytools](https://github.com/laduplessis/bdskytools).
 
 
 
 **Tuesday 28th: Estimating population level trends using phylogenetic trees**
 
 8:00 - 8:50: *Lecture Julia, M: Joëlle:* Lecture: tree priors (coalescent+birth death) <br />
-                Slides: TBA
+                Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/raw/master/Lectures/2020-07-28_tree_priors.pdf)
 
 9:05 - 10:30: *Tutorial Julia:* Estimation of effective population size trajectories <br />
-                Tutorial: [https://taming-the-beast.org/tutorials/Skyline-plots/](https://taming-the-beast.org/tutorials/Skyline-plots/)
+                Tutorial: TBA
 
 10:30 - 11:00 *Lecture Nicola + Joëlle:* Structured populations <br />
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2020-07-28_structured_nfm.pptx?raw=true)
@@ -67,9 +72,9 @@ In preparation for Tuesday, please install [R](https://www.r-project.org)
 11:30 - 13:00 *Tutorial Nicola + Joëlle:* Structured Coalescent, Multi-Type Birth Death <br />
                 Tutorials: [Mascot](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/2020-07-28_Mascot.zip?raw=true), [BDMM](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Structured-birth-death-model.zip?raw=true).
 
-13:00 - 14:20 *Lecture + Tutorials: Julia & Nídia, M: Joëlle* Tree distances, tree convergence, how to visualize and interpret trees  Julia & Nídia<br />
+13:00 - 14:20 *Lecture + Tutorials: Julia & Nídia, M: Joëlle* Tree distances, tree convergence, how to visualize and interpret trees  <br />
                 Slides: TBA<br />
-                Data: TBA<br />
+                Data: [here](https://juliapalacios.github.io/SISMID_EvolutionaryDynamics/Datasets/h3n2-bdmm.h3n2_2deme.MCC_2005.668.tre)<br />
                 Tutorials: TBA
                 
 Day 2 additional tutorial suggestions: [Descrete trait analysis (using BEAST1)](http://beast.community/workshop_discrete_diffusion), [MultiType tree](https://taming-the-beast.org/tutorials/Structured-coalescent/)
