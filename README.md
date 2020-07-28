@@ -81,7 +81,7 @@ In preparation for Tuesday, please install [R](https://www.r-project.org). We wi
                 Data: [here](https://juliapalacios.github.io/SISMID_EvolutionaryDynamics/Datasets/h3n2-bdmm.h3n2_2deme.MCC_2005.668.tre)<br />
                 Tutorials: TBA
                 
-Day 2 additional tutorial suggestions: [Descrete trait analysis (using BEAST1)](http://beast.community/workshop_discrete_diffusion), [MultiType tree](https://taming-the-beast.org/tutorials/Structured-coalescent/)
+Day 2 additional tutorial suggestions: [Discrete trait analysis (using BEAST1)](http://beast.community/workshop_discrete_diffusion), [MultiType tree](https://taming-the-beast.org/tutorials/Structured-coalescent/)
 
 
 15:00 - 16:00: Phylo chat office hours
