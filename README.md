@@ -67,7 +67,7 @@ In preparation for Tuesday, please install [R](https://www.r-project.org). We wi
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/raw/master/Lectures/2020-07-28_tree_priors.pdf)
 
 9:05 - 10:30: *Tutorial Julia:* Estimation of effective population size trajectories <br />
-                Tutorial: TBA
+                Tutorial: [Ne inference](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/raw/master/Tutorials/Ne_inference.zip?raw=true).
 
 10:30 - 11:00 *Lecture Nicola + Joëlle:* Structured populations <br />
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2020-07-28_structured_nfm.pptx?raw=true)
