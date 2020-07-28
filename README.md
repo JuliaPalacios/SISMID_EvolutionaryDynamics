@@ -24,7 +24,7 @@ If there are any issues with the installation, please post the error in the SISM
 ## Schedule (Times in Pacific Time)
 
 **Monday 27th: Getting started with BEAST** <br />
-[Zoom link morning](https://stanford.zoom.us/j/92846514146?pwd=OFNJdENxaDIrN3hzOVk3bVcvUFZRZz09) <br />
+[Zoom link morning](https://us02web.zoom.us/j/8680049603?pwd=a2t2bk5hZk96LzRKNG9OUUtwcktkUT09) <br />
 [Zoom link afternoon](https://us02web.zoom.us/j/8680049603?pwd=a2t2bk5hZk96LzRKNG9OUUtwcktkUT09) <br />
 
 8:00 - 8:50: *Lecture Julia, M: Nicola:* Introduction <br />
