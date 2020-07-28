@@ -76,12 +76,14 @@ In preparation for Tuesday, please install [R](https://www.r-project.org). We wi
                 Video: [here](https://us02web.zoom.us/rec/share/yZZuFL_TqGJLbLeV80f8U4AiEdXceaa81nAZ-vIFxB7mQlmh7D0pcEYoUNhkbbcU?startTime=1595958078000)
 
 11:30 - 13:00 *Tutorial Nicola + Joëlle:* Structured Coalescent, Multi-Type Birth Death <br />
-                Tutorials: [Mascot](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/2020-07-28_Mascot.zip?raw=true), [BDMM](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Structured-birth-death-model.zip?raw=true).
+                Tutorials: [Mascot](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/2020-07-28_Mascot.zip?raw=true), [BDMM](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Structured-birth-death-model.zip?raw=true).<br />
+                Video: [part1](https://us02web.zoom.us/rec/share/wdRkcJLB0khLYYnqwmfzCo8fAb7lT6a8h3UX-foInUwRhAMhRhyPV1tskmMNqdjH?startTime=1595961254000), [part2](https://us02web.zoom.us/rec/share/wdRkcJLB0khLYYnqwmfzCo8fAb7lT6a8h3UX-foInUwRhAMhRhyPV1tskmMNqdjH?startTime=1595965024000)
 
 13:00 - 14:20 *Lecture + Tutorials: Julia & Nídia, M: Joëlle* Tree distances, tree convergence, how to visualize and interpret trees  <br />
                 Slides1: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/raw/master/Lectures/2020-07-28_SummaryTrees.pdf)<br />
                 Slides2: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/raw/master/Lectures/2020-07-28_FigTreeTutorial_NT.pdf)<br />
                 Data: [here](https://juliapalacios.github.io/SISMID_EvolutionaryDynamics/Datasets/h3n2-bdmm.h3n2_2deme.MCC_2005.668.tre)<br />
+                Video: [here](https://us02web.zoom.us/rec/share/wdRkcJLB0khLYYnqwmfzCo8fAb7lT6a8h3UX-foInUwRhAMhRhyPV1tskmMNqdjH?startTime=1595966622000)
                 
                 
 Day 2 additional tutorial suggestions: [Discrete trait analysis (using BEAST1)](http://beast.community/workshop_discrete_diffusion), [MultiType tree](https://taming-the-beast.org/tutorials/Structured-coalescent/)
