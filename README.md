@@ -94,12 +94,16 @@ Day 2 additional tutorial suggestions: [Discrete trait analysis (using BEAST1)](
 **Wednesday 29th: My tree is not a tree, help!**
 
 8:00 - 8:50: *Lecture Nicola, M: Nídia:* Recombination and Reassortment <br />
-                Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2020-07-29_network_nfm.pptx?raw=true)
+                Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2020-07-29_network_nfm.pptx?raw=true)<br />
+                Video: [here](https://us02web.zoom.us/rec/share/4MV0Pr_16GpJG9LH5ALZSpZ6PtjpX6a81ikY-vIOmUjnLwmyzB4fk9K3n4FpTYba?startTime=1596035178000)
 
 9:05 - 10:30: *Tutorial Nicola:* The coalescent with reassortment <br />
-                Tutorials: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/2020-07-29_Reassortment.zip?raw=true)
+                Tutorials: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/2020-07-29_Reassortment.zip?raw=true)<br />
+                Video: [part 1](https://us02web.zoom.us/rec/share/4MV0Pr_16GpJG9LH5ALZSpZ6PtjpX6a81ikY-vIOmUjnLwmyzB4fk9K3n4FpTYba?startTime=1596038785000), [part 2](https://us02web.zoom.us/rec/share/4MV0Pr_16GpJG9LH5ALZSpZ6PtjpX6a81ikY-vIOmUjnLwmyzB4fk9K3n4FpTYba?startTime=1596043012000)
 
-10:30 - 11:00 *Closing Remarks and Q&A Everyone*
+10:30 - 11:00 *Closing Remarks and Q&A Everyone*<br />
+                Video: [part 1](https://us02web.zoom.us/rec/share/4MV0Pr_16GpJG9LH5ALZSpZ6PtjpX6a81ikY-vIOmUjnLwmyzB4fk9K3n4FpTYba?startTime=1596044028000), [part 2](https://us02web.zoom.us/rec/share/4MV0Pr_16GpJG9LH5ALZSpZ6PtjpX6a81ikY-vIOmUjnLwmyzB4fk9K3n4FpTYba?startTime=1596044374000)
+
 
 13:00 - 14:00: Phylo chat office hours
 
