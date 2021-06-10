@@ -78,21 +78,6 @@ In preparation for Tuesday, please install [R](https://www.r-project.org). We wi
 ======
 Friday 23
 
-
-13:00 - 14:20 *Lecture + Tutorials: Julia & Nídia, M: Joëlle* Tree distances, tree convergence, how to visualize and interpret trees  <br />
-                Slides1: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/raw/master/Lectures/2020-07-28_SummaryTrees.pdf)<br />
-                Slides2: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/raw/master/Lectures/2020-07-28_FigTreeTutorial_NT.pdf)<br />
-                Data: [here](https://juliapalacios.github.io/SISMID_EvolutionaryDynamics/Datasets/h3n2-bdmm.h3n2_2deme.MCC_2005.668.tre)<br />
-                Video: [here](https://us02web.zoom.us/rec/share/wdRkcJLB0khLYYnqwmfzCo8fAb7lT6a8h3UX-foInUwRhAMhRhyPV1tskmMNqdjH?startTime=1595966622000)
-                
-                
-Day 2 additional tutorial suggestions: [Discrete trait analysis (using BEAST1)](http://beast.community/workshop_discrete_diffusion), [MultiType tree](https://taming-the-beast.org/tutorials/Structured-coalescent/)
-
-
-15:00 - 16:00: Phylo chat office hours
-
-**Wednesday 29th: My tree is not a tree, help!**
-
 8:00 - 8:50: *Lecture Nicola, M: Nídia:* Recombination and Reassortment <br />
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2020-07-29_network_nfm.pptx?raw=true)<br />
                 Video: [here]()
@@ -101,14 +86,37 @@ Day 2 additional tutorial suggestions: [Discrete trait analysis (using BEAST1)](
                 Tutorials: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/2020-07-29_Reassortment.zip?raw=true), [here](https://github.com/nicfel/Recombination-tutorial)<br />
                 Video: [part 1]()[part2]()
 
-10:30 - 11:00 *Closing Remarks and Q&A Everyone*<br />
-                Video: [part 1](https://us02web.zoom.us/rec/share/4MV0Pr_16GpJG9LH5ALZSpZ6PtjpX6a81ikY-vIOmUjnLwmyzB4fk9K3n4FpTYba?startTime=1596044028000), [part 2](https://us02web.zoom.us/rec/share/4MV0Pr_16GpJG9LH5ALZSpZ6PtjpX6a81ikY-vIOmUjnLwmyzB4fk9K3n4FpTYba?startTime=1596044374000)
+10:40 - 11:00: Priors and convergence
+11:30 - 12:00 Part II
 
-10:10 - 11:00: *Short Lecture Prior (Nicola) + Tutorial Joëlle + Small Lecture Joëlle on Convergence, M: Nicola:* Priors and convergence issues and how to solve them with SARS2 <br />
+*Short Lecture Prior (Nicola) + Tutorial Joëlle + Small Lecture Joëlle on Convergence, M: Nicola:* Priors and convergence issues and how to solve them with SARS2 <br />
                 Slides: [Selecting priors](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2020-07-27_priors_nfm.pptx?raw=true) <br />
                 Videos:[prior](https://us02web.zoom.us/rec/share/6fNOE7TK_HpJZbfI2kfUXKEKT7Sieaa80SAervcMnxkLEindKtrlBhxuMSH-aMM7?startTime=1595881927000), [convergence](https://us02web.zoom.us/rec/share/6fNOE7TK_HpJZbfI2kfUXKEKT7Sieaa80SAervcMnxkLEindKtrlBhxuMSH-aMM7?startTime=1595884007000)<br />
                 Slides: [Convergence and troubleshooting](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2020-07-27_troubleshooting.pptx?raw=true) <br />
                 Tutorials: [Prior-selection](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Prior-selection.zip?raw=true)
+
+
+12:10 - 1:10
+*Lecture + Tutorials: Julia & Nídia, M: Joëlle* Tree distances, tree convergence, how to visualize and interpret trees  <br />
+                Slides1: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/raw/master/Lectures/2020-07-28_SummaryTrees.pdf)<br />
+                Slides2: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/raw/master/Lectures/2020-07-28_FigTreeTutorial_NT.pdf)<br />
+                Data: [here](https://juliapalacios.github.io/SISMID_EvolutionaryDynamics/Datasets/h3n2-bdmm.h3n2_2deme.MCC_2005.668.tre)<br />
+                Video: [here](https://us02web.zoom.us/rec/share/wdRkcJLB0khLYYnqwmfzCo8fAb7lT6a8h3UX-foInUwRhAMhRhyPV1tskmMNqdjH?startTime=1595966622000)
+
+1:10-2:00 Tutorial on something 
+ 
+2:00-2:30 Closing Remarks and Q&A            
+                
+Day 2 additional tutorial suggestions: [Discrete trait analysis (using BEAST1)](http://beast.community/workshop_discrete_diffusion), [MultiType tree](https://taming-the-beast.org/tutorials/Structured-coalescent/)
+
+
+TRASH FROM HERE
+15:00 - 16:00: Phylo chat office hours
+
+**Wednesday 29th: My tree is not a tree, help!**
+
+10:30 - 11:00 *Closing Remarks and Q&A Everyone*<br />
+                Video: [part 1](https://us02web.zoom.us/rec/share/4MV0Pr_16GpJG9LH5ALZSpZ6PtjpX6a81ikY-vIOmUjnLwmyzB4fk9K3n4FpTYba?startTime=1596044028000), [part 2](https://us02web.zoom.us/rec/share/4MV0Pr_16GpJG9LH5ALZSpZ6PtjpX6a81ikY-vIOmUjnLwmyzB4fk9K3n4FpTYba?startTime=1596044374000)
 
 
 13:00 - 14:00: Phylo chat office hours
