@@ -37,7 +37,8 @@ If there are any issues with the installation, please post the error in the SISM
                 Tutorial: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Introduction-to-BEAST2.zip?raw=true)<br />
                 Video: [here](https://us02web.zoom.us/rec/share/3MhOLarP2k1LAc_3zkbxfKQGHYTPeaa813BI_KAKy0-iPcnZxF1SydpoeA5qVf5W?startTime=1595869526000)
 
-(optional happy 30 minutes)
+2:40 - 3:10: Phylo chat office hours
+
 
 **Thursday 22: Getting started with BEAST** <br />
 <--**Tuesday 28th: Estimating population level trends using phylogenetic trees**--/>
@@ -75,6 +76,8 @@ In preparation for Tuesday, please install [R](https://www.r-project.org). We wi
                 Tutorials: [Mascot](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/2020-07-28_Mascot.zip?raw=true), [BDMM](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Structured-birth-death-model.zip?raw=true).<br />
                 Video: [part1](https://us02web.zoom.us/rec/share/wdRkcJLB0khLYYnqwmfzCo8fAb7lT6a8h3UX-foInUwRhAMhRhyPV1tskmMNqdjH?startTime=1595961254000), [part2](https://us02web.zoom.us/rec/share/wdRkcJLB0khLYYnqwmfzCo8fAb7lT6a8h3UX-foInUwRhAMhRhyPV1tskmMNqdjH?startTime=1595965024000)
 
+2:40 - 3:10: Phylo chat office hours
+
 ======
 Friday 23
 
@@ -107,11 +110,11 @@ Friday 23
  
 2:00-2:30 Closing Remarks and Q&A            
                 
+                
 Day 2 additional tutorial suggestions: [Discrete trait analysis (using BEAST1)](http://beast.community/workshop_discrete_diffusion), [MultiType tree](https://taming-the-beast.org/tutorials/Structured-coalescent/)
 
 
 TRASH FROM HERE
-15:00 - 16:00: Phylo chat office hours
 
 **Wednesday 29th: My tree is not a tree, help!**
 
