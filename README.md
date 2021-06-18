@@ -29,7 +29,7 @@ If there are any issues with the installation, please post the error in the SISM
 
 11:30 - 12:20: *Lecture Julia, M: Nicola:* Introduction <br />
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/raw/master/Lectures/2020-07-27_Introduction.pdf)<br />
-                Video: [here](https://drive.google.com/drive/folders/1sPierJjRgTxGnXS0axvtn3jgcnPYTegm?usp=sharing)
+                Video: [here]()
 
 12:35 - 2:30  *Lecture Nídia + Tutorial Joëlle, M: Joëlle:*  Getting BEAST2 to run with SARS2 <br />
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/raw/master/Lectures/2020-07-27_IntroductionToBEAST2_NT.pdf) <br />
@@ -40,9 +40,7 @@ If there are any issues with the installation, please post the error in the SISM
 2:40 - 3:10: Phylo chat office hours
 
 
-**Thursday 22: Getting started with BEAST** <br />
-<--**Tuesday 28th: Estimating population level trends using phylogenetic trees**--/>
-
+**Thursday 22nd: Estimating population level trends using phylogenetic trees**
 
 8:00 - 8:50 *Lecture Nicola, M: Julia:* clock and site models <br />
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2020-07-27_evol_nfm.pptx?raw=true)<br />
