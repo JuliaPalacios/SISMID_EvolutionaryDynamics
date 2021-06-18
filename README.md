@@ -88,6 +88,7 @@ In preparation for Tuesday, please install [R](https://www.r-project.org). We wi
                 Video: [part 1]()[part2]()
 
 10:40 - 11:00: Priors and convergence
+
 11:30 - 12:00 Part II
 
 *Short Lecture Prior (Nicola) + Tutorial Joëlle + Small Lecture Joëlle on Convergence, M: Nicola:* Priors and convergence issues and how to solve them with SARS2 <br />
