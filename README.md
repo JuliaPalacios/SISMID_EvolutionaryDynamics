@@ -76,8 +76,8 @@ In preparation for Tuesday, please install [R](https://www.r-project.org). We wi
 
 2:40 - 3:10: Phylo chat office hours
 
-======
-Friday 23
+
+**Friday 23rd: Analyzing whole genomes and summarizing posteriors**
 
 8:00 - 8:50: *Lecture Nicola, M: Nídia:* Recombination and Reassortment <br />
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2020-07-29_network_nfm.pptx?raw=true)<br />
