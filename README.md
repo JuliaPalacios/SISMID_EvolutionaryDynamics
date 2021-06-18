@@ -39,6 +39,7 @@ If there are any issues with the installation, please post the error in the SISM
 
 2:40 - 3:10: Phylo chat office hours
 
+Day 1 additional tutorial suggestions:
 
 **Thursday 22nd: Estimating population level trends using phylogenetic trees**
 
@@ -51,8 +52,6 @@ If there are any issues with the installation, please post the error in the SISM
                 Videos: [intro](https://us02web.zoom.us/rec/share/6fNOE7TK_HpJZbfI2kfUXKEKT7Sieaa80SAervcMnxkLEindKtrlBhxuMSH-aMM7?startTime=1595878559000)
 
 
-
-Day 1 additional tutorial suggestions: [molecular dating](https://taming-the-beast.org/tutorials/Molecular-Dating-Tutorial/), [clock and substitution model adequacy](https://taming-the-beast.org/tutorials/adequacy_tutorial/).
 
 In preparation for Tuesday, please install [R](https://www.r-project.org). We will use the follwing packages: ape (R cran), [phylodyn](https://github.com/mdkarcher/phylodyn), and [bdskytools](https://github.com/laduplessis/bdskytools).
 
@@ -76,6 +75,8 @@ In preparation for Tuesday, please install [R](https://www.r-project.org). We wi
 
 2:40 - 3:10: Phylo chat office hours
 
+
+Day 2 additional tutorial suggestions:
 
 **Friday 23rd: Analyzing whole genomes and summarizing posteriors**
 
