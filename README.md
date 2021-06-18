@@ -117,11 +117,17 @@ Prerequisites: This module assumes knowledge of the material in Module 1: Probab
 
 # Some Reading Material
 
-- Overwiev of most BEAST2 packages: [https://doi.org/10.1371/journal.pcbi.1006650](https://doi.org/10.1371/journal.pcbi.1006650)
+- Overview of most BEAST2 packages: [https://doi.org/10.1371/journal.pcbi.1006650](https://doi.org/10.1371/journal.pcbi.1006650)
 
-- Paper showing how to see if there is temporal signal in data using tip-randomizations: [https://academic.oup.com/mbe/article/32/7/1895/1016979](https://academic.oup.com/mbe/article/32/7/1895/1016979)
+- Review of phylodynamics (with focuse on coalescent): [https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002947](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002947)
 
-- Paper introducing the coalescent with reassortment: [https://doi.org/10.1073/pnas.1918304117](https://doi.org/10.1073/pnas.1918304117)
+
+- Coalescent with reassortment: [https://doi.org/10.1073/pnas.1918304117](https://doi.org/10.1073/pnas.1918304117)
+
+- Review of phylodynamics in livestock: [https://www.sciencedirect.com/science/article/pii/S0169534721001300](https://www.sciencedirect.com/science/article/pii/S0169534721001300)
+
+- Review for phylodynamics for cell biologists: [https://science.sciencemag.org/content/371/6526/eaah6266.abstract](https://science.sciencemag.org/content/371/6526/eaah6266.abstract)
+
 
 # Acknowledgements
 
