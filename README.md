@@ -53,7 +53,7 @@ Day 1 additional tutorial suggestions:
 
 
 
-In preparation for Tuesday, please install [R](https://www.r-project.org). We will use the follwing packages: ape (R cran), [phylodyn](https://github.com/mdkarcher/phylodyn), and [bdskytools](https://github.com/laduplessis/bdskytools).
+In preparation for Tuesday, please install [R](https://www.r-project.org). We will use the follwing packages: ape (R cran), [phylodyn](https://github.com/mdkarcher/phylodyn), and [bdskytools](https://github.com/laduplessis/bdskytools). Needed?
 
 
 
@@ -75,8 +75,7 @@ In preparation for Tuesday, please install [R](https://www.r-project.org). We wi
 
 2:40 - 3:10: Phylo chat office hours
 
-
-Day 2 additional tutorial suggestions:
+Day 2 additional tutorial suggestions: [Model adequacy](https://taming-the-beast.org/tutorials/adequacy_tutorial/),[Discrete trait analysis (using BEAST1)](http://beast.community/workshop_discrete_diffusion), [MultiType tree](https://taming-the-beast.org/tutorials/Structured-coalescent/)
 
 **Friday 23rd: Analyzing whole genomes and summarizing posteriors**
 
@@ -110,30 +109,15 @@ Day 2 additional tutorial suggestions:
  
 2:00-2:30 Closing Remarks and Q&A            
                 
-                
-Day 2 additional tutorial suggestions: [Discrete trait analysis (using BEAST1)](http://beast.community/workshop_discrete_diffusion), [MultiType tree](https://taming-the-beast.org/tutorials/Structured-coalescent/)
-
-
-TRASH FROM HERE
-
-**Wednesday 29th: My tree is not a tree, help!**
-
-10:30 - 11:00 *Closing Remarks and Q&A Everyone*<br />
-                Video: [part 1](https://us02web.zoom.us/rec/share/4MV0Pr_16GpJG9LH5ALZSpZ6PtjpX6a81ikY-vIOmUjnLwmyzB4fk9K3n4FpTYba?startTime=1596044028000), [part 2](https://us02web.zoom.us/rec/share/4MV0Pr_16GpJG9LH5ALZSpZ6PtjpX6a81ikY-vIOmUjnLwmyzB4fk9K3n4FpTYba?startTime=1596044374000)
-
-
 13:00 - 14:00: Phylo chat office hours
 
 Day 3 additional tutorial suggestions: [Bacter](https://taming-the-beast.org/tutorials/Bacter-Tutorial/)
-
-
+         
 Prerequisites: This module assumes knowledge of the material in Module 1: Probability and Statistical Inference, though not necessarily from taking that module.
 
 # Some Reading Material
 
-- Provides an overview of packages in BEAST2 with explanations on the different models: [https://doi.org/10.1371/journal.pcbi.1006650](https://doi.org/10.1371/journal.pcbi.1006650)
-
-- Paper showing site model over-fitting is ok: [https://www.nature.com/articles/s41467-019-08822-w](https://www.nature.com/articles/s41467-019-08822-w)
+- Overwiev of most BEAST2 packages: [https://doi.org/10.1371/journal.pcbi.1006650](https://doi.org/10.1371/journal.pcbi.1006650)
 
 - Paper showing how to see if there is temporal signal in data using tip-randomizations: [https://academic.oup.com/mbe/article/32/7/1895/1016979](https://academic.oup.com/mbe/article/32/7/1895/1016979)
 
