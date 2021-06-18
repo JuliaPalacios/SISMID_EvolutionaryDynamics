@@ -29,13 +29,13 @@ If there are any issues with the installation, please post the error in the SISM
 
 11:30 - 12:20: *Lecture Julia, M: Nicola:* Introduction <br />
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/raw/master/Lectures/2020-07-27_Introduction.pdf)<br />
-                Video: [here]()
+                Video: 
 
 12:35 - 2:30  *Lecture Nídia + Tutorial Joëlle, M: Joëlle:*  Getting BEAST2 to run with SARS2 <br />
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/raw/master/Lectures/2020-07-27_IntroductionToBEAST2_NT.pdf) <br />
-                Video: [here](https://us02web.zoom.us/rec/share/3MhOLarP2k1LAc_3zkbxfKQGHYTPeaa813BI_KAKy0-iPcnZxF1SydpoeA5qVf5W?startTime=1595867126000)<br />
+                Video: 
                 Tutorial: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Introduction-to-BEAST2.zip?raw=true)<br />
-                Video: [here](https://us02web.zoom.us/rec/share/3MhOLarP2k1LAc_3zkbxfKQGHYTPeaa813BI_KAKy0-iPcnZxF1SydpoeA5qVf5W?startTime=1595869526000)
+                Video: 
 
 2:40 - 3:10: Phylo chat office hours
 
@@ -45,11 +45,11 @@ Day 1 additional tutorial suggestions:
 
 8:00 - 8:50 *Lecture Nicola, M: Julia:* clock and site models <br />
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2020-07-27_evol_nfm.pptx?raw=true)<br />
-                Videos: [part 1](https://us02web.zoom.us/rec/share/6fNOE7TK_HpJZbfI2kfUXKEKT7Sieaa80SAervcMnxkLEindKtrlBhxuMSH-aMM7?startTime=1595874718000), [part 2](https://us02web.zoom.us/rec/share/6fNOE7TK_HpJZbfI2kfUXKEKT7Sieaa80SAervcMnxkLEindKtrlBhxuMSH-aMM7?startTime=1595876155000);
+                Videos: 
 
 9:05 - 9:55 *Tutorial Nicola:* BModelTest Tutorial with Influenza <br />
                 Tutorials: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/2020-07-27_BModelTest.zip?raw=true)<br />
-                Videos: [intro](https://us02web.zoom.us/rec/share/6fNOE7TK_HpJZbfI2kfUXKEKT7Sieaa80SAervcMnxkLEindKtrlBhxuMSH-aMM7?startTime=1595878559000)
+                Videos: 
 
 
 
@@ -59,19 +59,19 @@ In preparation for Tuesday, please install [R](https://www.r-project.org). We wi
 
 10:10 - 11:00: *Lecture Julia, M: Joëlle:* Lecture: tree priors (coalescent+birth death) <br />
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/raw/master/Lectures/2020-07-28_tree_priors.pdf)<br />
-                Video: [here](https://us02web.zoom.us/rec/share/yZZuFL_TqGJLbLeV80f8U4AiEdXceaa81nAZ-vIFxB7mQlmh7D0pcEYoUNhkbbcU?startTime=1595948600000)
+                Video: 
 
 11:30 - 12:30: *Tutorial Julia:* Estimation of effective population size trajectories <br />
                 Tutorial: [Ne inference](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/raw/master/Tutorials/Ne_inference.zip?raw=true).<br />
-                Video: [part1](https://us02web.zoom.us/rec/share/yZZuFL_TqGJLbLeV80f8U4AiEdXceaa81nAZ-vIFxB7mQlmh7D0pcEYoUNhkbbcU?startTime=1595952444000), [part2](https://us02web.zoom.us/rec/share/yZZuFL_TqGJLbLeV80f8U4AiEdXceaa81nAZ-vIFxB7mQlmh7D0pcEYoUNhkbbcU?startTime=1595956916000)
+                Video: 
 
 12:40 - 1:10 *Lecture Nicola + Joëlle:* Structured populations <br />
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2020-07-28_structured_nfm.pptx?raw=true)<br />
-                Video: [here](https://us02web.zoom.us/rec/share/yZZuFL_TqGJLbLeV80f8U4AiEdXceaa81nAZ-vIFxB7mQlmh7D0pcEYoUNhkbbcU?startTime=1595958078000)
+                Video: 
 
 1:20 - 2:30 *Tutorial Nicola + Joëlle:* Structured Coalescent, Multi-Type Birth Death <br />
                 Tutorials: [Mascot](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/2020-07-28_Mascot.zip?raw=true), [BDMM](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Structured-birth-death-model.zip?raw=true).<br />
-                Video: [part1](https://us02web.zoom.us/rec/share/wdRkcJLB0khLYYnqwmfzCo8fAb7lT6a8h3UX-foInUwRhAMhRhyPV1tskmMNqdjH?startTime=1595961254000), [part2](https://us02web.zoom.us/rec/share/wdRkcJLB0khLYYnqwmfzCo8fAb7lT6a8h3UX-foInUwRhAMhRhyPV1tskmMNqdjH?startTime=1595965024000)
+                Video: 
 
 2:40 - 3:10: Phylo chat office hours
 
@@ -81,11 +81,11 @@ Day 2 additional tutorial suggestions: [Model adequacy](https://taming-the-beast
 
 8:00 - 8:50: *Lecture Nicola, M: Nídia:* Recombination and Reassortment <br />
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2020-07-29_network_nfm.pptx?raw=true)<br />
-                Video: [here]()
+                Video: 
 
 9:05 - 10:30: *Tutorial Nicola:* Inferring reassortment and recombination patterns <br />
                 Tutorials: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/2020-07-29_Reassortment.zip?raw=true), [here](https://github.com/nicfel/Recombination-tutorial)<br />
-                Video: [part 1]()[part2]()
+                Video: 
 
 10:40 - 11:00: Priors and convergence
 
@@ -93,7 +93,7 @@ Day 2 additional tutorial suggestions: [Model adequacy](https://taming-the-beast
 
 *Short Lecture Prior (Nicola) + Tutorial Joëlle + Small Lecture Joëlle on Convergence, M: Nicola:* Priors and convergence issues and how to solve them with SARS2 <br />
                 Slides: [Selecting priors](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2020-07-27_priors_nfm.pptx?raw=true) <br />
-                Videos:[prior](https://us02web.zoom.us/rec/share/6fNOE7TK_HpJZbfI2kfUXKEKT7Sieaa80SAervcMnxkLEindKtrlBhxuMSH-aMM7?startTime=1595881927000), [convergence](https://us02web.zoom.us/rec/share/6fNOE7TK_HpJZbfI2kfUXKEKT7Sieaa80SAervcMnxkLEindKtrlBhxuMSH-aMM7?startTime=1595884007000)<br />
+                Videos:
                 Slides: [Convergence and troubleshooting](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2020-07-27_troubleshooting.pptx?raw=true) <br />
                 Tutorials: [Prior-selection](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Prior-selection.zip?raw=true)
 
@@ -103,7 +103,7 @@ Day 2 additional tutorial suggestions: [Model adequacy](https://taming-the-beast
                 Slides1: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/raw/master/Lectures/2020-07-28_SummaryTrees.pdf)<br />
                 Slides2: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/raw/master/Lectures/2020-07-28_FigTreeTutorial_NT.pdf)<br />
                 Data: [here](https://juliapalacios.github.io/SISMID_EvolutionaryDynamics/Datasets/h3n2-bdmm.h3n2_2deme.MCC_2005.668.tre)<br />
-                Video: [here](https://us02web.zoom.us/rec/share/wdRkcJLB0khLYYnqwmfzCo8fAb7lT6a8h3UX-foInUwRhAMhRhyPV1tskmMNqdjH?startTime=1595966622000)
+                Video: 
 
 1:10-2:00 Tutorial on something 
  
