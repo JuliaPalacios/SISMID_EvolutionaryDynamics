@@ -37,9 +37,9 @@ If there are any issues with the installation, please post the error in the SISM
                 Tutorial: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Introduction-to-BEAST2.zip?raw=true)<br />
                 Video: 
 
-2:40 - 3:10: Phylo chat office hours
+2:40 - 3:10: Phylo chat office hours. 
 
-Day 1 additional tutorial suggestions:
+In preparation for Thursday, please install [R](https://www.r-project.org). We will use the follwing packages: ape (R cran), [phylodyn](https://github.com/mdkarcher/phylodyn), and [bdskytools](https://github.com/laduplessis/bdskytools). Needed?
 
 **Thursday 22nd: Estimating population level trends using phylogenetic trees**
 
@@ -51,67 +51,58 @@ Day 1 additional tutorial suggestions:
                 Tutorials: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/2020-07-27_BModelTest.zip?raw=true)<br />
                 Videos: 
 
-
-
-In preparation for Tuesday, please install [R](https://www.r-project.org). We will use the follwing packages: ape (R cran), [phylodyn](https://github.com/mdkarcher/phylodyn), and [bdskytools](https://github.com/laduplessis/bdskytools). Needed?
-
-
-
 10:10 - 11:00: *Lecture Julia, M: Joëlle:* Lecture: tree priors (coalescent+birth death) <br />
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/raw/master/Lectures/2020-07-28_tree_priors.pdf)<br />
                 Video: 
 
-11:30 - 12:30: *Tutorial Julia:* Estimation of effective population size trajectories <br />
+11:30 - 12:20: *Tutorial Julia:* Estimation of effective population size trajectories <br />
                 Tutorial: [Ne inference](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/raw/master/Tutorials/Ne_inference.zip?raw=true).<br />
                 Video: 
-
-12:40 - 1:10 *Lecture Nicola + Joëlle:* Structured populations <br />
-                Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2020-07-28_structured_nfm.pptx?raw=true)<br />
-                Video: 
-
-1:20 - 2:30 *Tutorial Nicola + Joëlle:* Structured Coalescent, Multi-Type Birth Death <br />
-                Tutorials: [Mascot](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/2020-07-28_Mascot.zip?raw=true), [BDMM](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Structured-birth-death-model.zip?raw=true).<br />
-                Video: 
-
-2:40 - 3:10: Phylo chat office hours
-
-Day 2 additional tutorial suggestions: [Model adequacy](https://taming-the-beast.org/tutorials/adequacy_tutorial/),[Discrete trait analysis (using BEAST1)](http://beast.community/workshop_discrete_diffusion), [MultiType tree](https://taming-the-beast.org/tutorials/Structured-coalescent/)
-
-**Friday 23rd: Analyzing whole genomes and summarizing posteriors**
-
-8:00 - 8:50: *Lecture Nicola, M: Nídia:* Recombination and Reassortment <br />
-                Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2020-07-29_network_nfm.pptx?raw=true)<br />
-                Video: 
-
-9:05 - 10:30: *Tutorial Nicola:* Inferring reassortment and recombination patterns <br />
-                Tutorials: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/2020-07-29_Reassortment.zip?raw=true), [here](https://github.com/nicfel/Recombination-tutorial)<br />
-                Video: 
-
-10:40 - 11:00: Priors and convergence
-
-11:30 - 12:00 Part II
-
+               
+12:35 - 1:25: Priors and convergence
 *Short Lecture Prior (Nicola) + Tutorial Joëlle + Small Lecture Joëlle on Convergence, M: Nicola:* Priors and convergence issues and how to solve them with SARS2 <br />
                 Slides: [Selecting priors](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2020-07-27_priors_nfm.pptx?raw=true) <br />
                 Videos:
                 Slides: [Convergence and troubleshooting](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2020-07-27_troubleshooting.pptx?raw=true) <br />
                 Tutorials: [Prior-selection](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Prior-selection.zip?raw=true)
-
-
-12:10 - 1:10
-*Lecture + Tutorials: Julia & Nídia, M: Joëlle* Tree distances, tree convergence, how to visualize and interpret trees  <br />
+1:40 - 2:30
+*Lecture + Tutorials: Julia & Nídia, M: Joëlle* Tree distances, tree convergence <br />
                 Slides1: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/raw/master/Lectures/2020-07-28_SummaryTrees.pdf)<br />
                 Slides2: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/raw/master/Lectures/2020-07-28_FigTreeTutorial_NT.pdf)<br />
                 Data: [here](https://juliapalacios.github.io/SISMID_EvolutionaryDynamics/Datasets/h3n2-bdmm.h3n2_2deme.MCC_2005.668.tre)<br />
                 Video: 
 
-1:10-2:00 Tutorial on something 
- 
+
+2:40 - 3:10: Phylo chat office hours
+
+Day 2 additional tutorial suggestions: [Model adequacy](https://taming-the-beast.org/tutorials/adequacy_tutorial/)
+
+**Friday 23rd: Analyzing structured populattions and whole genomes**
+
+8:00 - 8:50 *Lecture Nicola + Joëlle:* Structured populations <br />
+                Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2020-07-28_structured_nfm.pptx?raw=true)<br />
+                Video: 
+
+9:05 - 10:40 *Tutorial Nicola + Joëlle:* Structured Coalescent, Multi-Type Birth Death <br />
+                Tutorials: [Mascot](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/2020-07-28_Mascot.zip?raw=true), [BDMM](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Structured-birth-death-model.zip?raw=true).<br />
+                Video: 
+                
+10:40 - 11:00 *Lecture Nídia:*  how to visualize and interpret trees <br />
+
+
+11:30 - 12:20: *Lecture Nicola, M: Nídia:* Recombination and Reassortment <br />
+                Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2020-07-29_network_nfm.pptx?raw=true)<br />
+                Video: 
+
+12:35 - 2:00: *Tutorial Nicola:* Inferring reassortment and recombination patterns <br />
+                Tutorials: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/2020-07-29_Reassortment.zip?raw=true), [here](https://github.com/nicfel/Recombination-tutorial)<br />
+                Video: 
+                
 2:00-2:30 Closing Remarks and Q&A            
                 
-13:00 - 14:00: Phylo chat office hours
+2:30 - 3:00: Phylo chat office hours
 
-Day 3 additional tutorial suggestions: [Bacter](https://taming-the-beast.org/tutorials/Bacter-Tutorial/)
+Day 3 additional tutorial suggestions: [Discrete trait analysis (using BEAST1)](http://beast.community/workshop_discrete_diffusion), [MultiType tree](https://taming-the-beast.org/tutorials/Structured-coalescent/), [Bacter](https://taming-the-beast.org/tutorials/Bacter-Tutorial/)
          
 Prerequisites: This module assumes knowledge of the material in Module 1: Probability and Statistical Inference, though not necessarily from taking that module.
 
