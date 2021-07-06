@@ -19,16 +19,16 @@ In particular, the module will cover Bayesian Evolutionary Analysis by Sampling 
 Please install [BEAST2](https://www.beast2.org/) on the computer that you will be using before the workshop starts.
 BEAST2 is coded in java and does require java to be installed to work.
 The tutorials covered here work with the newest version of BEAST2 (which is developped largely independent from BEAST1).
-If there are any issues with the installation, please post the error in the SISMID slack channel mod14evoldynamics.
+If there are any issues with the installation, please post the error in the SISMID slack channel md14_evolutionary_dynamics_molecular_epi_viruses_2021.
 
 ## Schedule (Times in Pacific Time)
 
 [Zoom link]() <br />
 
 
-**Wednesday 21st: Getting started with BEAST** <br />
+**Wednesday 21st: Getting started with BEAST 2** <br />
 
-11:30 - 12:20: *Lecture Julia, M: Nicola:* Introduction <br />
+11:30 - 12:20: *Lecture Julia, M: Nicola:* Introduction Into Bayesian Phylogenetics and BEAST<br />
                 Slides: <br />
                 Video: 
 
@@ -42,9 +42,9 @@ If there are any issues with the installation, please post the error in the SISM
 
 In preparation for Thursday, please install [R](https://www.r-project.org). We will use the follwing packages: ape (R cran), [phylodyn](https://github.com/mdkarcher/phylodyn), and [bdskytools](https://github.com/laduplessis/bdskytools). Needed?
 
-**Thursday 22nd: Estimating population level trends using phylogenetic trees**
+**Thursday 22nd: Sequence evolution and Estimation of population level trends using phylogenetic trees**
 
-8:00 - 8:50 *Lecture Nicola, M: Julia:* clock and site models <br />
+8:00 - 8:50 *Lecture Nicola, M: Julia:* Modelling the evolution of genomes through time<br />
                 Slides: <br />
                 Videos: 
 
@@ -68,7 +68,7 @@ In preparation for Thursday, please install [R](https://www.r-project.org). We w
                 Tutorials: [Prior-selection](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Prior-selection.zip?raw=true)<br />
 
 1:40 - 2:30
-*Lecture + Tutorials: Julia & Nídia, M: Joëlle* Tree distances, tree convergence <br />
+*Lecture + Tutorials: Julia & Nídia, M: Joëlle* Tree distances and tree convergence <br />
                 Slides1: <br />
                 Slides2: <br />
                 Data: [here](https://juliapalacios.github.io/SISMID_EvolutionaryDynamics/Datasets/h3n2-bdmm.h3n2_2deme.MCC_2005.668.tre)<br />
@@ -77,7 +77,7 @@ In preparation for Thursday, please install [R](https://www.r-project.org). We w
 
 2:40 - 3:10: Phylo chat office hours
 
-Day 2 additional tutorial suggestions: [Model adequacy](https://taming-the-beast.org/tutorials/adequacy_tutorial/)
+Day 2 additional tutorial suggestions: [Model adequacy](https://taming-the-beast.org/tutorials/adequacy_tutorial/), [Coupled MCMC](https://taming-the-beast.org/tutorials/CoupledMCMC-Tutorial/)
 
 **Friday 23rd: Analyzing structured populattions and whole genomes**
 
@@ -97,7 +97,7 @@ Day 2 additional tutorial suggestions: [Model adequacy](https://taming-the-beast
                 Video: 
 
 12:35 - 2:00: *Tutorial Nicola:* Inferring reassortment and recombination patterns <br />
-                Tutorials: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/2020-07-29_Reassortment.zip?raw=true), [here](https://github.com/nicfel/Recombination-tutorial)<br />
+                Tutorials: [Coalescent with Reassortment](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/2020-07-29_Reassortment.zip?raw=true), [Coalescent with Recombination](https://github.com/nicfel/Recombination-tutorial)<br />
                 Video: 
                 
 2:00-2:30 Closing Remarks and Q&A            
