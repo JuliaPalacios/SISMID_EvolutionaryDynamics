@@ -33,7 +33,7 @@ If there are any issues with the installation, please post the error in the SISM
                 Video: 
 
 12:35 - 2:30  *Lecture Nídia + Tutorial Joëlle, M: Joëlle:*  Getting BEAST2 to run with SARS2 <br />
-                Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2021-07-21_IntroductionToBEAST2_NT.pdf)<br />
+                Slides: [Introduction to BEAST 2](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2021-07-21_IntroductionToBEAST2_NT.pdf)<br />
                 Video: <br />
                 Tutorial: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Introduction-to-BEAST2.zip?raw=true)<br />
                 Video: 
@@ -90,7 +90,8 @@ Day 2 additional tutorial suggestions: [Model adequacy](https://taming-the-beast
                 Video: 
                 
 10:40 - 11:00 *Lecture Nídia:*  how to visualize and interpret trees <br />
-
+                Slides: [Post-processing of BEAST trees](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2021-07-23_FigTreeTutorial_NT.pdf)<br />
+                Video: 
 
 11:30 - 12:20: *Lecture Nicola, M: Nídia:* Recombination and Reassortment <br />
                 Slides: <br />
