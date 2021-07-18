@@ -45,7 +45,7 @@ In preparation for Thursday, please install [R](https://www.r-project.org). We w
 **Thursday 22nd: Sequence evolution and Estimation of population level trends using phylogenetic trees**
 
 8:00 - 8:50 *Lecture Nicola, M: Julia:* Modelling the evolution of genomes through time<br />
-                Slides: <br />
+                Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2021-07-22_sismid_evol_nfm.pptx?raw=true)<br />
                 Videos: 
 
 9:05 - 9:55 *Tutorial Nicola:* BModelTest Tutorial with Influenza <br />
@@ -82,7 +82,7 @@ Day 2 additional tutorial suggestions: [Model adequacy](https://taming-the-beast
 **Friday 23rd: Analyzing structured populattions and whole genomes**
 
 8:00 - 8:50 *Lecture Nicola + Joëlle:* Structured populations <br />
-                Slides: <br />
+                Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2021-07-23_sismid_structured_nfm.pptx?raw=true)<br />
                 Video: 
 
 9:05 - 10:40 *Tutorial Nicola + Joëlle:* Structured Coalescent, Multi-Type Birth Death <br />
@@ -94,7 +94,7 @@ Day 2 additional tutorial suggestions: [Model adequacy](https://taming-the-beast
                 Video: 
 
 11:30 - 12:20: *Lecture Nicola, M: Nídia:* Recombination and Reassortment <br />
-                Slides: <br />
+                Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2021-07-23_sismid_network_nfm.pptx?raw=true)<br />
                 Video: 
 
 12:35 - 2:00: *Tutorial Nicola:* Inferring reassortment and recombination patterns <br />
