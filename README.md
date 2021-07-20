@@ -23,7 +23,7 @@ If there are any issues with the installation, please post the error in the SISM
 
 ## Schedule (Times in Pacific Time)
 
-[Zoom link]() <br />
+[Zoom link](https://stanford.zoom.us/j/95863616151?pwd=Tis3UXBLNmNYdUxvRHFZcTRKbmNiUT09) <br />
 
 
 **Wednesday 21st: Getting started with BEAST 2** <br />
