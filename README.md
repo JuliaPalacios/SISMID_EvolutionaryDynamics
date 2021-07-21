@@ -85,7 +85,7 @@ Day 2 additional tutorial suggestions: [Model adequacy](https://taming-the-beast
                 Video: 
 
 9:05 - 10:40 *Tutorial Nicola + Joëlle:* Structured Coalescent, Multi-Type Birth Death <br />
-                Tutorials: [Mascot](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/2020-07-28_Mascot.zip?raw=true), [BDMM](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Structured-birth-death-model.zip?raw=true).<br />
+                Tutorials: [Mascot](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Mascot-Tutorial.zip?raw=true), [BDMM](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Structured-birth-death-model.zip?raw=true).<br />
                 Video: 
                 
 10:40 - 11:00 *Lecture Nídia:*  how to visualize and interpret trees <br />
@@ -97,7 +97,7 @@ Day 2 additional tutorial suggestions: [Model adequacy](https://taming-the-beast
                 Video: 
 
 12:35 - 2:00: *Tutorial Nicola:* Inferring reassortment and recombination patterns <br />
-                Tutorials: [Coalescent with Reassortment](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/2020-07-29_Reassortment.zip?raw=true), [Coalescent with Recombination](https://github.com/nicfel/Recombination-tutorial)<br />
+                Tutorials: [Coalescent with Reassortment](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Reassortment-Tutorial.zip?raw=true), [Coalescent with Recombination](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Recombination-Tutorial.zip?raw=true)<br />
                 Video: 
                 
 2:00-2:30 Closing Remarks and Q&A            
