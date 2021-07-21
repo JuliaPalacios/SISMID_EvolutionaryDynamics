@@ -53,8 +53,7 @@ In preparation for Thursday, please install [R](https://www.r-project.org). We w
                 Videos: 
 
 10:10 - 11:00: *Lecture Julia, M: Joëlle:* Lecture: tree priors (coalescent+birth death) <br />
-                Slides: <br />
-                Video: 
+                Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2021-07-22_tree_priors.pdf?raw=true)<br />                Video: 
 
 11:30 - 12:20: *Tutorial Julia:* Estimation of effective population size trajectories <br />
                 Tutorial: [Ne inference](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/raw/master/Tutorials/Ne_inference.zip?raw=true).<br />
