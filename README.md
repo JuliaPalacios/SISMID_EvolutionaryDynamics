@@ -67,7 +67,7 @@ In preparation for Thursday, please install [R](https://www.r-project.org). We w
                 Tutorials: [Prior-selection](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Prior-selection.zip?raw=true)<br />
 
 1:40 - 2:30
-*Lecture + Tutorials: Julia & Nídia, M: Joëlle* Tree distances and tree convergence <br />
+*Lecture + Tutorials: Julia, M: Joëlle* Tree distances and tree convergence <br />
                 Slides1: <br />
                 Slides2: <br />
                 Data: [here](https://juliapalacios.github.io/SISMID_EvolutionaryDynamics/Datasets/h3n2-bdmm.h3n2_2deme.MCC_2005.668.tre)<br />
