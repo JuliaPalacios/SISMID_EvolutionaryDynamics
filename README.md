@@ -66,6 +66,7 @@ In preparation for Thursday, please install [R](https://www.r-project.org). We w
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2020-07-27_troubleshooting.pptx?raw=true)<br />
                 Tutorials: [Prior-selection](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Prior-selection.zip?raw=true)<br />
                 Videos:[here](https://stanford.zoom.us/rec/share/MEOYYY_970d3dX2UYLIG03mNHHiCc7VMk1IMn2XgRWO1bn7VojtnDi0yX1ZwthpM.IRgdmLN4S5JgJOkf?startTime=1626983104000)
+                [here2](https://stanford.zoom.us/rec/share/MEOYYY_970d3dX2UYLIG03mNHHiCc7VMk1IMn2XgRWO1bn7VojtnDi0yX1ZwthpM.IRgdmLN4S5JgJOkf?startTime=1626986554000)
 
 1:40 - 2:30
 *Lecture + Tutorials: Julia, M: Joëlle* Tree distances and tree convergence <br />
