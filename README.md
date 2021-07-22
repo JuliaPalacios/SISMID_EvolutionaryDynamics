@@ -36,7 +36,7 @@ If there are any issues with the installation, please post the error in the SISM
                 Slides: [Introduction to BEAST 2](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2021-07-21_IntroductionToBEAST2_NT.pdf)<br />
                 Video: [here](https://stanford.zoom.us/rec/share/lp3Ei2GGrl_45cKDS7YB6teHqGxVjjUSoLfNpH1OUtWTcZZfGP1Q0GqexSusrD60.mZkLg1SZEPQkJo6T?startTime=1626896252000)<br />
                 Tutorial: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Introduction-to-BEAST2.zip?raw=true)<br />
-                Video: 
+                Video: [here](https://stanford.zoom.us/rec/share/-PLZn93I2KFgdC-SJrXTMA6kO0XJ_wP8cdA7_ocwjqXW4CXDiN2o71GLQsudWQ94.CI7-bny7r0Mp9cHu?startTime=1626899468000)
 
 2:40 - 3:10: Phylo chat office hours. 
 
