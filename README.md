@@ -46,11 +46,11 @@ In preparation for Thursday, please install [R](https://www.r-project.org). We w
 
 8:00 - 8:50 *Lecture Nicola, M: Julia:* Modelling the evolution of genomes through time<br />
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2021-07-22_sismid_evol_nfm.pptx?raw=true)<br />
-                Videos: [here](https://stanford.zoom.us/rec/share/lreja8-Cf6rvbjcnWhI1EkdJ3lQpxSdfTfrMRImgzkapfiZ55r7xynrKoyGaNwpJ.h5B_hX9Jpzxl8TzG?startTime=1626966297000) [here2](https://stanford.zoom.us/rec/share/lreja8-Cf6rvbjcnWhI1EkdJ3lQpxSdfTfrMRImgzkapfiZ55r7xynrKoyGaNwpJ.h5B_hX9Jpzxl8TzG?startTime=1626969978000)
+                Videos: [here](https://stanford.zoom.us/rec/share/lreja8-Cf6rvbjcnWhI1EkdJ3lQpxSdfTfrMRImgzkapfiZ55r7xynrKoyGaNwpJ.h5B_hX9Jpzxl8TzG?startTime=1626966297000) 
 
 9:05 - 9:55 *Tutorial Nicola:* BModelTest Tutorial with Influenza <br />
                 Tutorials: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/2021-07-22_BModelTest.zip?raw=true)<br />
-                Videos: [here](https://stanford.zoom.us/rec/share/lreja8-Cf6rvbjcnWhI1EkdJ3lQpxSdfTfrMRImgzkapfiZ55r7xynrKoyGaNwpJ.h5B_hX9Jpzxl8TzG?startTime=1626972729000)
+                Videos: [part1](https://stanford.zoom.us/rec/share/lreja8-Cf6rvbjcnWhI1EkdJ3lQpxSdfTfrMRImgzkapfiZ55r7xynrKoyGaNwpJ.h5B_hX9Jpzxl8TzG?startTime=1626969978000),[part2](https://stanford.zoom.us/rec/share/lreja8-Cf6rvbjcnWhI1EkdJ3lQpxSdfTfrMRImgzkapfiZ55r7xynrKoyGaNwpJ.h5B_hX9Jpzxl8TzG?startTime=1626972729000)
 
 10:10 - 11:00: *Lecture Julia, M: Joëlle:* Lecture: tree priors (coalescent+birth death) <br />
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2021-07-22_tree_priors.pdf?raw=true)<br />                Video: [here](https://stanford.zoom.us/rec/share/lreja8-Cf6rvbjcnWhI1EkdJ3lQpxSdfTfrMRImgzkapfiZ55r7xynrKoyGaNwpJ.h5B_hX9Jpzxl8TzG?startTime=1626973935000)
