@@ -68,8 +68,7 @@ In preparation for Thursday, please install [R](https://www.r-project.org). We w
 
 1:40 - 2:30
 *Lecture + Tutorials: Julia, M: Joëlle* Tree distances and tree convergence <br />
-                Slides1: <br />
-                Slides2: <br />
+                Slides1: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2021-07-22_Summary_Trees.pdf?raw=true)<br />
                 Data: [here](https://juliapalacios.github.io/SISMID_EvolutionaryDynamics/Datasets/h3n2-bdmm.h3n2_2deme.MCC_2005.668.tre)<br />
                 Video: 
 
