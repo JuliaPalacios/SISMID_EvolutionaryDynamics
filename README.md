@@ -57,19 +57,20 @@ In preparation for Thursday, please install [R](https://www.r-project.org). We w
 
 11:30 - 12:20: *Tutorial Julia:* Estimation of effective population size trajectories <br />
                 Tutorial: [Ne inference](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/raw/master/Tutorials/Ne_inference.zip?raw=true).<br />
-                Video: 
+                Video:[here](https://stanford.zoom.us/rec/share/MEOYYY_970d3dX2UYLIG03mNHHiCc7VMk1IMn2XgRWO1bn7VojtnDi0yX1ZwthpM.IRgdmLN4S5JgJOkf?startTime=1626978761000)</b> 
                
 12:35 - 1:25: Priors and convergence
 *Short Lecture Prior (Nicola) + Tutorial Joëlle + Small Lecture Joëlle on Convergence, M: Nicola:* Priors and convergence issues and how to solve them with SARS2 <br />
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2021-07-22_priors_nfm.pptx?raw=true)<br />
-                Videos: <br />
+                Videos: [here](https://stanford.zoom.us/rec/share/MEOYYY_970d3dX2UYLIG03mNHHiCc7VMk1IMn2XgRWO1bn7VojtnDi0yX1ZwthpM.IRgdmLN4S5JgJOkf?startTime=1626982601000)<br />
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2020-07-27_troubleshooting.pptx?raw=true)<br />
                 Tutorials: [Prior-selection](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Prior-selection.zip?raw=true)<br />
+                Videos:[here](https://stanford.zoom.us/rec/share/MEOYYY_970d3dX2UYLIG03mNHHiCc7VMk1IMn2XgRWO1bn7VojtnDi0yX1ZwthpM.IRgdmLN4S5JgJOkf?startTime=1626983104000)
 
 1:40 - 2:30
 *Lecture + Tutorials: Julia, M: Joëlle* Tree distances and tree convergence <br />
                 Slides1: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2021-07-22_Summary_Trees.pdf?raw=true)<br />
-                Video: 
+                Video: [here](https://stanford.zoom.us/rec/share/MEOYYY_970d3dX2UYLIG03mNHHiCc7VMk1IMn2XgRWO1bn7VojtnDi0yX1ZwthpM.IRgdmLN4S5JgJOkf?startTime=1626986888000)
 
 
 2:40 - 3:10: Phylo chat office hours
