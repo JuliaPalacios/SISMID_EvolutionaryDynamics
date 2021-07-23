@@ -46,31 +46,32 @@ In preparation for Thursday, please install [R](https://www.r-project.org). We w
 
 8:00 - 8:50 *Lecture Nicola, M: Julia:* Modelling the evolution of genomes through time<br />
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2021-07-22_sismid_evol_nfm.pptx?raw=true)<br />
-                Videos: 
+                Videos: [here](https://stanford.zoom.us/rec/share/lreja8-Cf6rvbjcnWhI1EkdJ3lQpxSdfTfrMRImgzkapfiZ55r7xynrKoyGaNwpJ.h5B_hX9Jpzxl8TzG?startTime=1626966297000) 
 
 9:05 - 9:55 *Tutorial Nicola:* BModelTest Tutorial with Influenza <br />
                 Tutorials: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/2021-07-22_BModelTest.zip?raw=true)<br />
-                Videos: 
+                Videos: [part1](https://stanford.zoom.us/rec/share/lreja8-Cf6rvbjcnWhI1EkdJ3lQpxSdfTfrMRImgzkapfiZ55r7xynrKoyGaNwpJ.h5B_hX9Jpzxl8TzG?startTime=1626969978000),[part2](https://stanford.zoom.us/rec/share/lreja8-Cf6rvbjcnWhI1EkdJ3lQpxSdfTfrMRImgzkapfiZ55r7xynrKoyGaNwpJ.h5B_hX9Jpzxl8TzG?startTime=1626972729000)
 
 10:10 - 11:00: *Lecture Julia, M: Joëlle:* Lecture: tree priors (coalescent+birth death) <br />
-                Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2021-07-22_tree_priors.pdf?raw=true)<br />                Video: 
+                Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2021-07-22_tree_priors.pdf?raw=true)<br />                Video: [here](https://stanford.zoom.us/rec/share/lreja8-Cf6rvbjcnWhI1EkdJ3lQpxSdfTfrMRImgzkapfiZ55r7xynrKoyGaNwpJ.h5B_hX9Jpzxl8TzG?startTime=1626973935000)
 
 11:30 - 12:20: *Tutorial Julia:* Estimation of effective population size trajectories <br />
                 Tutorial: [Ne inference](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/raw/master/Tutorials/Ne_inference.zip?raw=true).<br />
-                Video: 
+                Video:[here](https://stanford.zoom.us/rec/share/MEOYYY_970d3dX2UYLIG03mNHHiCc7VMk1IMn2XgRWO1bn7VojtnDi0yX1ZwthpM.IRgdmLN4S5JgJOkf?startTime=1626978761000)</b> 
                
 12:35 - 1:25: Priors and convergence
 *Short Lecture Prior (Nicola) + Tutorial Joëlle + Small Lecture Joëlle on Convergence, M: Nicola:* Priors and convergence issues and how to solve them with SARS2 <br />
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2021-07-22_priors_nfm.pptx?raw=true)<br />
-                Videos: <br />
-                Slides: <br />
+                Videos: [here](https://stanford.zoom.us/rec/share/MEOYYY_970d3dX2UYLIG03mNHHiCc7VMk1IMn2XgRWO1bn7VojtnDi0yX1ZwthpM.IRgdmLN4S5JgJOkf?startTime=1626982601000)<br />
+                Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2020-07-27_troubleshooting.pptx?raw=true)<br />
                 Tutorials: [Prior-selection](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Prior-selection.zip?raw=true)<br />
+                Videos:[here](https://stanford.zoom.us/rec/share/MEOYYY_970d3dX2UYLIG03mNHHiCc7VMk1IMn2XgRWO1bn7VojtnDi0yX1ZwthpM.IRgdmLN4S5JgJOkf?startTime=1626983104000)
+                [here2](https://stanford.zoom.us/rec/share/MEOYYY_970d3dX2UYLIG03mNHHiCc7VMk1IMn2XgRWO1bn7VojtnDi0yX1ZwthpM.IRgdmLN4S5JgJOkf?startTime=1626986554000)
 
 1:40 - 2:30
 *Lecture + Tutorials: Julia, M: Joëlle* Tree distances and tree convergence <br />
                 Slides1: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2021-07-22_Summary_Trees.pdf?raw=true)<br />
-                Data: [here](https://juliapalacios.github.io/SISMID_EvolutionaryDynamics/Datasets/h3n2-bdmm.h3n2_2deme.MCC_2005.668.tre)<br />
-                Video: 
+                Video: [here](https://stanford.zoom.us/rec/share/MEOYYY_970d3dX2UYLIG03mNHHiCc7VMk1IMn2XgRWO1bn7VojtnDi0yX1ZwthpM.IRgdmLN4S5JgJOkf?startTime=1626986888000)
 
 
 2:40 - 3:10: Phylo chat office hours
