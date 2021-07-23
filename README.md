@@ -82,15 +82,16 @@ Day 2 additional tutorial suggestions: [Model adequacy](https://taming-the-beast
 
 8:00 - 8:50 *Lecture Nicola + Joëlle:* Structured populations <br />
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2021-07-23_sismid_structured_nfm.pptx?raw=true)<br />
-                Video: 
+                Video: [here](https://stanford.zoom.us/rec/share/7AsGkB1qDz0_qoNIpMvGyf6uKVHvmO2Dg7NwtaNQYla7pQq_qoSNz1mJnLrGHFPl.FJzJFuCQbGTJz0B9?startTime=1627052560000)
 
 9:05 - 10:40 *Tutorial Nicola + Joëlle:* Structured Coalescent, Multi-Type Birth Death <br />
                 Tutorials: [Mascot](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Mascot-Tutorial.zip?raw=true), [BDMM](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Structured-birth-death-model.zip?raw=true).<br />
-                Video: 
+                Video: [here](https://stanford.zoom.us/rec/share/7AsGkB1qDz0_qoNIpMvGyf6uKVHvmO2Dg7NwtaNQYla7pQq_qoSNz1mJnLrGHFPl.FJzJFuCQbGTJz0B9?startTime=1627056463000)<br/>
+                [here2](https://stanford.zoom.us/rec/share/7AsGkB1qDz0_qoNIpMvGyf6uKVHvmO2Dg7NwtaNQYla7pQq_qoSNz1mJnLrGHFPl.FJzJFuCQbGTJz0B9?startTime=1627061499000)
                 
 10:40 - 11:00 *Lecture Nídia:*  how to visualize and interpret trees <br />
                 Slides: [Post-processing of BEAST trees](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2021-07-23_FigTreeTutorial_NT.pdf)<br />
-                Video: 
+                Video: [here](https://stanford.zoom.us/rec/share/7AsGkB1qDz0_qoNIpMvGyf6uKVHvmO2Dg7NwtaNQYla7pQq_qoSNz1mJnLrGHFPl.FJzJFuCQbGTJz0B9?startTime=1627061930000)
 
 11:30 - 12:20: *Lecture Nicola, M: Nídia:* Recombination and Reassortment <br />
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2021-07-23_sismid_network_nfm.pptx?raw=true)<br />
