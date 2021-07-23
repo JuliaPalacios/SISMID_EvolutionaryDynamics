@@ -95,7 +95,7 @@ Day 2 additional tutorial suggestions: [Model adequacy](https://taming-the-beast
 
 11:30 - 12:20: *Lecture Nicola, M: Nídia:* Recombination and Reassortment <br />
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2021-07-23_sismid_network_nfm.pptx?raw=true)<br />
-                Video: 
+                Video: [here](https://stanford.zoom.us/rec/share/ehfWIl10xUkweRCVBKR043Md6tkCDmLwn5iROiNfUhsfyUW31alT-sQzn3M7t18.-_HsanlGaMPXB8Zf?startTime=1627065166000)
 
 12:35 - 2:00: *Tutorial Nicola:* Inferring reassortment and recombination patterns <br />
                 Tutorials: [Coalescent with Reassortment](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Reassortment-Tutorial.zip?raw=true), [Coalescent with Recombination](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Recombination-Tutorial.zip?raw=true)<br />
