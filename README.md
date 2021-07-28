@@ -101,7 +101,8 @@ Day 2 additional tutorial suggestions: [Model adequacy](https://taming-the-beast
                 Tutorials: [Coalescent with Reassortment](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Reassortment-Tutorial.zip?raw=true), [Coalescent with Recombination](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Recombination-Tutorial.zip?raw=true)<br />
                 Video: [here](https://stanford.zoom.us/rec/share/HWnly0KWFhASGoOwG8G0e6yU6es05HBPkPxgF6eMnMnBW75A1CHN23wcSeg2Zcxn.vp9842wYBbnCJO0-?startTime=1627073434000)
                 
-2:00-2:30 Closing Remarks and Q&A            
+2:00-2:30 Closing Remarks and Q&A<br />
+                Video:[here](https://stanford.zoom.us/rec/play/vKOrLH0hQbLPz1-BvR4NXurR73_uc-3OeNmeuMxDvt6VrjXX3psOVPd7VUBN_k7BJ_1lKdWtDd0gyM53.Jl6NANtfFUqomoq0?startTime=1627073829000&_x_zm_rtaid=Pc_8uJJdQQCOvHNWcztKjg.1627480177433.259d312c5b87157627edcf8c36ef8bbb&_x_zm_rhtaid=651)
                 
 2:30 - 3:00: Phylo chat office hours
 
