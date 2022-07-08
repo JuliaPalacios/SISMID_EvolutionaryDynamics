@@ -27,16 +27,50 @@ If there are any issues with the installation, please post the error in the SISM
 
 
 **Wednesday 21st: Getting started with BEAST 2** <br />
-
+8-8:50
 11:30 - 12:20: *Lecture Julia, M: Nicola:* Introduction Into Bayesian Phylogenetics and BEAST<br />
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2021-07-21_Introduction.pdf?raw=true)<br />
                 Video: [here](https://stanford.zoom.us/rec/share/-6aDehBWYZJA10j5507y5FJBAIyvZml480nLzj1ZX7rd48Qk3PLKn-UY2GtWcduj.WZTY4r-L9d9m5uXh?startTime=1626892546000)
 
+9:05-11:00
 12:35 - 2:30  *Lecture Nídia + Tutorial Joëlle, M: Joëlle:*  Getting BEAST2 to run with SARS2 <br />
                 Slides: [Introduction to BEAST 2](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2021-07-21_IntroductionToBEAST2_NT.pdf)<br />
                 Video: [here](https://stanford.zoom.us/rec/share/lp3Ei2GGrl_45cKDS7YB6teHqGxVjjUSoLfNpH1OUtWTcZZfGP1Q0GqexSusrD60.mZkLg1SZEPQkJo6T?startTime=1626896252000)<br />
                 Tutorial: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Introduction-to-BEAST2.zip?raw=true)<br />
                 Video: [here](https://stanford.zoom.us/rec/share/-PLZn93I2KFgdC-SJrXTMA6kO0XJ_wP8cdA7_ocwjqXW4CXDiN2o71GLQsudWQ94.CI7-bny7r0Mp9cHu?startTime=1626899468000)
+11:10-12:00 lecture 
+
+12:00-1:00 lunch break
+
+1:00 - 1:50 tutorial BmodelTest
+
+===end
+
+8:00-8:50 lecture julia and joelle
+
+9:00-9:50 tutorial
+
+10:00-10:50 Priors and convergence Joelle and Nicola
+
+11:00-11:50  lecture Tree distances and tree convergence
+
+12:00- 1:00 lunch break
+1:00-1:50 *Lecture Nicola + Joëlle:* Structured population
+1:55-2:30 tutorial
+
+===
+8:00-8:20 *Lecture Nídia:*  how to visualize and interpret trees <br />
+
+8:20-9:10  Lecture Nicola, M: Nídia:* Recombination and Reassortment <br />
+               
+9:20 - 10:30: *Tutorial Nicola:* Inferring reassortment and recombination patterns <br />
+                
+10:30-11:00 Closing Remarks and Q&A<br />
+
+===
+                Video:[here](https://stanford.zoom.us/rec/play/vKOrLH0hQbLPz1-BvR4NXurR73_uc-3OeNmeuMxDvt6VrjXX3psOVPd7VUBN_k7BJ_1lKdWtDd0gyM53.Jl6NANtfFUqomoq0?startTime=1627073829000&_x_zm_rtaid=Pc_8uJJdQQCOvHNWcztKjg.1627480177433.259d312c5b87157627edcf8c36ef8bbb&_x_zm_rhtaid=651)
+                
+2:30 - 3:00: Phylo chat office hours
 
 2:40 - 3:10: Phylo chat office hours. 
 
