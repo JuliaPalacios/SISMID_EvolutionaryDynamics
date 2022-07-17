@@ -26,121 +26,101 @@ If there are any issues with the installation, please post the error in the SISM
 [Zoom link](https://stanford.zoom.us/j/95863616151?pwd=Tis3UXBLNmNYdUxvRHFZcTRKbmNiUT09) <br />
 
 
-**Wednesday 21st: Getting started with BEAST 2** <br />
-8-8:50
-11:30 - 12:20: *Lecture Julia, M: Nicola:* Introduction Into Bayesian Phylogenetics and BEAST<br />
+**Monday 25th: Getting started with BEAST 2** <br />
+8-8:50: *Lecture Julia, M: Nicola:* Introduction Into Bayesian Phylogenetics and BEAST<br />
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2021-07-21_Introduction.pdf?raw=true)<br />
-                Video: [here](https://stanford.zoom.us/rec/share/-6aDehBWYZJA10j5507y5FJBAIyvZml480nLzj1ZX7rd48Qk3PLKn-UY2GtWcduj.WZTY4r-L9d9m5uXh?startTime=1626892546000)
+                Video: [here]()
 
-9:05-11:00
-12:35 - 2:30  *Lecture Nídia + Tutorial Joëlle, M: Joëlle:*  Getting BEAST2 to run with SARS2 <br />
+9:05-11:00:  *Lecture Nídia + Tutorial Joëlle, M: Joëlle:*  Getting BEAST2 to run with SARS2 <br />
                 Slides: [Introduction to BEAST 2](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2021-07-21_IntroductionToBEAST2_NT.pdf)<br />
-                Video: [here](https://stanford.zoom.us/rec/share/lp3Ei2GGrl_45cKDS7YB6teHqGxVjjUSoLfNpH1OUtWTcZZfGP1Q0GqexSusrD60.mZkLg1SZEPQkJo6T?startTime=1626896252000)<br />
+                Video: [here]()<br />
                 Tutorial: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Introduction-to-BEAST2.zip?raw=true)<br />
-                Video: [here](https://stanford.zoom.us/rec/share/-PLZn93I2KFgdC-SJrXTMA6kO0XJ_wP8cdA7_ocwjqXW4CXDiN2o71GLQsudWQ94.CI7-bny7r0Mp9cHu?startTime=1626899468000)
-11:10-12:00 lecture 
+                Video: [here]()
 
-12:00-1:00 lunch break
+11:00-11:30 lunch break
 
-1:00 - 1:50 tutorial BmodelTest
-
-===end
-
-8:00-8:50 lecture julia and joelle
-
-9:00-9:50 tutorial
-
-10:00-10:50 Priors and convergence Joelle and Nicola
-
-11:00-11:50  lecture Tree distances and tree convergence
-
-12:00- 1:00 lunch break
-1:00-1:50 *Lecture Nicola + Joëlle:* Structured population
-1:55-2:30 tutorial
-
-===
-8:00-8:20 *Lecture Nídia:*  how to visualize and interpret trees <br />
-
-8:20-9:10  Lecture Nicola, M: Nídia:* Recombination and Reassortment <br />
-               
-9:20 - 10:30: *Tutorial Nicola:* Inferring reassortment and recombination patterns <br />
-                
-10:30-11:00 Closing Remarks and Q&A<br />
-
-===
-                Video:[here](https://stanford.zoom.us/rec/play/vKOrLH0hQbLPz1-BvR4NXurR73_uc-3OeNmeuMxDvt6VrjXX3psOVPd7VUBN_k7BJ_1lKdWtDd0gyM53.Jl6NANtfFUqomoq0?startTime=1627073829000&_x_zm_rtaid=Pc_8uJJdQQCOvHNWcztKjg.1627480177433.259d312c5b87157627edcf8c36ef8bbb&_x_zm_rhtaid=651)
-                
-2:30 - 3:00: Phylo chat office hours
-
-2:40 - 3:10: Phylo chat office hours. 
-
-In preparation for Thursday, please install [R](https://www.r-project.org). We will use the follwing packages: ape (R cran), [phylodyn](https://github.com/mdkarcher/phylodyn), and [bdskytools](https://github.com/laduplessis/bdskytools). Needed?
-
-**Thursday 22nd: Sequence evolution and Estimation of population level trends using phylogenetic trees**
-
-8:00 - 8:50 *Lecture Nicola, M: Julia:* Modelling the evolution of genomes through time<br />
+11:30 - 12:20 *Lecture Nicola, M: Julia:* Modelling the evolution of genomes through time<br />
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2021-07-22_sismid_evol_nfm.pptx?raw=true)<br />
-                Videos: [here](https://stanford.zoom.us/rec/share/lreja8-Cf6rvbjcnWhI1EkdJ3lQpxSdfTfrMRImgzkapfiZ55r7xynrKoyGaNwpJ.h5B_hX9Jpzxl8TzG?startTime=1626966297000) 
-
-9:05 - 9:55 *Tutorial Nicola:* BModelTest Tutorial with Influenza <br />
+                Videos: [here]() 
+                
+12:35 - 13:25 *Tutorial Nicola:* BModelTest Tutorial with Influenza <br />
                 Tutorials: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/2021-07-22_BModelTest.zip?raw=true)<br />
-                Videos: [part1](https://stanford.zoom.us/rec/share/lreja8-Cf6rvbjcnWhI1EkdJ3lQpxSdfTfrMRImgzkapfiZ55r7xynrKoyGaNwpJ.h5B_hX9Jpzxl8TzG?startTime=1626969978000),[part2](https://stanford.zoom.us/rec/share/lreja8-Cf6rvbjcnWhI1EkdJ3lQpxSdfTfrMRImgzkapfiZ55r7xynrKoyGaNwpJ.h5B_hX9Jpzxl8TzG?startTime=1626972729000)
+                Videos: [part1](),[part2]()
 
-10:10 - 11:00: *Lecture Julia, M: Joëlle:* Lecture: tree priors (coalescent+birth death) <br />
-                Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2021-07-22_tree_priors.pdf?raw=true)<br />                Video: [here](https://stanford.zoom.us/rec/share/lreja8-Cf6rvbjcnWhI1EkdJ3lQpxSdfTfrMRImgzkapfiZ55r7xynrKoyGaNwpJ.h5B_hX9Jpzxl8TzG?startTime=1626973935000)
 
-11:30 - 12:20: *Tutorial Julia:* Estimation of effective population size trajectories <br />
-                Tutorial: [Ne inference](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/raw/master/Tutorials/Ne_inference.zip?raw=true).<br />
-                Video:[here](https://stanford.zoom.us/rec/share/MEOYYY_970d3dX2UYLIG03mNHHiCc7VMk1IMn2XgRWO1bn7VojtnDi0yX1ZwthpM.IRgdmLN4S5JgJOkf?startTime=1626978761000)</b> 
-               
-12:35 - 1:25: Priors and convergence
+13:40 - 14:30: Priors and convergence
 *Short Lecture Prior (Nicola) + Tutorial Joëlle + Small Lecture Joëlle on Convergence, M: Nicola:* Priors and convergence issues and how to solve them with SARS2 <br />
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2021-07-22_priors_nfm.pptx?raw=true)<br />
-                Videos: [here](https://stanford.zoom.us/rec/share/MEOYYY_970d3dX2UYLIG03mNHHiCc7VMk1IMn2XgRWO1bn7VojtnDi0yX1ZwthpM.IRgdmLN4S5JgJOkf?startTime=1626982601000)<br />
+                Videos: [here]()<br />
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2020-07-27_troubleshooting.pptx?raw=true)<br />
                 Tutorials: [Prior-selection](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Prior-selection.zip?raw=true)<br />
-                Videos:[here](https://stanford.zoom.us/rec/share/MEOYYY_970d3dX2UYLIG03mNHHiCc7VMk1IMn2XgRWO1bn7VojtnDi0yX1ZwthpM.IRgdmLN4S5JgJOkf?startTime=1626983104000)
-                [here2](https://stanford.zoom.us/rec/share/MEOYYY_970d3dX2UYLIG03mNHHiCc7VMk1IMn2XgRWO1bn7VojtnDi0yX1ZwthpM.IRgdmLN4S5JgJOkf?startTime=1626986554000)
-
-1:40 - 2:30
-*Lecture + Tutorials: Julia, M: Joëlle* Tree distances and tree convergence <br />
-                Slides1: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2021-07-22_Summary_Trees.pdf?raw=true)<br />
-                Video: [here](https://stanford.zoom.us/rec/share/MEOYYY_970d3dX2UYLIG03mNHHiCc7VMk1IMn2XgRWO1bn7VojtnDi0yX1ZwthpM.IRgdmLN4S5JgJOkf?startTime=1626986888000)
-
+                Videos:[here]()
+                [here2]()
 
 2:40 - 3:10: Phylo chat office hours
 
-Day 2 additional tutorial suggestions: [Model adequacy](https://taming-the-beast.org/tutorials/adequacy_tutorial/), [Coupled MCMC](https://taming-the-beast.org/tutorials/CoupledMCMC-Tutorial/)
 
-**Friday 23rd: Analyzing structured populattions and whole genomes**
+Day 1 additional tutorial suggestions: [Model adequacy](https://taming-the-beast.org/tutorials/adequacy_tutorial/), [Coupled MCMC](https://taming-the-beast.org/tutorials/CoupledMCMC-Tutorial/) 
 
-8:00 - 8:50 *Lecture Nicola + Joëlle:* Structured populations <br />
+              
+
+In preparation for Thursday, please install [R](https://www.r-project.org). We will use the follwing packages: ape (R cran), [phylodyn](https://github.com/mdkarcher/phylodyn), and [bdskytools](https://github.com/laduplessis/bdskytools). Needed?
+
+**Tuesday 26th: Estimation of population level trends from phylogenetic trees**
+
+
+8:00 - 8:50: *Lecture Julia, M: Joëlle:* Lecture: tree priors (coalescent+birth death) <br />
+                Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2021-07-22_tree_priors.pdf?raw=true)<br />                Video: [here]()
+
+9:05 - 9:55: *Tutorial Julia:* Estimation of effective population size trajectories <br />
+                Tutorial: [Ne inference](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/raw/master/Tutorials/Ne_inference.zip?raw=true).<br />
+                Video:[here]()
+                
+10:10 -11:00 *Lecture Nicola + Joëlle:* Structured populations <br />
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2021-07-23_sismid_structured_nfm.pptx?raw=true)<br />
-                Video: [here](https://stanford.zoom.us/rec/share/7AsGkB1qDz0_qoNIpMvGyf6uKVHvmO2Dg7NwtaNQYla7pQq_qoSNz1mJnLrGHFPl.FJzJFuCQbGTJz0B9?startTime=1627052560000)
+                Video: [here]()
+                
+11:00-11:30 lunch break
 
-9:05 - 10:40 *Tutorial Nicola + Joëlle:* Structured Coalescent, Multi-Type Birth Death <br />
+
+11:30 - 12:20 *Tutorial Nicola + Joëlle:* Structured Coalescent, Multi-Type Birth Death <br />
                 Tutorials: [Mascot](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Mascot-Tutorial.zip?raw=true), [BDMM](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Structured-birth-death-model.zip?raw=true).<br />
-                Video: [here](https://stanford.zoom.us/rec/share/7AsGkB1qDz0_qoNIpMvGyf6uKVHvmO2Dg7NwtaNQYla7pQq_qoSNz1mJnLrGHFPl.FJzJFuCQbGTJz0B9?startTime=1627056463000)<br/>
-                [here2](https://stanford.zoom.us/rec/share/7AsGkB1qDz0_qoNIpMvGyf6uKVHvmO2Dg7NwtaNQYla7pQq_qoSNz1mJnLrGHFPl.FJzJFuCQbGTJz0B9?startTime=1627061499000)
+                Video: [here]()<br/>
+                [here2]()
                 
-10:40 - 11:00 *Lecture Nídia:*  how to visualize and interpret trees <br />
+12:35 - 13:25 *Lecture Nídia:*  how to visualize and interpret trees <br />
                 Slides: [Post-processing of BEAST trees](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2021-07-23_FigTreeTutorial_NT.pdf)<br />
-                Video: [here](https://stanford.zoom.us/rec/share/7AsGkB1qDz0_qoNIpMvGyf6uKVHvmO2Dg7NwtaNQYla7pQq_qoSNz1mJnLrGHFPl.FJzJFuCQbGTJz0B9?startTime=1627061930000)
+                Video: [here]()
+                
+                
+13:40 -14:30
+*Lecture + Tutorials: Julia, M: Joëlle* Tree distances and tree convergence <br />
+                Slides1: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2021-07-22_Summary_Trees.pdf?raw=true)<br />
+                Video: [here]()
 
-11:30 - 12:20: *Lecture Nicola, M: Nídia:* Recombination and Reassortment <br />
+               
+
+2:40 - 3:10: Phylo chat office hours
+
+Day 2 additional tutorial suggestions: [Discrete trait analysis (using BEAST1)](http://beast.community/workshop_discrete_diffusion), [MultiType tree](https://taming-the-beast.org/tutorials/Structured-coalescent/), [Mascot-GLM](https://github.com/nicfel/GLM-Tutorial)
+
+**Wednesday 28th: Population structure and phylogenetic networks**
+
+
+8:00 - 8:50: *Lecture Nicola, M: Nídia:* Recombination and Reassortment <br />
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2021-07-23_sismid_network_nfm.pptx?raw=true)<br />
-                Video: [here](https://stanford.zoom.us/rec/share/ehfWIl10xUkweRCVBKR043Md6tkCDmLwn5iROiNfUhsfyUW31alT-sQzn3M7t18.-_HsanlGaMPXB8Zf?startTime=1627065166000)
+                Video: [here]()
 
-12:35 - 2:00: *Tutorial Nicola:* Inferring reassortment and recombination patterns <br />
+9:05 - 10:30: *Tutorial Nicola:* Inferring reassortment and recombination patterns <br />
                 Tutorials: [Coalescent with Reassortment](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Reassortment-Tutorial.zip?raw=true), [Coalescent with Recombination](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Recombination-Tutorial.zip?raw=true)<br />
-                Video: [here](https://stanford.zoom.us/rec/share/HWnly0KWFhASGoOwG8G0e6yU6es05HBPkPxgF6eMnMnBW75A1CHN23wcSeg2Zcxn.vp9842wYBbnCJO0-?startTime=1627073434000)
+                Video: [here]()
                 
-2:00-2:30 Closing Remarks and Q&A<br />
-                Video:[here](https://stanford.zoom.us/rec/play/vKOrLH0hQbLPz1-BvR4NXurR73_uc-3OeNmeuMxDvt6VrjXX3psOVPd7VUBN_k7BJ_1lKdWtDd0gyM53.Jl6NANtfFUqomoq0?startTime=1627073829000&_x_zm_rtaid=Pc_8uJJdQQCOvHNWcztKjg.1627480177433.259d312c5b87157627edcf8c36ef8bbb&_x_zm_rhtaid=651)
+10:30-11:30 Closing Remarks and Q&A<br />
+                Video:[here]()
                 
-2:30 - 3:00: Phylo chat office hours
+12:00 - 12:30: Phylo chat office hours
 
-Day 3 additional tutorial suggestions: [Discrete trait analysis (using BEAST1)](http://beast.community/workshop_discrete_diffusion), [MultiType tree](https://taming-the-beast.org/tutorials/Structured-coalescent/), [Mascot-GLM](https://github.com/nicfel/GLM-Tutorial), [Bacter](https://taming-the-beast.org/tutorials/Bacter-Tutorial/)
+Day 3 additional tutorial suggestions: [Bacter](https://taming-the-beast.org/tutorials/Bacter-Tutorial/)
          
 Prerequisites: This module assumes knowledge of the material in Module 1: Probability and Statistical Inference, though not necessarily from taking that module.
 
