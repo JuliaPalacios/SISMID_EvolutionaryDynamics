@@ -64,7 +64,7 @@ Day 1 additional tutorial suggestions: [Model adequacy](https://taming-the-beast
 
               
 
-In preparation for Thursday, please install [R](https://www.r-project.org). We will use the follwing packages: ape (R cran), [phylodyn](https://github.com/mdkarcher/phylodyn), and [bdskytools](https://github.com/laduplessis/bdskytools). Needed?
+In preparation for Tuesday, please install [R](https://www.r-project.org). We will use the follwing packages: ape (R cran), [phylodyn](https://github.com/mdkarcher/phylodyn), and [bdskytools](https://github.com/laduplessis/bdskytools). Needed?
 
 **Tuesday 26th: Estimation of population level trends from phylogenetic trees**
 
