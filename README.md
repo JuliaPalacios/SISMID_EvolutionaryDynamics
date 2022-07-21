@@ -23,12 +23,12 @@ If there are any issues with the installation, please post the error in the SISM
 
 ## Schedule (Times in Pacific Time)
 
-[Zoom link](https://stanford.zoom.us/j/95863616151?pwd=Tis3UXBLNmNYdUxvRHFZcTRKbmNiUT09) <br />
+[Zoom link](https://stanford.zoom.us/j/93968078131?pwd=dDJOejNKZU43clNRN01XN05BWWRsdz09) <br />
 
 
 **Monday 25th: Getting started with BEAST 2** <br />
 8-8:50: *Lecture Julia, M: Nicola:* Introduction Into Bayesian Phylogenetics and BEAST<br />
-                Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2021-07-21_Introduction.pdf?raw=true)<br />
+                Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2022-07-25_Introduction.pdf?raw=true)<br />
                 Video: [here]()
 
 9:05-11:00:  *Lecture Nídia + Tutorial Joëlle, M: Joëlle:*  Getting BEAST2 to run with SARS2 <br />
@@ -64,7 +64,7 @@ Day 1 additional tutorial suggestions: [Model adequacy](https://taming-the-beast
 
               
 
-In preparation for Thursday, please install [R](https://www.r-project.org). We will use the follwing packages: ape (R cran), [phylodyn](https://github.com/mdkarcher/phylodyn), and [bdskytools](https://github.com/laduplessis/bdskytools). Needed?
+In preparation for Tuesday, please install [R](https://www.r-project.org). We will use the follwing packages: ape (R cran), [phylodyn](https://github.com/mdkarcher/phylodyn), and [bdskytools](https://github.com/laduplessis/bdskytools). Needed?
 
 **Tuesday 26th: Estimation of population level trends from phylogenetic trees**
 
