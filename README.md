@@ -40,7 +40,7 @@ If there are any issues with the installation, please post the error in the SISM
 11:00-11:30 lunch break
 
 11:30 - 12:20 *Lecture Nicola, M: Julia:* Modelling the evolution of genomes through time<br />
-                Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2021-07-22_sismid_evol_nfm.pptx?raw=true)<br />
+                Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2022-07-26-sismid_evol_nfm.pptx?raw=true)<br />
                 Videos: [here]() 
                 
 12:35 - 13:25 *Tutorial Nicola:* BModelTest Tutorial with Influenza <br />
@@ -77,7 +77,7 @@ In preparation for Tuesday, please install [R](https://www.r-project.org). We wi
                 Video:[here]()
                 
 10:10 -11:00 *Lecture Nicola + Joëlle:* Structured populations <br />
-                Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2021-07-23_sismid_structured_nfm.pptx?raw=true)<br />
+                Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2022-07-26-sismid_structured_nfm.pptx?raw=true)<br />
                 Video: [here]()
                 
 11:00-11:30 lunch break
@@ -108,7 +108,7 @@ Day 2 additional tutorial suggestions: [Discrete trait analysis (using BEAST1)](
 
 
 8:00 - 8:50: *Lecture Nicola, M: Nídia:* Recombination and Reassortment <br />
-                Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2021-07-23_sismid_network_nfm.pptx?raw=true)<br />
+                Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2022-07-27-sismid_network_nfm.pptx?raw=true)<br />
                 Video: [here]()
 
 9:05 - 10:30: *Tutorial Nicola:* Inferring reassortment and recombination patterns <br />
