@@ -42,7 +42,7 @@ If there are any issues with the installation, please post the error in the SISM
 
 11:30 - 12:20 *Lecture Nicola, M: Julia:* Modelling the evolution of genomes through time<br />
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2022-07-26-sismid_evol_nfm.pptx?raw=true)<br />
-                Videos: [here]() 
+                Videos: [here](https://stanford.zoom.us/rec/share/R5BHj64lU_x4_POZmza78l_I2f7pAf5jTWOdRI4-_2zSLaDut1IoGmTZmEy0RGoX.QDuZkAIJBsbBp32L?startTime=1658773917000) 
                 
 12:35 - 13:25 *Tutorial Nicola:* BModelTest Tutorial with Influenza <br />
                 Tutorials: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/2021-07-22_BModelTest.zip?raw=true)<br />
