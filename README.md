@@ -35,7 +35,7 @@ If there are any issues with the installation, please post the error in the SISM
                 Slides: [Introduction to BEAST 2](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2021-07-21_IntroductionToBEAST2_NT.pdf)<br />
                 Video: [here](https://stanford.zoom.us/rec/share/66uvMHNM7Heu1mPUzRAYn-iLYe96Poy3F1ikeZVVIqPX792fjCmjT7aravPDiZpl.rJVvJEiUldq_SKOE?startTime=1658765295000)<br />
                 Tutorial: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Introduction-to-BEAST2.zip?raw=true)<br />
-                Video: [here]()
+                Video: [here](https://stanford.zoom.us/rec/share/66uvMHNM7Heu1mPUzRAYn-iLYe96Poy3F1ikeZVVIqPX792fjCmjT7aravPDiZpl.rJVvJEiUldq_SKOE?startTime=1658771657000)
 
 11:00-11:30 lunch break
 
