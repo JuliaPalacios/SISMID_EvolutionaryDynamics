@@ -67,15 +67,15 @@ Day 1 additional tutorial suggestions: [Model adequacy](https://taming-the-beast
 
 
 8:00 - 8:50: *Lecture Julia, M: Joëlle:* Lecture: tree priors (coalescent+birth death) <br />
-                Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2021-07-22_tree_priors.pdf?raw=true)<br />                Video: [here]()
+                Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2021-07-22_tree_priors.pdf?raw=true)<br />                Video: [here](https://stanford.zoom.us/rec/share/1jUL8bot-o1R6S2-Uo8nMBT6ab_rhYyZpLFu93KOT9WlwhjhQzuwHfaHzWZQbOQ.ft0YgjPvZTfNXmf_?startTime=1658847742000)
 
 9:05 - 9:55: *Tutorial Julia:* Estimation of effective population size trajectories <br />
                 Tutorial: [Ne inference](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/raw/master/Tutorials/Ne_inference.zip?raw=true).<br />
-                Video:[here]()
+                Video:[here](https://stanford.zoom.us/rec/share/1jUL8bot-o1R6S2-Uo8nMBT6ab_rhYyZpLFu93KOT9WlwhjhQzuwHfaHzWZQbOQ.ft0YgjPvZTfNXmf_?startTime=1658851593000)
                 
 10:10 -11:00 *Lecture Nicola + Joëlle:* Structured populations <br />
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2022-07-26-sismid_structured_nfm.pptx?raw=true)<br />
-                Video: [here]()
+                Video: [here](https://stanford.zoom.us/rec/share/1jUL8bot-o1R6S2-Uo8nMBT6ab_rhYyZpLFu93KOT9WlwhjhQzuwHfaHzWZQbOQ.ft0YgjPvZTfNXmf_?startTime=1658855466000)
                 
 11:00-11:30 lunch break
 
