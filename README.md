@@ -46,17 +46,16 @@ If there are any issues with the installation, please post the error in the SISM
                 
 12:35 - 13:25 *Tutorial Nicola:* BModelTest Tutorial with Influenza <br />
                 Tutorials: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/2021-07-22_BModelTest.zip?raw=true)<br />
-                Videos: [part1](),[part2]()
+                Videos: [part1](https://stanford.zoom.us/rec/share/2tdIOP7l71j-CUouT8_F4JD7S9orvd8qbj7WbnzRWnPuEhtXvXDR0BfLn80BsEgC.q5UW689UuNaFalmU?startTime=1658777814000),[part2](https://stanford.zoom.us/rec/share/2tdIOP7l71j-CUouT8_F4JD7S9orvd8qbj7WbnzRWnPuEhtXvXDR0BfLn80BsEgC.q5UW689UuNaFalmU?startTime=1658780410000)
 
 
 13:40 - 14:30: Priors and convergence
 *Short Lecture Prior (Nicola) + Tutorial Joëlle + Small Lecture Joëlle on Convergence, M: Nicola:* Priors and convergence issues and how to solve them with SARS2 <br />
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2022-07-25_priors_nfm.pptx?raw=true)<br />
-                Videos: [here]()<br />
+                Videos: [here](https://stanford.zoom.us/rec/share/2tdIOP7l71j-CUouT8_F4JD7S9orvd8qbj7WbnzRWnPuEhtXvXDR0BfLn80BsEgC.q5UW689UuNaFalmU?startTime=1658781675000)<br />
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2020-07-27_troubleshooting.pptx?raw=true)<br />
                 Tutorials: [Prior-selection](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Prior-selection.zip?raw=true)<br />
-                Videos:[here]()
-                [here2]()
+               
 
 2:40 - 3:10: Phylo chat office hours
 
