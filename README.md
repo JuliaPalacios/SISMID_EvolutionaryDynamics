@@ -101,7 +101,7 @@ Day 1 additional tutorial suggestions: [Model adequacy](https://taming-the-beast
 
 Day 2 additional tutorial suggestions: [Discrete trait analysis (using BEAST1)](http://beast.community/workshop_discrete_diffusion), [MultiType tree](https://taming-the-beast.org/tutorials/Structured-coalescent/), [Mascot-GLM](https://github.com/nicfel/GLM-Tutorial)
 
-**Wednesday 28th: Recombination and phylogenetic networks**
+**Wednesday 27th: Recombination and phylogenetic networks**
 
 
 8:00 - 8:50: *Lecture Nicola, M: Nídia:* Recombination and Reassortment <br />
