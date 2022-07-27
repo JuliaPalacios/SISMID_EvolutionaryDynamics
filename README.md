@@ -112,10 +112,10 @@ Day 2 additional tutorial suggestions: [Discrete trait analysis (using BEAST1)](
                 Tutorials: [Coalescent with Reassortment](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Reassortment-Tutorial.zip?raw=true), [Coalescent with Recombination](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Recombination-Tutorial.zip?raw=true)<br />
                 Video: [here]()
                 
-10:30-11:30 Closing Remarks and Q&A<br />
+10:30-11:00 Closing Remarks and Q&A<br />
                 Video:[here]()
                 
-12:00 - 12:30: Phylo chat office hours
+11:00 - 11:20: Phylo chat office hours
 
 Day 3 additional tutorial suggestions: [Bacter](https://taming-the-beast.org/tutorials/Bacter-Tutorial/), [SCoRe](https://github.com/jugne/SCoRe-tutorial)
          
