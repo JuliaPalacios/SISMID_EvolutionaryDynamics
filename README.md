@@ -101,7 +101,7 @@ Day 1 additional tutorial suggestions: [Model adequacy](https://taming-the-beast
 
 Day 2 additional tutorial suggestions: [Discrete trait analysis (using BEAST1)](http://beast.community/workshop_discrete_diffusion), [MultiType tree](https://taming-the-beast.org/tutorials/Structured-coalescent/), [Mascot-GLM](https://github.com/nicfel/GLM-Tutorial)
 
-**Wednesday 28th: Population structure and phylogenetic networks**
+**Wednesday 28th: Recombination and phylogenetic networks**
 
 
 8:00 - 8:50: *Lecture Nicola, M: Nídia:* Recombination and Reassortment <br />
@@ -117,7 +117,7 @@ Day 2 additional tutorial suggestions: [Discrete trait analysis (using BEAST1)](
                 
 12:00 - 12:30: Phylo chat office hours
 
-Day 3 additional tutorial suggestions: [Bacter](https://taming-the-beast.org/tutorials/Bacter-Tutorial/)
+Day 3 additional tutorial suggestions: [Bacter](https://taming-the-beast.org/tutorials/Bacter-Tutorial/), [SCoRe](https://github.com/jugne/SCoRe-tutorial)
          
 Prerequisites: This module assumes knowledge of the material in Module 1: Probability and Statistical Inference, though not necessarily from taking that module.
 
