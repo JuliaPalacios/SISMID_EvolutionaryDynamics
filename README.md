@@ -106,14 +106,14 @@ Day 2 additional tutorial suggestions: [Discrete trait analysis (using BEAST1)](
 
 8:00 - 8:50: *Lecture Nicola, M: Nídia:* Recombination and Reassortment <br />
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2022-07-27-sismid_network_nfm.pptx?raw=true)<br />
-                Video: [here]()
+                Video: [here](https://stanford.zoom.us/rec/share/P1vyeWhX03_vwSJ0zE_99S-5tsG6WOIlKsWmgVrkOyUcm17D4idjYDes7zI_sOjH.Y8kIyGdYh7iJ5csh?startTime=1658934128000)
 
 9:05 - 10:30: *Tutorial Nicola:* Inferring reassortment and recombination patterns <br />
                 Tutorials: [Coalescent with Reassortment](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Reassortment-Tutorial.zip?raw=true), [Coalescent with Recombination](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Recombination-Tutorial.zip?raw=true)<br />
-                Video: [here]()
+                Video: [here](https://stanford.zoom.us/rec/share/P1vyeWhX03_vwSJ0zE_99S-5tsG6WOIlKsWmgVrkOyUcm17D4idjYDes7zI_sOjH.Y8kIyGdYh7iJ5csh?startTime=1658938078000) [here2](https://stanford.zoom.us/rec/share/P1vyeWhX03_vwSJ0zE_99S-5tsG6WOIlKsWmgVrkOyUcm17D4idjYDes7zI_sOjH.Y8kIyGdYh7iJ5csh?startTime=1658942206000)
                 
 10:30-11:00 Closing Remarks and Q&A<br />
-                Video:[here]()
+                Video:[here](https://stanford.zoom.us/rec/share/P1vyeWhX03_vwSJ0zE_99S-5tsG6WOIlKsWmgVrkOyUcm17D4idjYDes7zI_sOjH.Y8kIyGdYh7iJ5csh?startTime=1658942911000)
                 
 11:00 - 11:20: Phylo chat office hours
 
