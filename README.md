@@ -32,7 +32,7 @@ If there are any issues with the installation, please post the error in the SISM
 2:50-5:00:  *Lecture Julia + Tutorial Nicola*  Getting BEAST2 to run with SARS2 <br />
                 Slides: [Introduction to BEAST 2](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2021-07-21_IntroductionToBEAST2_NT.pdf)<br />
                
-                Tutorial: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Introduction-to-BEAST2.zip?raw=true)<br />
+<br> Tutorial: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Introduction-to-BEAST2.zip?raw=true)<br />
            
 **Thursday July 13: Modeling evolution**
 
