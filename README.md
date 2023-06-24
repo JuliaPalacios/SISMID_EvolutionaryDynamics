@@ -6,13 +6,13 @@
 <p>  </p>
 
 Instructor(s):
-Palacios, Julia; Müller, Nicola; Trovão, Nídia; Barido-Sottani, Joëlle
+Palacios, Julia; Müller, Nicola.
 
 ## General
 
 This module covers the use of phylogenetic and bioinformatic tools to analyze pathogen genetic variation and to gain insight into the processes that shape their diversity. The module focuses on phylogenies and how these relate to population genetic processes in infectious diseases.
 
-In particular, the module will cover Bayesian Evolutionary Analysis by Sampling Trees 2 (BEAST2). This software will be used in class exercises that are mainly focused on estimating epidemic time scales, reconstruction changes in viral population sizes through time and inference of spatial diffusion of viruses. Evolutionary processes including recombination and selection will also be considered.
+In particular, the module will cover Bayesian Evolutionary Analysis by Sampling Trees 2 (BEAST2). This software will be used in class exercises that are mainly focused on estimating epidemic time scales, reconstruction changes in viral population sizes through time, and inference of spatial diffusion of viruses. Evolutionary processes including recombination and selection will also be considered.
 
 ## Before the course
 
@@ -26,28 +26,31 @@ If there are any issues with the installation, please post the error in the SISM
 [Zoom link](https://stanford.zoom.us/j/93968078131?pwd=dDJOejNKZU43clNRN01XN05BWWRsdz09) <br />
 
 
-**Monday 25th: Getting started with BEAST 2** <br />
-8-8:50: *Lecture Julia, M: Nicola:* Introduction Into Bayesian Phylogenetics and BEAST<br />
+**Wednesday July 12: Introduction** <br />
+1:30-2:30: *Lecture Julia* Introduction Into Bayesian Phylogenetics and BEAST<br />
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2022-07-25_Introduction.pdf?raw=true)<br />
-                Video: [here](https://stanford.zoom.us/rec/share/66uvMHNM7Heu1mPUzRAYn-iLYe96Poy3F1ikeZVVIqPX792fjCmjT7aravPDiZpl.rJVvJEiUldq_SKOE?startTime=1658761529000)
 
-9:05-11:00:  *Lecture Nídia + Tutorial Joëlle, M: Joëlle:*  Getting BEAST2 to run with SARS2 <br />
+
+2:50-5:00:  *Lecture Julia + Tutorial Nicola*  Getting BEAST2 to run with SARS2 <br />
                 Slides: [Introduction to BEAST 2](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2021-07-21_IntroductionToBEAST2_NT.pdf)<br />
-                Video: [here](https://stanford.zoom.us/rec/share/66uvMHNM7Heu1mPUzRAYn-iLYe96Poy3F1ikeZVVIqPX792fjCmjT7aravPDiZpl.rJVvJEiUldq_SKOE?startTime=1658765295000)<br />
+               
                 Tutorial: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Introduction-to-BEAST2.zip?raw=true)<br />
-                Video2: [part1](https://stanford.zoom.us/rec/share/66uvMHNM7Heu1mPUzRAYn-iLYe96Poy3F1ikeZVVIqPX792fjCmjT7aravPDiZpl.rJVvJEiUldq_SKOE?startTime=1658768741000) [part2](https://stanford.zoom.us/rec/share/66uvMHNM7Heu1mPUzRAYn-iLYe96Poy3F1ikeZVVIqPX792fjCmjT7aravPDiZpl.rJVvJEiUldq_SKOE?startTime=1658771657000)
+           
+**Thursday July 13: Modeling evolution**
 
-
-11:00-11:30 lunch break
-
-11:30 - 12:20 *Lecture Nicola, M: Julia:* Modelling the evolution of genomes through time<br />
+8:30 - 9:20 *Lecture Nicola* Modelling the evolution of genomes through time<br />
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2022-07-26-sismid_evol_nfm.pptx?raw=true)<br />
-                Videos: [here](https://stanford.zoom.us/rec/share/R5BHj64lU_x4_POZmza78l_I2f7pAf5jTWOdRI4-_2zSLaDut1IoGmTZmEy0RGoX.QDuZkAIJBsbBp32L?startTime=1658773917000) 
                 
-12:35 - 13:25 *Tutorial Nicola:* BModelTest Tutorial with Influenza <br />
+                
+9:35-10:25 *Tutorial Nicola:* BModelTest Tutorial with Influenza <br />
                 Tutorials: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/2021-07-22_BModelTest.zip?raw=true)<br />
-                Videos: [part1](https://stanford.zoom.us/rec/share/2tdIOP7l71j-CUouT8_F4JD7S9orvd8qbj7WbnzRWnPuEhtXvXDR0BfLn80BsEgC.q5UW689UuNaFalmU?startTime=1658777814000),[part2](https://stanford.zoom.us/rec/share/2tdIOP7l71j-CUouT8_F4JD7S9orvd8qbj7WbnzRWnPuEhtXvXDR0BfLn80BsEgC.q5UW689UuNaFalmU?startTime=1658780410000)
 
+8:00 - 8:50: *Lecture Julia, M: Joëlle:* Lecture: tree priors (coalescent+birth death) <br />
+                Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2021-07-22_tree_priors.pdf?raw=true)<br />                Video: [here](https://stanford.zoom.us/rec/share/1jUL8bot-o1R6S2-Uo8nMBT6ab_rhYyZpLFu93KOT9WlwhjhQzuwHfaHzWZQbOQ.ft0YgjPvZTfNXmf_?startTime=1658847742000)
+
+9:05 - 9:55: *Tutorial Julia:* Estimation of effective population size trajectories <br />
+                Tutorial: [Ne inference](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/raw/master/Tutorials/Ne_inference.zip?raw=true).<br />
+                Video:[here](https://stanford.zoom.us/rec/share/1jUL8bot-o1R6S2-Uo8nMBT6ab_rhYyZpLFu93KOT9WlwhjhQzuwHfaHzWZQbOQ.ft0YgjPvZTfNXmf_?startTime=1658851593000)               
 
 13:40 - 14:30: Priors and convergence
 *Short Lecture Prior (Nicola) + Tutorial Joëlle + Small Lecture Joëlle on Convergence, M: Nicola:* Priors and convergence issues and how to solve them with SARS2 <br />
@@ -66,12 +69,7 @@ Day 1 additional tutorial suggestions: [Model adequacy](https://taming-the-beast
 **Tuesday 26th: Estimation of population level trends from phylogenetic trees**
 
 
-8:00 - 8:50: *Lecture Julia, M: Joëlle:* Lecture: tree priors (coalescent+birth death) <br />
-                Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2021-07-22_tree_priors.pdf?raw=true)<br />                Video: [here](https://stanford.zoom.us/rec/share/1jUL8bot-o1R6S2-Uo8nMBT6ab_rhYyZpLFu93KOT9WlwhjhQzuwHfaHzWZQbOQ.ft0YgjPvZTfNXmf_?startTime=1658847742000)
 
-9:05 - 9:55: *Tutorial Julia:* Estimation of effective population size trajectories <br />
-                Tutorial: [Ne inference](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/raw/master/Tutorials/Ne_inference.zip?raw=true).<br />
-                Video:[here](https://stanford.zoom.us/rec/share/1jUL8bot-o1R6S2-Uo8nMBT6ab_rhYyZpLFu93KOT9WlwhjhQzuwHfaHzWZQbOQ.ft0YgjPvZTfNXmf_?startTime=1658851593000)
                 
 10:10 -11:00 *Lecture Nicola + Joëlle:* Structured populations <br />
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2022-07-26-sismid_structured_nfm.pptx?raw=true)<br />
