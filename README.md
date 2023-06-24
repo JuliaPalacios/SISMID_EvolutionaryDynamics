@@ -23,8 +23,6 @@ If there are any issues with the installation, please post the error in the SISM
 
 ## Schedule (Times in Pacific Time)
 
-[Zoom link](https://stanford.zoom.us/j/93968078131?pwd=dDJOejNKZU43clNRN01XN05BWWRsdz09) <br />
-
 
 **Wednesday July 12: Introduction** <br />
 1:30-2:30: *Lecture Julia* Introduction Into Bayesian Phylogenetics and BEAST<br />
