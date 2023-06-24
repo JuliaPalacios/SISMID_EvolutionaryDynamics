@@ -48,14 +48,16 @@ Tutorial: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/bl
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2021-07-22_tree_priors.pdf?raw=true)<br />               
 11:20 - 12:10: *Tutorial Julia:* Estimation of effective population size trajectories <br />
                 Tutorial: [Ne inference](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/raw/master/Tutorials/Ne_inference.zip?raw=true).<br />
+
+12:10-13:10:  Lunch break
                  
-13:00 - 13:50: Priors and convergence
+13:10 - 14:00: Priors and convergence
 *Short Lecture Prior (Nicola) + Tutorial Joëlle + Small Lecture Joëlle on Convergence, M: Nicola:* Priors and convergence issues and how to solve them with SARS2 <br />
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2022-07-25_priors_nfm.pptx?raw=true)<br />
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2020-07-27_troubleshooting.pptx?raw=true)<br />
                 Tutorials: [Prior-selection](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Prior-selection.zip?raw=true)<br />
                
-12:35 - 13:25 *Lecture Nídia:*  how to visualize and interpret trees <br />
+14:00 - 15:00 *Lecture Julia:*  how to visualize and interpret trees <br />
                 Slides: [Post-processing of BEAST trees](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2021-07-23_FigTreeTutorial_NT.pdf)<br />
                 Video: [here](https://stanford.zoom.us/rec/share/q_U_E-gLrxv-B57u3_WBTxQmJRjm0i3g1j69a5NEhTSN59q9ObSSzgv1JCT5b_Qo.WHp1UMUqs0Zryf2b?startTime=1658864130000)
                 
