@@ -41,40 +41,48 @@ Tutorial: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/bl
                 Tutorial: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/2021-07-22_BModelTest.zip?raw=true)<br />
 
 
-10:30 - 12:00: *Lecture +Tutorial, Julia:* Lecture: tree priors (coalescent+birth death) <br />
+10:30 - 12:00: *Lecture +Tutorial, Julia:* Lecture: coalescent tree priors  <br />
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2021-07-22_tree_priors.pdf?raw=true)<br />               
                 Tutorial: [Ne inference](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/raw/master/Tutorials/Ne_inference.zip?raw=true).<br />
+                
+1:30-3:00 *Lecture + Turotiral, Julia: Birth death tree priors <br/>
 
-1:30-3:00pm: *Lecture Nicola:* Structured populations <br />
-                Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2022-07-26-sismid_structured_nfm.pptx?raw=true)<br />
-                Video: [here](https://stanford.zoom.us/rec/share/1jUL8bot-o1R6S2-Uo8nMBT6ab_rhYyZpLFu93KOT9WlwhjhQzuwHfaHzWZQbOQ.ft0YgjPvZTfNXmf_?startTime=1658855466000)
-
-3:30 - 4:10pm: *Lecture Priors and convergence
+3:30-5:00pm *Lecture Priors, convergence and troubleshooting
 *Short Lecture Prior (Nicola):* Priors and convergence issues and how to solve them with SARS2 <br />
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2022-07-25_priors_nfm.pptx?raw=true)<br />
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2020-07-27_troubleshooting.pptx?raw=true)<br />
                 Tutorials: [Prior-selection](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Prior-selection.zip?raw=true)<br />
 
-4:10pm - 5:00pm *Lecture + Tutorials: Julia* Tree distances, summaries and tree convergence <br />
+*Lecture + Tutorials: Julia* Tree distances, summaries and tree convergence <br />
                 Slides1: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2021-07-22_Summary_Trees.pdf?raw=true)<br />
-                Video: [here](https://stanford.zoom.us/rec/share/q_U_E-gLrxv-B57u3_WBTxQmJRjm0i3g1j69a5NEhTSN59q9ObSSzgv1JCT5b_Qo.WHp1UMUqs0Zryf2b?startTime=1658865696000)
+                
+
+
+
+
 
 **Friday, July 14: Modeling evolution II**
 
+8:30-10:00pm: *Lecture and Tutorial Nicola:* Structured populations <br />
+                Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2022-07-26-sismid_structured_nfm.pptx?raw=true)<br />
+           
+10:30 - 11:15: *Lecture Nicola Multi-type birth-death models and visualizations </br>
+11:15 - 12:00: *Lecture Julia:*  how to visualize and interpret trees and phylogenetic mapping <br />
+                Slides: [Post-processing of BEAST trees](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2021-07-23_FigTreeTutorial_NT.pdf)<br />
+                Video: [here](https://stanford.zoom.us/rec/share/q_U_E-gLrxv-B57u3_WBTxQmJRjm0i3g1j69a5NEhTSN59q9ObSSzgv1JCT5b_Qo.WHp1UMUqs0Zryf2b?startTime=1658864130000)
 
-8:30 - 10:00: *Lecture Nicola:* Recombination and Reassortment <br />
+
+1:30-3:00pm: *Lecture Nicola:* Recombination and Reassortment <br />
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2022-07-27-sismid_network_nfm.pptx?raw=true)<br />
                 Tutorials: [Coalescent with Reassortment](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Reassortment-Tutorial.zip?raw=true), [Coalescent with Recombination](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Recombination-Tutorial.zip?raw=true)<br />
                
                 
-10:30-12:00:
-*Lecture Julia:*  how to visualize and interpret trees <br />
-                Slides: [Post-processing of BEAST trees](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2021-07-23_FigTreeTutorial_NT.pdf)<br />
-                Video: [here](https://stanford.zoom.us/rec/share/q_U_E-gLrxv-B57u3_WBTxQmJRjm0i3g1j69a5NEhTSN59q9ObSSzgv1JCT5b_Qo.WHp1UMUqs0Zryf2b?startTime=1658864130000)
-*Lecture Julia:* Phylogenetic mapping <br/>
+3:30pm-5:00pm: XML structure and simulation with MASTER
+
+
 
 1:30 -3:00pm
-XML structure  
+
 [Discrete trait analysis (using BEAST1)](http://beast.community/workshop_discrete_diffusion), [MultiType tree](https://taming-the-beast.org/tutorials/Structured-coalescent/), [Mascot-GLM](https://github.com/nicfel/GLM-Tutorial)
 
 3:30-5:00pm
