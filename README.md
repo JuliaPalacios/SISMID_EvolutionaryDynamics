@@ -6,7 +6,7 @@
 <p>  </p>
 
 Instructor(s):
-Palacios, Julia; Müller, Nicola.
+Juli A. Palacios and Nicola Müller.
 
 ## General
 
@@ -24,8 +24,7 @@ Please also install [Tracer 1.7.2](https://github.com/beast-dev/tracer/releases/
 
 ## Schedule (Times in Pacific Time)
 
-Lecture room: Fishery Sciences Building (FSH) Room 107
-              1122 NE Boat Street, Seattle, WA 98195 
+Lecture room: Fishery Sciences Building (FSH) Room 107 located at 1122 NE Boat Street, Seattle, WA 98195. 
 
 
 **Wednesday, July 12: Introduction** <br />
