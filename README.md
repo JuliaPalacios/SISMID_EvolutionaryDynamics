@@ -30,7 +30,7 @@ Lecture room: Fishery Sciences Building (FSH) Room 107 located at 1122 NE Boat S
 **Wednesday, July 12: Introduction** <br />
 12:30-1:30: Registration at the Portage Bay Area located on the second floor of the South Campus Center (SCC), 1601 NE Columbia Rd, Seattle WA 98195 (Columbia Road entrance is on the third floor so head downstairs). </br>
 
-1:30-3:00: *Lecture Julia* Introduction Into Bayesian Phylogenetics and BEAST<br />
+1:30-3:00: Lecturer: Julia. *Introduction Into Bayesian Phylogenetics and BEAST* <br />
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2022-07-25_Introduction.pdf?raw=true)<br />
 
 3:30-5:00:  *Short lecture + Tutorial, Nicola*  Getting BEAST2 to run with SARS2 <br />
