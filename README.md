@@ -16,7 +16,7 @@ In particular, the module will cover Bayesian Evolutionary Analysis by Sampling 
 
 ## Before the course
 
-Please install the newest version (2.7.4) of  [BEAST2](https://www.beast2.org/) on the computer that you will be using before the workshop starts.
+Please install the newest version (2.7.5) of  [BEAST2](https://www.beast2.org/) on the computer that you will be using before the workshop starts.
 BEAST2 is coded in java and does require java to be installed to work.
 The tutorials covered here work with the newest version of BEAST2 (which is developed largely independent from BEAST1).
 If there are any issues with the installation, please post the error in the SISMID slack channel mod04_evolutionary_dynamics_molecular_epidemiology_2023.
