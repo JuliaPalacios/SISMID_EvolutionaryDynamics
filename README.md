@@ -34,8 +34,8 @@ Lecture room: Fishery Sciences Building (FSH) Room 107 located at 1122 NE Boat S
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2023-07-12_Introduction.pptx?raw=true)<br />
 
 3:30pm - 5:00pm:  Lecturer: Nicola. *Getting BEAST2 to run with SARS2* <br />
-Slides: [Introduction to BEAST 2](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2023-07-12_beast_introduction.pttx?raw=true)<br />
-Tutorial: [Intro](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Introduction-to-BEAST2.zip?raw=true)<br />
+Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2023-07-12_beast_introduction.pttx?raw=true)<br />
+Tutorial: [Intro to BEAST2 tutorial](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Introduction-to-BEAST2.zip?raw=true)<br />
 
 **Thursday, July 13: Modeling evolution and tree priors**
 
@@ -66,7 +66,8 @@ Day 2 additional tutorial suggestions: [Model adequacy](https://taming-the-beast
 
 8:30am - 10:00am: Lecturer: Nicola *Structured populations* <br />
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2022-07-26-sismid_structured_nfm.pptx?raw=true)<br />
-           
+                Tutorial: [MASCOT](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Mascot-Tutorial.zip?raw=true)<br />
+
 10:3am - 11:15am: Lecturer: Nicola *Multi-type birth-death models and visualizations* </br>
                 Slide: [here]() <br />
                 Tutorial: [BDMM](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Structured-birth-death-model.zip?raw=true)<br />
@@ -80,8 +81,9 @@ Day 2 additional tutorial suggestions: [Model adequacy](https://taming-the-beast
                
                 
 3:30pm - 4:30pm: Lecturer: Nicola  *XML hacking* <br />
-                Slides: <br />
+                Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2023-07-14-xml_nfm.pptx?raw=true)<br />
                 Tutorials:<br />
+                
 4:30pm - 5:00pm: *Q&A and wrap up*  <br />
 
 
