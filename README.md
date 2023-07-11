@@ -20,7 +20,7 @@ Please install the newest version (2.7.5) of  [BEAST2](https://www.beast2.org/) 
 BEAST2 is coded in java and does require java to be installed to work.
 The tutorials covered here work with the newest version of BEAST2 (which is developed largely independent from BEAST1).
 If there are any issues with the installation, please post the error in the SISMID slack channel mod04_evolutionary_dynamics_molecular_epidemiology_2023.
-Please also install [Tracer 1.7.2](https://github.com/beast-dev/tracer/releases/tag/v1.7.2) to visualize MCMC traces.
+Please also install [Tracer 1.7.2](https://github.com/beast-dev/tracer/releases/tag/v1.7.2) to visualize MCMC traces and [Figtree 1.4.4](https://github.com/rambaut/figtree/releases/tag/v1.4.4).
 
 ## Schedule (Times in Pacific Time)
 
