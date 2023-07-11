@@ -33,7 +33,7 @@ Lecture room: Fishery Sciences Building (FSH) Room 107 located at 1122 NE Boat S
 1:30pm - 3:00pm: Lecturer: Julia. *Introduction Into Bayesian Phylogenetics and BEAST* <br />
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2023-07-12_Introduction.pptx?raw=true)<br />
 
-3:30pm - 5:00pm:  *Short lecture + Tutorial, Nicola*  Getting BEAST2 to run with SARS2 <br />
+3:30pm - 5:00pm:  Lecturer: Nicola. * Getting BEAST2 to run with SARS2* <br />
 Slides: [Introduction to BEAST 2](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2023-07-12_beast_introduction.pttx?raw=true)<br />
 Tutorial: [IntoToBeast](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Introduction-to-BEAST2.zip?raw=true)<br />
 
