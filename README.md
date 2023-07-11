@@ -6,7 +6,7 @@
 <p>  </p>
 
 Instructor(s):
-Juli A. Palacios and Nicola Müller.
+Julia A. Palacios and Nicola Müller.
 
 ## General
 
