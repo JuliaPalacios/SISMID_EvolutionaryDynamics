@@ -26,7 +26,6 @@ Please also install [Tracer 1.7.2](https://github.com/beast-dev/tracer/releases/
 
 Lecture room: Fishery Sciences Building (FSH) Room 107 located at 1122 NE Boat Street, Seattle, WA 98195. 
 
-
 **Wednesday, July 12: Introduction** <br />
 12:30-1:30: Registration at the Portage Bay Area located on the second floor of the South Campus Center (SCC), 1601 NE Columbia Rd, Seattle WA 98195 (Columbia Road entrance is on the third floor so head downstairs). </br>
 
@@ -55,9 +54,7 @@ Tutorial: [Intro to BEAST2 tutorial](https://github.com/JuliaPalacios/SISMID_Evo
                 Tutorials: [Prior-selection](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Prior-selection.zip?raw=true)<br />
 
 *Lecturer: Julia  *Tree distances, summaries, and tree convergence* <br />
-                Slides1: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2021-07-22_Summary_Trees.pdf?raw=true)<br />
-                
-
+                Slides1: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2021-07-22_Summary_Trees.pdf?raw=true)<br />  
 
 Day 2 additional tutorial suggestions: [Model adequacy](https://taming-the-beast.org/tutorials/adequacy_tutorial/), [Coupled MCMC](https://taming-the-beast.org/tutorials/CoupledMCMC-Tutorial/)
 
@@ -77,7 +74,7 @@ Day 2 additional tutorial suggestions: [Model adequacy](https://taming-the-beast
 
 1:30pm - 3:00pm: Lecturer: Nicola: *Recombination and Reassortment* <br />
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2023-07-14-sismid_network_nfm?raw=true)<br />
-                Tutorials: [Coalescent with Reassortment](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Reassortment-Tutorial.zip?raw=true), [Coalescent with Recombination](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Recombination-Tutorial.zip?raw=true)<br />
+                Tutorials: [Coalescent with Reassortment](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Reassortment-Tutorial.zip?raw=true))<br />
                
                 
 3:30pm - 4:30pm: Lecturer: Nicola  *XML hacking* <br />
@@ -86,11 +83,8 @@ Day 2 additional tutorial suggestions: [Model adequacy](https://taming-the-beast
                 
 4:30pm - 5:00pm: *Q&A and wrap up*  <br />
 
+Additional tutorial suggestions: [Discrete trait analysis (using BEAST1)](http://beast.community/workshop_discrete_diffusion), [MultiType tree](https://taming-the-beast.org/tutorials/Structured-coalescent/), [Mascot-GLM](https://github.com/nicfel/GLM-Tutorial), [Bacter](https://taming-the-beast.org/tutorials/Bacter-Tutorial/), [SCoRe](https://github.com/jugne/SCoRe-tutorial), [Coalescent with Recombination](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Recombination-Tutorial.zip?raw=true)
 
-
-Additional tutorial suggestions: [Discrete trait analysis (using BEAST1)](http://beast.community/workshop_discrete_diffusion), [MultiType tree](https://taming-the-beast.org/tutorials/Structured-coalescent/), [Mascot-GLM](https://github.com/nicfel/GLM-Tutorial), [Bacter](https://taming-the-beast.org/tutorials/Bacter-Tutorial/), [SCoRe](https://github.com/jugne/SCoRe-tutorial)
-
-Prerequisites: This module assumes knowledge of the material in Module 1: Probability and Statistical Inference, though not necessarily from taking that module.
 
 # Some Reading Material
 
