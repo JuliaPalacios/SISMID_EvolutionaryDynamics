@@ -82,7 +82,7 @@ Day 2 additional tutorial suggestions: [Model adequacy](https://taming-the-beast
                 
 3:30pm - 4:30pm: Lecturer: Nicola  *XML hacking* <br />
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2023-07-14-xml_nfm.pptx?raw=true)<br />
-                Tutorials:<br />
+                Tutorials: [XML-hacking](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/XML-Tutorial.zip?raw=true)<br />
                 
 4:30pm - 5:00pm: *Q&A and wrap up*  <br />
 
