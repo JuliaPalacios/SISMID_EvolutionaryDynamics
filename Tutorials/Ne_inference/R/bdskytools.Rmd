@@ -1,0 +1,22 @@
+---
+title: "Birth Death Skyline Summary"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+#library(devtools)
+#devtools::install_github("laduplessis/bdskytools")
+library(bdskytools)
+```
+
+## Hepatitis C virus in Egypt
+
+```{r}
+fname<-"~/Documents/sismid/SISMID/Tutorials/Ne_estimation/precooked_runs/hcv_bdsky.log"
+lf<-readLogfile(fname,burnin=0.1)
+Re_sky    <- getSkylineSubset(lf, "reproductiveNumber")
+Re_hpd    <- getMatrixHPD(Re_sky)
+delta_hpd <- getHPD(lf$becomeUninfectiousRate)
+plotSkyline(1:10, Re_hpd, type='step', ylab="R")
+```

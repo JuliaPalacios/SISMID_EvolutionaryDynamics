@@ -1,0 +1,48 @@
+---
+title: "BNPR and BNPR_PS"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Influenza A H3N2 Virus in New York
+We can visualize the MCCT as follows:
+
+```{R}
+library("ape")
+mcct<-"~/Documents/sismid/SISMID/Tutorials/Ne_estimation/precooked_runs/NewYork_mcct"
+tree<-read.nexus(mcct)
+plot(ladderize(tree),show.tip.label = FALSE)
+```
+
+
+You can estimate the effective population size from a fixed tree as follows:
+
+```{r plotting}
+#install.packages("INLA", repos=c(getOption("repos"), INLA="https://inla.r-inla-download.org/R/stable"), dep=TRUE)
+#library(devtools)
+#install_github("mdkarcher/phylodyn")
+library("phylodyn")
+bnpr_estimate<-BNPR(tree)
+plot_BNPR(bnpr_estimate)
+```
+```{r ps}
+#install.packages("INLA", repos=c(getOption("repos"), INLA="https://inla.r-inla-download.org/R/stable"), dep=TRUE)
+#library(devtools)
+#install_github("mdkarcher/phylodyn")
+library("phylodyn")
+bnpr_ps<-BNPR_PS(tree)
+plot_BNPR(bnpr_ps)
+```
+
+More tutorials: [phylodyn](https://github.com/mdkarcher/phylodyn)
+
+Reference: 
+
+Karcher, MD, Palacios JA, Lan S, and Minin, VN. 
+phylodyn: an R package for phylodynamic simulation and inference. *Molecular Ecology Resources* 2017.
+
+Karcher, MD, Palacios JA, Bedford T, Suchard MA and Minin, VN
+Quantifying and mitigating the effect of preferential sampling on phylodynamic inference. PLOS Computational Biology 2016.
