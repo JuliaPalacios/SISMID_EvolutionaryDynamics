@@ -72,7 +72,7 @@ Day 2 additional tutorial suggestions: [Model adequacy](https://taming-the-beast
                 Mini Tutorial [ggtree](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/mascot_ggtree.zip?raw=true)
 
 1:30pm - 3:00pm: Lecturer: Nicola: *Recombination and Reassortment* <br />
-                Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2023-07-14-sismid_network_nfm?raw=true)<br />
+                Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2023-07-14-sismid_network_nfm.pptx?raw=true)<br />
                 Tutorials: [Coalescent with Reassortment](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Reassortment-Tutorial.zip?raw=true)<br />
                
                 
