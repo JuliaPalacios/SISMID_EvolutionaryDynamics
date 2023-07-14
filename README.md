@@ -61,7 +61,7 @@ Day 2 additional tutorial suggestions: [Model adequacy](https://taming-the-beast
 **Friday, July 14: Structured populations, networks, and XML**
 
 8:30am - 10:00am: Lecturer: Nicola *Structured populations* <br />
-                Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2022-07-26-sismid_structured_nfm.pptx?raw=true)<br />
+                Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2023-07-14-structured_nfm.pptx?raw=true)<br />
                 Tutorial: [MASCOT](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Mascot-Tutorial.zip?raw=true)<br />
 
 10:3am - 11:15am: Lecturer: Nicola *Multi-type birth-death models and visualizations* </br>
