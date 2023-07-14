@@ -65,8 +65,8 @@ Day 2 additional tutorial suggestions: [Model adequacy](https://taming-the-beast
                 Tutorial: [MASCOT](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Mascot-Tutorial.zip?raw=true)<br />
 
 10:3am - 11:15am: Lecturer: Nicola *Multi-type birth-death models and visualizations* </br>
-                Slide: [here]() <br />
                 Tutorial: [BDMM](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Structured-birth-death-model.zip?raw=true)<br />
+                Mini Tutorial [ggtree](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/mascot_ggtree.zip?raw=true)
 
 11:15am - 12:00am: Lecturer: Julia: *How to visualize and interpret trees and phylogenetic mapping* <br />
                 Slides: [Post-processing of BEAST trees](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2021-07-23_FigTreeTutorial_NT.pdf)<br />
