@@ -6,7 +6,7 @@
 <p>  </p>
 
 Instructor(s):
-Julia A. Palacios and Nicola Müller.
+Julia A. Palacios and Nicola F. Müller.
 
 ## General
 
@@ -16,18 +16,18 @@ In particular, the module will cover Bayesian Evolutionary Analysis by Sampling 
 
 ## Before the course
 
-Please install the newest version (2.7.5) of  [BEAST2](https://www.beast2.org/) on the computer that you will be using before the workshop starts.
+Please install the newest version (2.7.7) of  [BEAST2](https://www.beast2.org/) on the computer that you will be using before the workshop starts.
 BEAST2 is coded in java and does require java to be installed to work.
 The tutorials covered here work with the newest version of BEAST2 (which is developed largely independent from BEAST1).
-If there are any issues with the installation, please post the error in the SISMID slack channel mod04_evolutionary_dynamics_molecular_epidemiology_2023.
+If there are any issues with the installation, please post the error in the SISMID slack channel module-evolution-and-molecular-epi-of-viruses.
 Please also install [Tracer 1.7.2](https://github.com/beast-dev/tracer/releases/tag/v1.7.2) to visualize MCMC traces and [Figtree 1.4.4](https://github.com/rambaut/figtree/releases/tag/v1.4.4).
 
-## Schedule (Times in Pacific Time)
+## Schedule (Times in Eastern Daylight Time)
 
-Lecture room: Fishery Sciences Building (FSH) Room 107 located at 1122 NE Boat Street, Seattle, WA 98195. 
+The workshop will take place in the Randall Rollins Building (RR 201)
 
-**Wednesday, July 12: Introduction** <br />
-12:30-1:30: Registration at the Portage Bay Area located on the second floor of the South Campus Center (SCC), 1601 NE Columbia Rd, Seattle WA 98195 (Columbia Road entrance is on the third floor so head downstairs). </br>
+
+**Wednesday, July 24: Introduction** <br />
 
 1:30pm - 3:00pm: Lecturer: Julia. *Introduction to Bayesian Phylogenetics and BEAST* <br />
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2023-07-12_Introduction.pptx?raw=true)<br />
@@ -36,7 +36,7 @@ Lecture room: Fishery Sciences Building (FSH) Room 107 located at 1122 NE Boat S
 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2023-07-12_beast_introduction.pptx?raw=true)<br />
 Tutorial: [Intro to BEAST2 tutorial](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Introduction-to-BEAST2.zip?raw=true)<br />
 
-**Thursday, July 13: Modeling evolution and tree priors**
+**Thursday, July 25: Modeling evolution and tree priors**
 
 8:30am - 10:00am Lecturer: Nicola  *Modelling the evolution of genomes through time*<br />
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2023-07-13-sismid_evol_nfm.pptx?raw=true)<br />
@@ -58,7 +58,7 @@ Tutorial: [Intro to BEAST2 tutorial](https://github.com/JuliaPalacios/SISMID_Evo
 Day 2 additional tutorial suggestions: [Model adequacy](https://taming-the-beast.org/tutorials/adequacy_tutorial/), [Coupled MCMC](https://taming-the-beast.org/tutorials/CoupledMCMC-Tutorial/)
 
 
-**Friday, July 14: Structured populations, networks, and XML**
+**Friday, July 26: Structured populations, networks, and XML**
 
 8:30am - 10:00am: Lecturer: Nicola *Structured populations* <br />
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2023-07-14-structured_nfm.pptx?raw=true)<br />
@@ -85,9 +85,11 @@ Day 2 additional tutorial suggestions: [Model adequacy](https://taming-the-beast
 Additional tutorial suggestions: [Discrete trait analysis (using BEAST1)](http://beast.community/workshop_discrete_diffusion), [Continous diffusion model (in BEAST1)](https://beast.community/continuous_traits),[MultiType tree](https://taming-the-beast.org/tutorials/Structured-coalescent/), [Mascot-GLM](https://github.com/nicfel/GLM-Tutorial), [Bacter](https://taming-the-beast.org/tutorials/Bacter-Tutorial/), [SCoRe](https://github.com/jugne/SCoRe-tutorial), [Coalescent with Recombination](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Recombination-Tutorial.zip?raw=true)
 
 
-# Some Reading Material
+# Some Reading Material (not expected reading)
 
-- Overview of most BEAST2 packages: [https://doi.org/10.1371/journal.pcbi.1006650](https://doi.org/10.1371/journal.pcbi.1006650)
+- Overview of a lot of BEAST2 packages: [https://doi.org/10.1371/journal.pcbi.1006650](https://doi.org/10.1371/journal.pcbi.1006650)
+
+- Decoding Genomes: [https://decodinggenomes.org/](https://decodinggenomes.org/)
 
 - Review of phylodynamics (with a focus on the coalescent): [https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002947](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002947)
 
