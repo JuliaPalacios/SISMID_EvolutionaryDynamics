@@ -47,7 +47,6 @@ Tutorial: [Intro to BEAST2 tutorial](https://github.com/JuliaPalacios/SISMID_Evo
 1:30pm - 3:00pm Lecturer: Julia <br/>
                  Tutorial: [Ne inference](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/raw/master/Tutorials/Ne_inference.zip?raw=true)<br />
                 
-
 3:30pm - 5:00pm Lecturer: Nicola: *Priors and convergence issues and how to solve them with SARS2* <br />
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2023-07-13_priorstrouble_nfm.pptx?raw=true)<br />
                 Tutorials: [Prior-selection](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Prior-selection.zip?raw=true)<br />
@@ -64,18 +63,20 @@ Day 2 additional tutorial suggestions: [Model adequacy](https://taming-the-beast
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2023-07-14-structured_nfm.pptx?raw=true)<br />
                 Tutorial: [MASCOT](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Mascot-Tutorial.zip?raw=true)<br />
 
-10:3am - 11:15am: Lecturer: Nicola *Multi-type birth-death models and visualizations* </br>
+10:30am - 11:00am: Lecturer: Nicola *Multi-type birth-death models* <br />
                 Tutorial: [BDMM](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Structured-birth-death-model.zip?raw=true)<br />
 
-11:15am - 12:00am: Lecturer: Julia: *How to visualize and interpret trees and phylogenetic mapping* <br />
+11:00am - 11:40am: Lecturer: Julia: *How to visualize and interpret trees and phylogenetic mapping* <br />
                 Slides: [PhylogeneticMapping](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2023-07-14_phylo_mapping.pptx) [Post-processing of BEAST trees](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2021-07-23_FigTreeTutorial_NT.pdf)<br />
                 Mini Tutorial [ggtree](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/mascot_ggtree.zip?raw=true)
+
+11:40am - 12:00am: Lecturer: Nicola and Julia *How does phylodynamics relate to transmission dynamics?* <br />
+                Slides: [here]()<br />
 
 1:30pm - 3:00pm: Lecturer: Nicola: *Recombination and Reassortment* <br />
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2023-07-14-sismid_network_nfm.pptx?raw=true)<br />
                 Tutorials: [Coalescent with Reassortment](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Reassortment-Tutorial.zip?raw=true)<br />
                
-                
 3:30pm - 4:30pm: Lecturer: Nicola  *XML hacking* <br />
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2023-07-14-xml_nfm.pptx?raw=true)<br />
                 Tutorials: [XML-hacking](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/XML-Tutorial.zip?raw=true)<br />
