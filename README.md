@@ -71,7 +71,7 @@ Day 2 additional tutorial suggestions: [Model adequacy](https://taming-the-beast
                 Mini Tutorial [ggtree](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/mascot_ggtree.zip?raw=true)
 
 11:40am - 12:00am: Lecturer: Nicola and Julia *How does phylodynamics relate to transmission dynamics?* <br />
-                Slides: [here]()<br />
+                Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2024-07-26-relation_phylodynamics_epidemiology.pptx)<br />
 
 1:30pm - 3:00pm: Lecturer: Nicola: *Recombination and Reassortment* <br />
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2023-07-14-sismid_network_nfm.pptx?raw=true)<br />
