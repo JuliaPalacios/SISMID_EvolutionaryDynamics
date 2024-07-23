@@ -21,7 +21,7 @@ BEAST2 is coded in java and does require java to be installed to work.
 The tutorials covered here work with the newest version of BEAST2 (which is developed largely independent from BEAST1).
 If there are any issues with the installation, please post the error in the SISMID slack channel module-evolution-and-molecular-epi-of-viruses.
 Please also install [Tracer 1.7.2](https://github.com/beast-dev/tracer/releases/tag/v1.7.2) to visualize MCMC traces and [Figtree 1.4.4](https://github.com/rambaut/figtree/releases/tag/v1.4.4). 
-**If you get a java error when trying to open Figtree 1.4.4, try [Figtree 1.4.5_pre]https://github.com/rambaut/figtree/releases/download/v1.4.5pre/FigTree.v1.4.5_pre.dmg instead.**
+**If you get a java error when trying to open Figtree 1.4.4, try [Figtree 1.4.5_pre](https://github.com/rambaut/figtree/releases/tag/v1.4.5pre) instead.**
 
 ## Schedule (Times in Eastern Daylight Time)
 
