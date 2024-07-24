@@ -31,7 +31,7 @@ The workshop will take place in the Randall Rollins Building (RR 201)
 **Wednesday, July 24: Introduction** <br />
 
 1:30pm - 3:00pm: Lecturer: Julia. *Introduction to Bayesian Phylogenetics and BEAST* <br />
-                Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2023-07-12_Introduction.pptx?raw=true)<br />
+                Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2024-07-24_Introduction.pptx?raw=true)<br />
 
 3:30pm - 5:00pm:  Lecturer: Nicola. *Getting BEAST2 to run with SARS2* <br />
 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2024-07-24_beast_introduction.pptx?raw=true)<br />
