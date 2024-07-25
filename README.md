@@ -44,7 +44,7 @@ Tutorial: [Intro to BEAST2 tutorial](https://github.com/JuliaPalacios/SISMID_Evo
                 Tutorial: [BModelTest](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/BModelTest.zip?raw=true)<br />
 
 10:30am - 12:00am: Lecturer: Julia *Coalescent and Birth death tree priors*  <br />
-                Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2023-07-13_tree_priors.pptx?raw=true)<br />               
+                Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2024-07-25_tree_priors.pptx?raw=true)<br />               
 1:30pm - 3:00pm Lecturer: Julia <br/>
                  Tutorial: [Ne inference](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/raw/master/Tutorials/Ne_inference.zip?raw=true)<br />
                 
