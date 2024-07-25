@@ -40,7 +40,7 @@ Tutorial: [Intro to BEAST2 tutorial](https://github.com/JuliaPalacios/SISMID_Evo
 **Thursday, July 25: Modeling evolution and tree priors**
 
 8:30am - 10:00am Lecturer: Nicola  *Modelling the evolution of genomes through time*<br />
-                Slides: [here](/Users/nmueller/Documents/github/SISMID_EvolutionaryDynamics/Lectures/2024-07-25-sismid_evol_nfm.pptx?raw=true)<br />
+                Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2024-07-25-sismid_evol_nfm.pptx?raw=true)<br />
                 Tutorial: [BModelTest](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/BModelTest.zip?raw=true)<br />
 
 10:30am - 12:00am: Lecturer: Julia *Coalescent and Birth death tree priors*  <br />
