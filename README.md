@@ -41,6 +41,7 @@ Tutorial: [Intro to BEAST2 tutorial](https://github.com/JuliaPalacios/SISMID_Evo
 
 8:30am - 10:00am Lecturer: Nicola  *Modelling the evolution of genomes through time*<br />
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2024-07-25-sismid_evol_nfm.pptx?raw=true)<br />
+                [pdf](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2024-07-25-sismid_evol_nfm.pdf?raw=true)<br />
                 Tutorial: [BModelTest](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/BModelTest.zip?raw=true)<br />
 
 10:30am - 12:00am: Lecturer: Julia *Coalescent and Birth death tree priors*  <br />
@@ -50,10 +51,11 @@ Tutorial: [Intro to BEAST2 tutorial](https://github.com/JuliaPalacios/SISMID_Evo
                 
 3:30pm - 4:40pm Lecturer: Nicola: *Priors and convergence issues and how to solve them with SARS2* <br />
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2024-07-25_priorstrouble_nfm.pptx?raw=true)<br />
+                [pdf](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2024-07-25_priorstrouble_nfm.pdf?raw=true)<br />
                 Tutorials: [Prior-selection](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Prior-selection.zip?raw=true)<br />
 4:40pm - 5:00pm: Lecturer: Nicola and Julia *How does phylodynamics relate to transmission dynamics?* <br />
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2024-07-26-relation_phylodynamics_epidemiology.pptx?raw=true)<br />
-
+                [pdf](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2024-07-26-relation_phylodynamics_epidemiology.pdf?raw=true)<br />
 
 Day 2 additional tutorial suggestions: [Model adequacy](https://taming-the-beast.org/tutorials/adequacy_tutorial/), [Coupled MCMC](https://taming-the-beast.org/tutorials/CoupledMCMC-Tutorial/)
 
