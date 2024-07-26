@@ -83,7 +83,6 @@ Day 2 additional tutorial suggestions: [Model adequacy](https://taming-the-beast
 1:30pm - 3:00pm: Lecturer: Nicola: *Recombination and Reassortment* <br />
                 Slides: [here](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2024-08-26-sismid_network_nfm.pptx?raw=true)<br />
                 [pdf](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2024-08-26-sismid_network_nfm.pdf?raw=true)<br />
-
                 Tutorials: [Coalescent with Reassortment](https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/Reassortment-Tutorial.zip?raw=true)<br />
                
 3:30pm - 4:30pm: Lecturer: Nicola  *XML hacking* <br />
