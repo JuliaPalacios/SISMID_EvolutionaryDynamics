@@ -1,28 +1,65 @@
-# Site settings
-title: "Evolutionary Dynamics Workshop"
-# Use a lightweight theme
-theme: jekyll-theme-minimal
 
-# Markdown processing
+# Build settings
 markdown: kramdown
-kramdown:
-  input: GFM     # GitHub Flavored Markdown
-  parse_block_html: true
+remote_theme: mmistakes/minimal-mistakes
+# Outputting
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
-# Treat all pages as layout: page
+include:
+  - _pages
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+
 defaults:
+  # _posts
   - scope:
       path: ""
-      type: "pages"
+      type: posts
     values:
-      layout: page
+      layout: single
+      author_profile: false
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
 
-# Include any custom CSS
-# Place your styles in assets/css/schedule.css
-include:
-  - assets/css/schedule.css
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
 
-# Optional plugins (if you add them)
-# plugins:
-#   - jekyll-feed
-#   - jekyll-sitemap
+collections:
+  people:
+    output: true

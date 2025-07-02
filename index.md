@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Workshop: Evolutionary Dynamics of Viruses"
+title: "Workshop: Evolutionary Dynamics and Molecular Epidemiology of Viruses"
 ---
 
 Instructor(s): Julia A. Palacios and Nicola F. Müller
@@ -20,33 +20,38 @@ Also install:
 - [Figtree 1.4.4](https://github.com/rambaut/figtree/releases/tag/v1.4.4) to view phylogenies. If you get a Java error, try [Figtree 1.4.5_pre](https://github.com/rambaut/figtree/releases/tag/v1.4.5pre).
 
 ---
-
 <table>
   <thead>
     <tr>
       <th>Time</th>
       {% for day in site.data.schedule %}
-      <th>{{ day.day }}</th>
+        <th>{{ day.day }}</th>
       {% endfor %}
     </tr>
   </thead>
   <tbody>
-    {% assign all_times = site.data.schedule | map: "sessions" | flatten | map: "start" | uniq %}
-    {% for time in all_times %}
+    {% assign times = site.data.schedule
+       | map: "sessions"
+       | flatten
+       | map: "start"
+       | uniq %}
+    {% for time in times %}
       <tr>
-        <td markdown="1">{{ time }}–{% for s in site.data.schedule[0].sessions %}{% if s.start == time %}{{ s.end }}{% endif %}{% endfor %}</td>
+        <td>{{ time }}</td>
         {% for day in site.data.schedule %}
-          {% assign match = day.sessions | where: "start", time | first %}
-          {% if match %}
-            <td markdown="1">
-              **{{ match.title }}**  
-              *{{ match.lecturer | default: match.lecturers }}*  
-              {% if match.slides %}[Slides]({{ match.slides }}){% endif %}
-              {% if match.tutorial %} • [Tutorial]({{ match.tutorial }}){% endif %}
-            </td>
-          {% else %}
-            <td></td>
-          {% endif %}
+          {% assign sess = day.sessions | where: "start", time | first %}
+          <td>
+            {% if sess %}
+              <strong>{{ sess.title }}</strong><br>
+              <em>{{ sess.lecturer }}</em><br>
+              {% if sess.slides %}
+                <a href="{{ sess.slides }}" target="_blank">Slides</a>
+              {% endif %}
+              {% if sess.tutorial %}
+                • <a href="{{ sess.tutorial }}" target="_blank">Tutorial</a>
+              {% endif %}
+            {% endif %}
+          </td>
         {% endfor %}
       </tr>
     {% endfor %}

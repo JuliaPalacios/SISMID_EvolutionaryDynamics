@@ -1,0 +1,143 @@
+---
+---
+
+@import "minimal-mistakes";
+
+
+.greedy-nav a { 
+    color: #052049; 
+}  
+
+
+
+.site-header {
+  background-color: #052049; /* Your desired header background color */
+}
+
+.custom-header {
+  text-align: center; /* Center the logo */
+  padding: 0px 0; /* Add some padding around the logo */
+}
+
+.custom-header img {
+  max-height: 50px; /* Adjust the logo size as needed */
+}
+
+.custom-content {
+  text-align: center; /* Center aligns the content */
+  padding: 0px 0; /* Adds padding */
+}
+
+.custom-content a {
+  margin: 20px 10px; /* Space out the links */
+  color: white; /* Sets the text color */
+  text-decoration: none; /* Removes underline from links */
+}
+
+.custom-content a:hover {
+  text-decoration: underline; /* Adds underline on hover */
+}
+
+
+#eppi {
+  text-align: left; /* Center aligns the content */
+  font-size: 15px; /* Another font size */
+  /* Different positioning */
+  position: relative; /* or 'absolute' */
+  top: 5px;
+  left: 100px;
+  display: inline-block; /* Makes the link behave like a block element */
+  text-align: right;
+  float: left;
+}
+
+#ucsf {
+  text-align: left; /* Center aligns the content */
+  font-size: 15px; /* Another font size */
+  /* Different positioning */
+  position: relative; /* or 'absolute' */
+  top: 5px;
+  right: 50px;
+  display: inline-block; /* Makes the link behave like a block element */
+  text-align: right;
+  float: right;
+}
+
+#hividgm {
+  text-align: left; /* Center aligns the content */
+  font-size: 15px; /* Another font size */
+  /* Different positioning */
+  position: relative; /* or 'absolute' */
+  top: 5px;
+  right: 50px;
+  display: inline-block; /* Makes the link behave like a block element */
+  text-align: right;
+  float: right;
+}
+
+
+// .content-container {
+//   display: flex;
+//   justify-content: center; /* Center horizontally */
+//   align-items: center; /* Center vertically */
+//   height:70vh; /* Adjust the height as needed */
+//   text-align: center;
+//   font-size: 25px
+// }
+
+// .team-member {
+//   display: flex; /* Aligns items in a row */
+//   align-items: center; /* Vertically aligns items in the flex container */
+//   text-align: left; /* Aligns text to the left */
+// }
+
+// .team-member img {
+//   width: auto; /* Keeps the original width of the image */
+//   height: 10%; /* Set a fixed height for consistency */
+//   margin-right: 20px; /* Space between the image and the text */
+// }
+
+.author-image {
+  width: 100px; /* Adjust the size as needed */
+  height: 100px; /* Equal to the width for a square */
+  object-fit: cover; /* This ensures the image covers the area without stretching */
+}
+
+
+.page__footer {
+  background-color: #052049; /* Your desired header background color */
+  color:white;
+}
+
+.social-icons li a i {
+  background-color: white;
+  border-radius: 50%; /* Optional: if you want rounded corners */
+  padding: 1px; /* Adjust the padding as needed */
+}
+
+
+.team-container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.team-member {
+  display: grid;
+  grid-template-columns: 200px 1fr; /* Fixed column width for images, flexible for text */
+  gap: 20px;
+  align-items: start;
+}
+
+.team-member img {
+  width: 100%;
+  height: 250px; /* Fixed height */
+  object-fit: cover; /* Ensure the image covers the set height */
+  object-position: top; /* Align the top part of the image */
+}
+
+.team-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start; /* Ensure the text starts from the top */
+}
