@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Workshop: Evolutionary Dynamics and Molecular Epidemiology of Viruses"
+title: ""
 ---
 
 Instructor(s): Julia A. Palacios and Nicola F. Müller
