@@ -1,8 +1,28 @@
+# Site settings
+title: "Evolutionary Dynamics Workshop"
+# Use a lightweight theme
 theme: jekyll-theme-minimal
 
+# Markdown processing
+markdown: kramdown
+kramdown:
+  input: GFM     # GitHub Flavored Markdown
+  parse_block_html: true
+
+# Treat all pages as layout: page
 defaults:
   - scope:
       path: ""
       type: "pages"
     values:
       layout: page
+
+# Include any custom CSS
+# Place your styles in assets/css/schedule.css
+include:
+  - assets/css/schedule.css
+
+# Optional plugins (if you add them)
+# plugins:
+#   - jekyll-feed
+#   - jekyll-sitemap

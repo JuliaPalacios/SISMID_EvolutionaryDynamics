@@ -34,17 +34,19 @@ Also install:
     {% assign all_times = site.data.schedule | map: "sessions" | flatten | map: "start" | uniq %}
     {% for time in all_times %}
       <tr>
-        <td>{{ time }}–{% for s in site.data.schedule[0].sessions %}{% if s.start == time %}{{ s.end }}{% endif %}{% endfor %}</td>
+        <td markdown="1">{{ time }}–{% for s in site.data.schedule[0].sessions %}{% if s.start == time %}{{ s.end }}{% endif %}{% endfor %}</td>
         {% for day in site.data.schedule %}
-          <td>
-            {% assign match = day.sessions | where: "start", time | first %}
-            {% if match %}
-              **{{ match.title }}**<br>
-              *{{ match.lecturer | default: match.lecturers }}*<br>
+          {% assign match = day.sessions | where: "start", time | first %}
+          {% if match %}
+            <td markdown="1">
+              **{{ match.title }}**  
+              *{{ match.lecturer | default: match.lecturers }}*  
               {% if match.slides %}[Slides]({{ match.slides }}){% endif %}
               {% if match.tutorial %} • [Tutorial]({{ match.tutorial }}){% endif %}
-            {% endif %}
-          </td>
+            </td>
+          {% else %}
+            <td></td>
+          {% endif %}
         {% endfor %}
       </tr>
     {% endfor %}
@@ -62,4 +64,4 @@ Also install:
 
 ## Acknowledgements
 
-These tutorials were adapted from [taming-the-beast.org](https://taming-the-beast.org/) and past SISMID workshops, based on work by Louis du Plessis, Veronika Boskova, David Rasmussen, Carsten Magnus, Sebastian Duchene, Timothy G. Vaughan, Denise Kühnert, Julia Pecerska, Marc Suchard, and Philippe Lemey.
+These tutorials were ,in part, from [taming-the-beast.org](https://taming-the-beast.org/) and past SISMID workshops, based on work by Louis du Plessis, Veronika Boskova, David Rasmussen, Carsten Magnus, Sebastian Duchene, Timothy G. Vaughan, Denise Kühnert, Julia Pecerska, Marc Suchard, and Philippe Lemey.
