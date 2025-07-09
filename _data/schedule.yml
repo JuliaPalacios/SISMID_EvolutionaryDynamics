@@ -1,4 +1,4 @@
-- day: "Monday, July 13"
+- day: "Monday, July 14"
   full_day: true
   sessions:
     - start: "9:00 am"
@@ -29,7 +29,7 @@
       slides: "https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2024-07-25_tree_priors.pptx?raw=true"
       tutorial: "https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/raw/master/Tutorials/Ne_inference.zip?raw=true"
 
-- day: "Tuesday, July 14"
+- day: "Tuesday, July 15"
   full_day: true
   sessions:
     - start: "9:00 am"
@@ -72,7 +72,7 @@
              
 
 
-- day: "Wednesday, July 15"
+- day: "Wednesday, July 16"
   full_day: false
   sessions:
     - start: "9:00 am"
@@ -81,7 +81,11 @@
       lecturer: "Nicola"
       slides: "https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2024-08-26-sismid_network_nfm.pdf?raw=true"
       tutorial: "https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/XML-Tutorial.zip?raw=true"
+    - start: "11:00 am"
+      end:   "11:30 pm"
+      title: "alternative approaches"
+      lecturer: "Julia & Nicola"
     - start: "11:30 am"
       end:   "12:00 pm"
-      title: "Q&A and wrap-up, alternative approaches"
+      title: "Q&A and wrap-up"
       lecturer: "Julia & Nicola"
