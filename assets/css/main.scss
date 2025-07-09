@@ -141,3 +141,106 @@
   flex-direction: column;
   justify-content: flex-start; /* Ensure the text starts from the top */
 }
+
+/* Schedule Table Styling */
+.schedule-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+  font-size: 14px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.schedule-table th,
+.schedule-table td {
+  border: 1px solid #ddd;
+  padding: 12px;
+  text-align: left;
+  vertical-align: top;
+}
+
+.schedule-table th {
+  background-color: #052049;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+.time-slot {
+  background-color: #f8f9fa;
+  font-weight: bold;
+  text-align: center;
+  width: 100px;
+  white-space: nowrap;
+}
+
+.session-cell {
+  min-height: 60px;
+  position: relative;
+  background-color: white;
+}
+
+.session-content {
+  line-height: 1.4;
+}
+
+.session-content strong {
+  color: #052049;
+  display: block;
+  margin-bottom: 4px;
+}
+
+.session-links {
+  margin-top: 8px;
+  font-size: 12px;
+}
+
+.session-link {
+  color: #052049;
+  text-decoration: none;
+  font-weight: bold;
+  padding: 2px 4px;
+  border-radius: 3px;
+  transition: background-color 0.2s;
+}
+
+.session-link:hover {
+  background-color: #f0f0f0;
+  text-decoration: none;
+}
+
+.session-continuation {
+  height: 100%;
+  background-color: #f0f0f0;
+  opacity: 0.3;
+}
+
+/* Responsive design for schedule table */
+@media (max-width: 768px) {
+  .schedule-table {
+    font-size: 12px;
+  }
+  
+  .schedule-table th,
+  .schedule-table td {
+    padding: 8px;
+  }
+  
+  .time-slot {
+    width: 80px;
+  }
+}
+
+@media (max-width: 480px) {
+  .schedule-table {
+    font-size: 11px;
+  }
+  
+  .schedule-table th,
+  .schedule-table td {
+    padding: 6px;
+  }
+}
