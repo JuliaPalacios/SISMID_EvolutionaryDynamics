@@ -79,7 +79,7 @@
       end:   "10:30 am"
       title: "XML hacking"
       lecturer: "Nicola"
-      slides: "https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2024-08-26-sismid_network_nfm.pdf?raw=true"
+      slides: "https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2023-07-14-xml_nfm.pdf?raw=true"
       tutorial: "https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Tutorials/XML-Tutorial.zip?raw=true"
     - start: "11:00 am"
       end:   "11:30 pm"
