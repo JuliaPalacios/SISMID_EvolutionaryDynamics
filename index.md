@@ -228,7 +228,7 @@ Also install:
 
 - Overview of BEAST2 packages: [doi:10.1371/journal.pcbi.1006650](https://doi.org/10.1371/journal.pcbi.1006650)
 - Decoding Genomes: [decodinggenomes.org](https://decodinggenomes.org/)
-- Review of phylodynamics (coalescent focus): [PLoS Comput Biol 100.2947](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002947)
+- Review of phylodynamics (coalescent focus): [PLoS Comput Biol 100.2947](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002947), [Statistical Challenges in Tracking the Evolution of SARS-CoV-2](https://projecteuclid.org/journals/statistical-science/volume-37/issue-2/Statistical-Challenges-in-Tracking-the-Evolution-of-SARS-CoV-2/10.1214/22-STS853.full)
 - Review of phylodynamics in livestock: [ScienceDirect S0169534721001300](https://www.sciencedirect.com/science/article/pii/S0169534721001300)
 
 ## Acknowledgements
