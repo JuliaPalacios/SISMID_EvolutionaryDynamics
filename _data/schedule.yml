@@ -5,7 +5,7 @@
       end:   "10:30 am"
       title: "Introduction to Bayesian Phylogenetics and BEAST"
       lecturer: "Julia"
-      slides: "https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2024-07-24_Introduction.pptx?raw=true"
+      slides: "https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2025-07-13_Introduction.pptx?raw=true"
     - start: "11:00 am"
       end:   "12:00 pm"
       title: "Getting BEAST2 to Run with SARS-CoV-2"
