@@ -81,6 +81,7 @@
       end:   "11:30 pm"
       title: "alternative approaches"
       lecturer: "Julia & Nicola"
+      slides: "https://github.com/JuliaPalacios/SISMID_EvolutionaryDynamics/blob/master/Lectures/2025-07-16_phylo_mapping.pptx?raw=true"
     - start: "11:30 am"
       end:   "12:00 pm"
       title: "Q&A and wrap-up"
