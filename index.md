@@ -13,7 +13,7 @@ In particular, the module will cover Bayesian Evolutionary Analysis by Sampling 
 
 ## Before the course
 
-Please install the newest version (2.7.7) of [BEAST2](https://www.beast2.org/) on the computer you plan to use. BEAST2 requires Java. If you encounter installation issues, post in the SISMID Slack channel `module-evolution-and-molecular-epi-of-viruses`.
+Please install the newest version (2.7.8) of [BEAST2](https://www.beast2.org/) on the computer you plan to use. BEAST2 requires Java. If you encounter installation issues, post in the SISMID Slack channel `jul15-viral-evolution`.
 
 Also install:
 - [Tracer 1.7.2](https://github.com/beast-dev/tracer/releases/tag/v1.7.2) to visualize MCMC traces.
