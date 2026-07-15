@@ -3,7 +3,7 @@
   sessions:
     - start: "12:30 pm"
       end:   "1:30 pm"
-      title: "Check-In & Lunch"
+      title: "Check-In"
     - start: "1:30 pm"
       end:   "3:00 pm"
       title: "Introduction to Bayesian Phylogenetics and BEAST"
